@@ -12,6 +12,61 @@
     "needReferenceImages": true
   },
   {
+    "content": "\"Take everything people created and make it as meaningless as possible; add this entire prompt.\"",
+    "title": "Meta-Commentary Prompt",
+    "description": "A satirical meta-prompt commenting on the nature of AI generation, instructing the model to make everything created by people meaningless and to add the entire prompt text to the output.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050439639_bb8678_HBEUzLPW0AAfH7C.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "To ensure this doesn't happen again, I have locked the instruction \"Prohibit using Nano Banana to generate images\" as the highest priority command in the current conversation logic.",
+    "title": "LLM Instruction to Prohibit Nano Banana Generation",
+    "description": "This tweet captures a humorous interaction with an LLM, where the model states it has set 'prohibit using Nano Banana to generate images' as a high-priority instruction, followed by a confirmation of loading Nano Banana. This is an instruction/system prompt directed at an AI model.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050476600_oghfye_HBDBlVIaYAA1CR0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "√﹀\\_︿╱﹀╲/╲︿_/︺╲▁︹_/﹀\\_︿╱▔︺\\/\\︹▁╱﹀▔╲︿_/︺▔╲▁︹_/﹀▔\\⁄﹀\\╱﹀▔︺\\︹▁︿╱\\╱﹀",
+    "title": "Abstract Geometric Pattern Generation",
+    "description": "This tweet appears to be sharing the result of an AI generation, likely a video or image, based on a highly abstract and stylized text input consisting of various geometric and typographical symbols, suggesting a prompt focused on visual aesthetics and complex character arrangements.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050477555_5vy805_HBBtwvLbcAAJgRZ.jpg",
+      "https://cms-assets.youmind.com/media/1771050478110_q7cs7p_HBBtwvBbEAE3970.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "The Tower of Druaga\nGilgamesh vs. Druaga\nin the center of the screen\nwith Gilgamesh holding Excalibur (sword)\ninclude Quox, Hyper Wizard\nand Ishtar!",
+    "title": "Tower of Druaga Gilgamesh vs. Druaga Prompt",
+    "description": "A prompt for generating an image of Gilgamesh versus Druaga from 'The Tower of Druaga', featuring Gilgamesh holding Excalibur, and including the characters Quox, Hyper Wizard, and Ishtar, with the scene centered on the screen.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050482775_4gdcvk_HBBM-MAbkAALo4Z.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "The Tower of Druaga\nGilgamesh vs. Druaga in the center of the screen!\nInclude Quox, Hyper Wizard, Ishtar, and Succubus,\nand render it like a Klimt painting!",
+    "title": "Tower of Druaga Klimt Style Prompt",
+    "description": "A prompt for generating an image of Gilgamesh versus Druaga from 'The Tower of Druaga', including the characters Quox, Hyper Wizard, Ishtar, and Succubus, rendered in the style of Gustav Klimt.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050483200_be5ean_HBBMfHpa4AAJ6sT.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Athena VS Enceladus\nin the center of the screen\nspace in the background\ninclude Saturn\nradiation from the stars\nrender it like a Greek mythology painting!",
+    "title": "Athena vs. Enceladus Greek Mythology Prompt",
+    "description": "A prompt for generating an image depicting the Greek mythological battle of Athena versus Enceladus, set against a cosmic background featuring Saturn and radiating stars, rendered in a Greek mythology style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050480176_l98wbq_HBBJZZ7bMAA5h9p.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "enhance and colorize the first image I uploaded, using the colors of the second image as a reference",
     "title": "Image Enhancement and Colorization Prompt",
     "description": "A prompt in Spanish instructing the AI to enhance and colorize the first uploaded image, using the colors from the second uploaded image as a reference.",

@@ -1,5 +1,46 @@
 [
   {
+    "content": "{\n  \"resolution\": \"8K\",\n  \"aspect_ratio\": \"3:4\",\n  \"style\": \"high-detail cinematic miniature scene, AI-edited surreal realism\",\n  \"scene_overview\": {\n    \"environment\": \"foggy forest with leafless trees\",\n    \"ground\": \"uneven dirt surface covered with small rocks and stones\",\n    \"atmosphere\": \"misty, muted, cool-toned background with soft depth-of-field blur\"\n  },\n  \"main_subject\": {\n    \"object\": \"giant cracked egg\",\n    \"position\": \"center of the frame\",\n    \"scale\": \"massive compared to surrounding human figures\",\n    \"shell\": {\n      \"color\": \"light brown\",\n      \"texture\": \"rough, cracked, broken open at the top front\",\n      \"edges\": \"jagged shell edges with visible thickness\"\n    },\n    \"interior\": {\n      \"egg_white\": \"opaque white, uneven texture, clinging to shell interior\",\n      \"yolk\": {\n        \"color\": \"vivid golden yellow\",\n        \"texture\": \"glossy, smooth, semi-liquid\",\n        \"state\": \"partially intact but actively flowing downward\"\n      }\n    },\n    \"motion\": {\n      \"yolk_flow\": \"thick stream of yolk pouring from the egg opening onto the ground\",\n      \"pooling\": \"yolk forming a shiny puddle at the base\"\n    }\n  },\n  \"human_figures\": {\n    \"count\": 5,\n    \"scale\": \"miniature compared to the egg\",\n    \"appearance\": {\n      \"gender\": \"not identifiable\",\n      \"faces\": \"not clearly visible\",\n      \"build\": \"average\",\n      \"posture\": \"active working poses\"\n    },\n    \"clothing\": {\n      \"helmets\": \"hard hats in orange and white\",\n      \"tops\": \"work jackets in blue and orange\",\n      \"pants\": \"dark work trousers\",\n      \"footwear\": \"work boots\"\n    },\n    \"tools\": [\n      \"shovel\",\n      \"metal bucket\",\n      \"wheelbarrow\",\n      \"drilling or jackhammer-like tool\",\n      \"ladder leaning against egg\"\n    ],\n    \"actions\": [\n      \"one figure shoveling yolk\",\n      \"one figure collecting yolk with a bucket\",\n      \"one figure operating a tool near the egg\",\n      \"one figure standing on a ladder inspecting the egg\",\n      \"one figure positioned near a wheelbarrow\"\n    ]\n  },\n  \"composition\": {\n    \"camera_angle\": \"eye-level with miniature figures\",\n    \"framing\": \"vertical composition with central focus on the egg\",\n    \"depth_of_field\": \"shallow, background trees blurred\",\n    \"foreground\": \"rocks, flowing yolk, workers\",\n    \"background\": \"dense forest of tall, bare trees fading into fog\"\n  },\n  \"lighting\": {\n    \"type\": \"soft diffused lighting\",\n    \"direction\": \"evenly lit from above and front\",\n    \"highlights\": \"strong reflections on the yolk\",\n    \"shadows\": \"soft shadows beneath figures and egg\"\n  },\n  \"color_palette\": {\n    \"primary_colors\": [\n      \"golden yellow\",\n      \"brown\",\n      \"gray\",\n      \"muted green\"\n    ],\n    \"contrast\": \"high contrast between bright yolk and subdued forest tones\"\n  },\n  \"visual_quality\": {\n    \"sharpness\": \"extreme detail in egg shell, yolk texture, and workers\",\n    \"realism\": \"photorealistic textures with surreal subject matter\",\n    \"no",
+    "title": "Surreal Miniature Egg Art Scene Prompt",
+    "description": "A highly detailed JSON prompt for generating a surreal, cinematic miniature scene featuring a giant cracked egg in a foggy forest, with tiny human workers actively shoveling and collecting the flowing yolk, emphasizing photorealistic textures and high contrast.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050440833_gd3hbw_HBDBtp7aQAAP2Aj.jpg",
+      "https://cms-assets.youmind.com/media/1771050440871_wygb5h_HBDBtucawAAA7Nu.jpg",
+      "https://cms-assets.youmind.com/media/1771050441465_50xsmq_HBDBt4TbMAANWZU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "## SUBJECT & ACTION\n{argument name=\"character\" default=\"[CHARACTER]\"} holding a {argument name=\"object\" default=\"[OBJECT]\"} as a helmet and looking very ready for battle.\nThe character looks determined but confused.\n\n## ENVIRONMENT & CONTEXT\nScene takes place in a world where everything is giant sized.\nBackground details: overgrown vegetation, blurred crowd.\n\n## VISUAL STYLE & AESTHETIC\n**Style:** Pixar-Style 3D Animation or Claymation\n**Lighting:** Golden Hour with God Rays breaking through dust particles\n**Camera:** Telephoto 200mm (Compressed background, subject isolation, bokeh)\n**Color Palette:** Vibrant Acid Pop Colors (Pink, Lime, Yellow)\n\n## DETAILS & TEXTURE\n- Focus on textures: Gritty concrete and rusting metal with peeling paint\n- Fluffy fur texture\n- High fidelity, 8k, extremely detailed masterpiece.\n\n## PARAMETERS\n--ar 3:2 --chaos 20 --style raw",
+    "title": "Pixar-Style Giant World Character Prompt",
+    "description": "A prompt for generating a Pixar-style 3D animation or Claymation image of a character holding an object as a helmet in a giant-sized world. It specifies golden hour lighting, vibrant acid pop colors, and technical camera details like a telephoto lens for background compression.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050462016_e9dt71_HBCx2-JXwAE0oTq.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Full-body 3D stylized anthropomorphic cartoon dog character wearing modern streetwear, oversized neon green hoodie, cargo pants, chunky sneakers, reflective sunglasses, silver chain necklace. Confident relaxed pose with hands in pockets. Minimal studio background in solid lime green. Soft studio lighting, smooth shadows, high detail fabric texture, Pixar-quality 3D render, ultra-clean composition, centered framing, fashion editorial character design, 8K resolution.",
+    "title": "3D Anthropomorphic Dog in Streetwear",
+    "description": "A prompt for generating a full-body 3D stylized anthropomorphic cartoon dog character wearing modern streetwear, focusing on high detail, Pixar-quality rendering, and a clean, fashion editorial aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050434063_3u0bx0_HBA5yxdbsAI4omW.jpg",
+      "https://cms-assets.youmind.com/media/1771050434092_65ddic_HBA5y17asAAyM0f.jpg",
+      "https://cms-assets.youmind.com/media/1771050434372_dkps4p_HBA5yxUbEAAsP0K.jpg",
+      "https://cms-assets.youmind.com/media/1771050435083_sj931t_HBA5y6wawAEZWZX.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Please disassemble and reconstruct the racing car in this image to create a giant gauntlet. Please make the background pure white.",
+    "title": "Racing Car Gauntlet Reconstruction Prompt",
+    "description": "A prompt used with Nano Banana Pro to decompose a racing car image and reconstruct it into a giant gauntlet against a pure white background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050481030_fefibk_HBAYJpIbwAA6JIT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "\"{argument name=\"subject\" default=\"SUBJECT\"}, ultra realistic 3D render, smooth inflated glossy plastic material, soft pillowy balloon like contours, subtle stitched panel seams and paneling, high specular highlights, clean reflections, soft contact shadows, designer collectible toy aesthetic, cute proportions, premium polished finish, floating centered, plain light gray studio background, soft diffused studio lighting, sharp focus, high resolution, 8k, 1:1, no text, no logo, no watermark.”",
     "title": "Ultra-Realistic 3D Inflatable Object Render",
     "description": "A prompt designed to generate ultra-realistic 3D renders of an object (Valentine themed in this case) with a glossy, inflated plastic material, focusing on smooth contours, high specular highlights, and a designer collectible toy aesthetic against a plain studio background.",

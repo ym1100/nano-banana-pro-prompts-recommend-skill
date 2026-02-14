@@ -1,5 +1,63 @@
 [
   {
+    "content": "Make the model wear the VR Headset (do not change the style of the VR Headset) https://t.co/C0Gd0pGg5T",
+    "title": "Integrate VR Headset onto Model",
+    "description": "A simple instruction prompt used to integrate a specific VR headset model onto a subject in an image, ensuring the device is worn naturally while preserving the original image's fabric textures and lighting consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050447522_0mo1hy_HBDZ_VbbwAEsfOS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Ultra-realistic premium product photography of a deep obsidian glass reed diffuser bottle labeled “MIDNIGHT OUD – Signature Reserve – NOIRÉ” in refined metallic gold serif lettering. The bottle features a tall, softly rounded square silhouette with beveled edges and a high-gloss mirror finish. A subtle embossed gold crest logo is positioned near the upper center, adding an understated luxury detail. Slim matte charcoal diffuser reeds rise elegantly from the neck.\nThe glass surface is coated with lifelike condensation and scattered water droplets, as though captured moments after a cool mist. The diffuser is nestled among dark crimson roses and scattered plum-toned petals, layered with lush emerald foliage that glistens with moisture. The setting feels rich and atmospheric, with a shadowy botanical backdrop softly fading into blur (shallow depth of field with creamy bokeh).\nLighting is dramatic and cinematic, featuring low-key illumination with gentle rim lighting to accentuate the curves of the bottle. Subtle cool hues, deep forest greens and midnight navy tones, create a mysterious, high-end ambiance. Metallic typography and the embossed crest catch delicate highlights for a sophisticated, luxury fragrance campaign feel.\nComposition: Vertical 4:5 portrait ratio, hero product centered and slightly angled for dimension. Foreground florals subtly frame the base of the bottle, while background foliage dissolves into darkness.\nTexture focus: Ultra-detailed condensation beads, reflective lacquered glass, velvety rose textures, and soft matte reeds.\nStyle: Luxury home fragrance advertising, macro photography aesthetic, 85mm lens, f/2 aperture, razor-sharp focus on product, dramatic contrast, rich shadows, ultra-photorealistic 8K detail, premium editorial finish.",
+    "title": "Luxury Reed Diffuser Product Photography Prompt",
+    "description": "An ultra-realistic prompt for premium product photography, focusing on a deep obsidian glass reed diffuser bottle with metallic gold labeling. The scene is dramatic and cinematic, featuring condensation, dark crimson roses, and lush foliage, using low-key lighting and shallow depth of field for a luxury fragrance campaign aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050467413_pzxehl_HBDDIkMa8AE0V3Z.jpg",
+      "https://cms-assets.youmind.com/media/1771050467371_zb9h1o_HBDDIjrbkAALB6r.jpg",
+      "https://cms-assets.youmind.com/media/1771050467413_14omz7_HBDDImJb0AAdufN.jpg",
+      "https://cms-assets.youmind.com/media/1771050468222_5y34ww_HBDDIo-aUAEqhX5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-hyper-detailed origami sculpture of a human character, meticulously hand-folded from premium artisan paper with ultra-crisp razor-sharp creases and visible fiber grain texture. Every fold forms precise geometric planes that sculpt the facial structure, posture, and emotional expression with mathematical symmetry. Complex layered tessellations and micro-fold patterns subtly define contours and depth.\nPaper surface features soft matte finish with delicate light diffusion — no black tones, strictly using the exact color palette of the reference photo, translated into layered paper gradients. Edges are clean and sharply defined, with subtle paper thickness visible along folds.\nPlaced on a minimalist high-end studio pedestal with a smooth neutral surface. Soft directional daylight from one side creates realistic falloff shadows and gentle ambient bounce light. Slight depth of field for premium product photography feel.\nLuxury designer collectible aesthetic — museum display quality, conceptual paper art installation, ultra-photorealistic macro detail, sharp focus, 8K resolution, 1080×1080 square composition, high dynamic range, cinematic lighting, global illumination, professional studio render.",
+    "title": "Ultra-Hyper-Detailed Origami Sculpture Prompt",
+    "description": "A highly detailed prompt for generating an ultra-photorealistic image of an origami sculpture of a human character, emphasizing crisp creases, geometric precision, specific paper texture, and luxury product photography aesthetics with cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050432799_oodyfi_HBCwTGbbYAAmZB3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Highly detailed retro-futurism {argument name=\"object name\" default=\"[OBJECT NAME]\"}, inspired by 1950s–1960s space-age design, aerodynamic silhouette, polished chrome elements, bold geometric accents, pastel tones, analog gauges and mechanical detailing, light surface aging for authenticity, positioned on an old wooden block with textured wood grain, isolated against a plain light {argument name=\"background color\" default=\"[BACKGROUND COLOR]\"} background, soft natural studio lighting, gentle shadows, shallow depth of field, professional product photography, ultra-realistic, 4k detail.",
+    "title": "Retro-Futuristic Product Photography Prompt",
+    "description": "A prompt template for generating highly detailed retro-futuristic objects, emphasizing 1950s–1960s space-age design, specific materials (chrome, pastel tones), and professional product photography settings with soft studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050434122_mievnx_HBB3TJ8WAAArAhz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Fashion editorial shoot of a woman in an elegant long red satin gown holding a bouquet of deep burgundy roses, minimal ivory studio background, wind effect in hair and fabric, high-fashion lighting, luxury magazine aesthetic.\n\nHigh-end Valentine’s Day perfume advertisement, crystal perfume bottle placed on a velvet red pedestal, surrounded by scattered rose petals and golden heart charms, soft pink mist swirling around the bottle, glossy reflective surface, dramatic spotlight, luxury editorial photography, rich red and gold palette, 1080x1080.",
+    "title": "Dual Valentine's Day Fashion and Product Prompts",
+    "description": "Two separate prompts for generating Valentine's Day themed images: one for a high-fashion editorial shoot of a woman in a red satin gown, and another for a luxury perfume advertisement featuring a crystal bottle on a velvet pedestal.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050441469_yhknw3_HBBNavGa0AACPNo.jpg",
+      "https://cms-assets.youmind.com/media/1771050441502_e4lv6o_HBBNZ-wbsAQEkAD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A high-quality professional product photography of a creative structural packaging design for {argument name=\"fruit name\" default=\"[Fruit Name]\"}. The packaging is made of premium corrugated cardboard, intricately crafted into the literal shape of a giant stylized {argument name=\"shape\" default=\"[Shape e.g. spherical, curved, elongated]\"} {argument name=\"fruit name 2\" default=\"[Fruit Name]\"}.\n\nThe exterior surface features a vibrant and sophisticated printed pattern of minimalist {argument name=\"pattern description\" default=\"[Pattern Description e.g. geometric hexagons, organic wavy lines, dotted stippling, botanical line-art, or horizontal ridges]\"}, mimicking the Natural Skin of the Fruit in a duo-tone palette of [Color 1] and [Color 2].\n\nFeatures clever die-cut windows that reveal the actual [Actual Product Inside] stored inside. Minimalist modern typography on the side saying \"[NAME]\". Includes eco-friendly details like a small recycling logo and a [3D Corrugated Cardboard Detail: Stem/green Leaf/Crown] on top. Soft studio lighting with gentle shadows, placed on a clean solid pastel [Background Color] background. 8k resolution, photorealistic, cinematic composition, industrial design aesthetic.",
+    "title": "Corrugated Cardboard Fruit Packaging Concept Prompt",
+    "description": "A prompt template for generating high-quality product photography of creative fruit packaging made from corrugated cardboard, intricately shaped like the fruit itself, featuring minimalist printed patterns and eco-friendly details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050443055_p4smk1_HBBLtEEbYAA05so.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "{\n  \"image_generation_request\": {\n    \"subject\": \"{argument name=\"product name\" default=\"PRODUCT\"}\",\n    \"product_finish\": {\n      \"primary\": \"matte black with subtle light absorption\",\n      \"secondary\": \"polished metallic silver with mirror-like reflections\",\n      \"treatment\": \"duotone — matte black body with metallic silver accents, trim, edges, or panel insets\"\n    },\n    \"composition\": {\n      \"placement\": \"dead center, full view, floating suspended within the folded surface environment\",\n      \"scale\": \"product occupies roughly 30-40% of the frame\",\n      \"constraints\": [\n        \"product must be entirely visible with no cropping\",\n        \"no pedestals, stands, platforms, or ground planes\",\n        \"the surface folds frame the product but never obscure more than 10% of it\",\n        \"product is the sharpest element in the scene\"\n      ]\n    },\n    \"background_environment\": {\n      \"description\": \"A single continuous undulating surface that fills the entire frame, folding over and around itself in large voluminous waves — like a massive sheet of pleated metallic silk or a single machined metal panel that has been softly twisted and draped. This is NOT multiple separate ribbons or strands. It is ONE connected surface.\",\n      \"base_color\": \"{argument name=\"deep background color\" default=\"INSERT DEEP BACKGROUND COLOR visible in crevices — e.g. pure black, midnight navy\"}\",\n      \"surface_color_1\": \"{argument name=\"gradient color A\" default=\"INSERT GRADIENT COLOR A — e.g. soft lavender, warm copper, pearl rose\"}\",\n      \"surface_color_2\": \"[INSERT GRADIENT COLOR B — e.g. deep indigo, cobalt blue, violet]\",\n      \"color_behavior\": \"The two colors blend in a smooth continuous gradient across the single surface, shifting based on the surface's curvature and light angle. Where the surface faces the light it shows color_1, where it curves away it transitions to color_2. The transition is seamless with no hard edges or stripes.\",\n      \"surface_texture\": {\n        \"type\": \"fine parallel ribs embossed into the surface — like the grooves on a vinyl record or finely pleated accordion fabric\",\n        \"rib_description\": \"extremely fine, uniform, tightly spaced parallel lines that follow the flow direction of the surface. The ribs are a TEXTURE on the surface, not separate objects. They create a subtle corrugated micro-relief that catches light along each tiny ridge.\",\n        \"rib_density\": \"very high — approximately 50-100 visible lines per inch of surface, creating a dense linear grain\",\n        \"rib_depth\": \"shallow — the ribs are subtle surface detail, not deep cuts. They create gentle highlight-shadow alternation across the surface\"\n      },\n      \"surface_form\": {\n        \"fold_style\": \"large, smooth, voluminous folds like draped heavy silk — broad sweeping curves with gentle twists\",\n        \"fold_count\": \"3-5 major folds visible, each one wide and generous, NOT many small tangled ribbons\",\n        \"fold_behavior\": \"folds overlap softly, tucking under and over each other with smooth transitions. Where folds meet they create dee\"",
     "title": "Chrome Ripple Flow Product Photography Prompt",
     "description": "A complex product photography prompt focusing on generating a floating product with matte black and metallic silver finishes, centrally placed within a single, continuous, undulating background surface featuring a fine ribbed texture and a seamless duotone color gradient.",

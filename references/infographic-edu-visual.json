@@ -51,6 +51,38 @@
     "needReferenceImages": false
   },
   {
+    "content": "Evolution of Manga --> <LAYOUT> A single chunky block (like a museum cutaway) sliced to reveal 4 stacked floors/strata. Each level represents an era/stage/version inferred from INPUT. Right side: a vertical legend bar with dates/period labels inferred by the model. </LAYOUT>\n<INFER_AND_RENDER> Infer 4 major phases and depict each with representative artifacts, tools, and environments. Keep transitions educational: show what changed between levels (materials, scale, method). </INFER_AND_RENDER>\n<STYLE_NOTES> Architectural section realism: visible thickness, rebar/fasteners if applicable, realistic debris at cut edge. </STYLE_NOTES>",
+    "title": "Manga Evolution Architectural Section Prompt",
+    "description": "A structured prompt designed to generate an image depicting the 'Evolution of Manga' as a detailed architectural section, showing four stacked strata representing different phases, complete with representative artifacts and educational transitions, rendered with architectural realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050435772_gwth03_HA2ZyjGaAAI9SI-.jpg",
+      "https://cms-assets.youmind.com/media/1771050436487_o2ug9k_HA2Zv_zWgAA9rEr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Detailed hand-drawn pencil sketch of a futuristic minimalist VR headset inspired by Dieter Rams Braun designs, clean functional lines, no unnecessary details. Matte white low-profile headset with gently curved rectangular visor, front face featuring a precise grid of small circular perforations (dots) for ventilation and speaker aesthetic. Slim diagonal top strap crossing from one side to the other at an angle for ergonomic fit, integrated seamlessly. Rear section with soft padded cushions visible on the back of the head area for comfort. Simple side profile and three-quarter views shown, light shading for depth, subtle hatching for materials, technical design drawing style on white paper, precise yet understated, industrial design concept sketch.",
+    "title": "Dieter Rams Inspired VR Headset Sketch",
+    "description": "A prompt for generating a detailed, hand-drawn pencil sketch of a futuristic, minimalist VR headset inspired by Dieter Rams' Braun designs, focusing on clean lines, functional details like perforations, and light shading in a technical design drawing style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050457581_1e3cjp_HBDZ5bubcAATLBr.jpg",
+      "https://cms-assets.youmind.com/media/1771050457912_0u2tqa_HBDZ5rSakAMKS6a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "An architectural floor plan of {BUILDING_TYPE} spread across a drafting table, with the spaces rising into inhabitable miniature. {ROOM_1} emerges with {FURNITURE_1} and {ACTIVITY_1} in progress, {ROOM_2} rises with {DESIGN_ELEMENT} and {HUMAN_MOMENT}, {ROOM_3} pushes up with {DETAIL_1} and {LIGHTING_1}. Walls exist as both lines and actual partitions simultaneously. Sight lines marked on the plan become actual views between spaces. The mechanical systems in the plan—HVAC, plumbing, electrical—pulse with invisible function. Human circulation patterns appear as ghosted movement trails. Architectural scale figures become actual tiny inhabitants living their tiny lives. Section cuts reveal vertical relationships. The architect's tools surround: scales, pencils, trace paper. Golden design studio light, the plan as promise and proof, 8K, architecture as life container.",
+    "title": "Architectural Floor Plan as Miniature World",
+    "description": "A complex prompt for generating an image that visualizes an architectural floor plan spread across a drafting table, where the spaces rise into inhabitable miniature rooms, showing human moments and technical details like HVAC and circulation patterns, blending the plan and the 3D model simultaneously.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050449884_hcov06_HBDTYb-XMAARwNo.jpg",
+      "https://cms-assets.youmind.com/media/1771050450035_0tk9cf_HBDTKRpWgAckB5A.jpg",
+      "https://cms-assets.youmind.com/media/1771050449999_p2fyx6_HBDTP0lWgAUbyLE.jpg",
+      "https://cms-assets.youmind.com/media/1771050450755_121dzn_HBDTgAfW0AAIK12.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "{\n  \"objective\": \"Create a side-by-side visual comparison ofHagia Sophia, featuring a technical architectural sketch and a real-life photograph\",\n  \"image_specifications\": {\n    \"style\": \"Mixed media (Architectural drawing + Real photography)\",\n    \"layout\": \"2-part horizontal split\",\n    \"aspect_ratio\": \"3:2\"\n  },\n  \"left_side\": {\n    \"content_type\": \"Technical sketch or blueprint of the selected World Wonder\",\n    \"features\": [\n      \"Accurate structural proportions\",\n      \"Labeled dimensions depth\",\n      \"Architectural elevation views or cutaways\",\n      \"Text annotations in native or English language\"\n    ],\n    \"text_annotations\": {\n      \"units\": \"Metric or imperial, based on region\",\n      \"details\": [\n        \"Construction phases\",\n        \"Material notes\",\n        \"Architectural labels\"\n      ],\n      \"font_style\": \"Engineering or blueprint-styled text\"\n    },\n    \"visual_style\": \"Monochrome, line art, or sepia blueprint\",\n    \"positioning\": \"Left half of the image\"\n  },\n  \"right_side\": {\n    \"content_type\": \"High-resolution real-world image of the selected World Wonder\",\n    \"features\": [\n      \"Wide-angle view or frontal perspective\",\n      \"Natural or ambient lighting\",\n      \"Color photo with environment context surroundings\"\n    ],\n    \"positioning\": \"Right half of the image\"\n  },\n  \"visual_elements\": {\n    \"border_division\": \"Clean vertical split or blended transition\",\n    \"comparison_focus\": \"Contrast between design concept and real-world result\"\n  },\n  \"output_format\": {\n    \"type\": \"Image\",\n    \"high_resolution\": true,\n    \"use_case\": [\n      \"Educational poster\",\n      \"Architectural showcase\",\n      \"Tourist guide\",\n      \"Infographic series\"\n    ]\n  },\n  ]",
     "title": "Side-by-Side Architectural Comparison of Hagia Sophia",
     "description": "A JSON prompt designed to generate a side-by-side image comparing the Hagia Sophia, featuring a technical architectural sketch on the left and a high-resolution, real-world photograph on the right, suitable for educational or architectural showcase use.",

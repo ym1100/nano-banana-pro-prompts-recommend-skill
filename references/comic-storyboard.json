@@ -1,5 +1,27 @@
 [
   {
+    "content": "Evolution of Manga --> <LAYOUT> A single chunky block (like a museum cutaway) sliced to reveal 4 stacked floors/strata. Each level represents an era/stage/version inferred from INPUT. Right side: a vertical legend bar with dates/period labels inferred by the model. </LAYOUT>\n<INFER_AND_RENDER> Infer 4 major phases and depict each with representative artifacts, tools, and environments. Keep transitions educational: show what changed between levels (materials, scale, method). </INFER_AND_RENDER>\n<STYLE_NOTES> Architectural section realism: visible thickness, rebar/fasteners if applicable, realistic debris at cut edge. </STYLE_NOTES>",
+    "title": "Manga Evolution Architectural Section Prompt",
+    "description": "A structured prompt designed to generate an image depicting the 'Evolution of Manga' as a detailed architectural section, showing four stacked strata representing different phases, complete with representative artifacts and educational transitions, rendered with architectural realism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050435772_gwth03_HA2ZyjGaAAI9SI-.jpg",
+      "https://cms-assets.youmind.com/media/1771050436487_o2ug9k_HA2Zv_zWgAA9rEr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "1: The back view of this character (diagonal rear)\n2: The beautiful profile of this character (right side)\n3: The upper body, diagonal rear view of this character (diagonal rear)\n4: Close-up profile of this character's face",
+    "title": "Character Pose Variation Prompt",
+    "description": "A prompt used with Nano Banana Pro to generate four different views/poses of a character, starting from a frontal image, allowing for seamless video connection. This prompt is designed to create variations of an existing subject.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771050477832_hbrbg8_HBDBULvaEAAechi.jpg",
+      "https://cms-assets.youmind.com/media/1771050477842_luu35y_HBDBXCZbwAAgO_A.jpg",
+      "https://cms-assets.youmind.com/media/1771050477951_dhjw0h_HBDBWKwacAAMCzV.jpg",
+      "https://cms-assets.youmind.com/media/1771050478876_bedssa_HBDBcD9acAAOGY2.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "{\n\"style_name\": \"Surreal Rubber-Hose Ink\",\n\"Subject\": \"{argument name=\\\"Subject\\\" default=\\\"[SUBJECT]\\\"}\",\n\"prompt_structure\": {\n\"prefix\": \"A subject designed in a surreal 1930s rubber hose animation style.\",\n\"core_aesthetic\": \"Hand-drawn black and white ink illustration, clean white background.\",\n\"shading_technique\": \"High-contrast line art, heavy use of cross-hatching and stippling for shading.\",\n\"character_features\": \"Melting and dripping aesthetic, wide toothy grins, hollow black eyes.\",\n\"vibe\": \"Vintage underground comic, minimalist but detailed textures, clean outlines.\",\n\"full_composite_prompt\": \"Designed in a surreal 1930s rubber hose animation style. Hand-drawn black and white ink illustration on a clean white background. Features high-contrast line art with heavy use of cross-hatching and stippling for shading. The character has a melting, dripping aesthetic, wide toothy grins, and hollow black eyes. Vintage underground comic vibe, minimalist but detailed textures, clean outlines.\"\n},\n\"negative_prompt\": \"color, gradients, 3d render, photo, realistic, grey tones, blurry, messy lines, background scenery, cropped, out of frame, cut off\",\n\"recommended_settings\": {\n\"aspect_ratio\": \"1:1\",\n\"color_palette\": \"Monochrome / Black and White\"\n}\n}",
     "title": "Surreal Rubber-Hose Ink Style Illustration",
     "description": "A detailed JSON prompt for generating a black and white illustration in the surreal 1930s rubber hose animation style. The prompt emphasizes high-contrast line art, heavy cross-hatching/stippling, and specific character features like a melting/dripping aesthetic, wide toothy grins, and hollow black eyes, aiming for a vintage underground comic vibe.",
