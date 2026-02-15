@@ -1,5 +1,14 @@
 [
   {
+    "content": "Generate a TVC 3D cinematic with this storyboard. Following the exact frames, telling a story of A translucent blue glass horse figurine adorned with traditional floral engravings awakens in a stylized blue world, transforms through light into radiant gold, and gallops into a golden sunset landscape. Duration: ~15–20 seconds. Style: 3D cinematic, glossy translucent materials, volumetric lighting.",
+    "title": "Glass Horse Figurine Transformation Cinematic (Video Prompt)",
+    "description": "A prompt for generating a 15-20 second 3D cinematic video based on a storyboard, showing a translucent blue glass horse figurine transforming into radiant gold as it gallops into a golden sunset landscape, emphasizing glossy materials and volumetric lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771137202467_1s5cjc_HBGeqADbkAE7bws.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Evolution of Manga --> <LAYOUT> A single chunky block (like a museum cutaway) sliced to reveal 4 stacked floors/strata. Each level represents an era/stage/version inferred from INPUT. Right side: a vertical legend bar with dates/period labels inferred by the model. </LAYOUT>\n<INFER_AND_RENDER> Infer 4 major phases and depict each with representative artifacts, tools, and environments. Keep transitions educational: show what changed between levels (materials, scale, method). </INFER_AND_RENDER>\n<STYLE_NOTES> Architectural section realism: visible thickness, rebar/fasteners if applicable, realistic debris at cut edge. </STYLE_NOTES>",
     "title": "Manga Evolution Architectural Section Prompt",
     "description": "A structured prompt designed to generate an image depicting the 'Evolution of Manga' as a detailed architectural section, showing four stacked strata representing different phases, complete with representative artifacts and educational transitions, rendered with architectural realism.",

@@ -1,5 +1,26 @@
 [
   {
+    "content": "Motion Prompt: The food start to round spin while ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, with no extra effects.\n\nImage 1: Cinematic frame from a high-end food commercial showing the same tacos, preserved exactly. Warm dramatic lighting, shallow depth, soft motion-like steam, luxurious blurred background, ultra-premium ad quality.\n\nImage 2: Cinematic exploded visualization with spotlight effect, bold modern labels, rich gradient background, sleek commercial presentation style.",
+    "title": "Exploded Tacos Commercial Visualization",
+    "description": "A dual-part prompt for generating a motion sequence and two high-end commercial images of tacos. The motion prompt specifies a precise, smooth separation of ingredients, while the image prompts detail cinematic lighting, shallow depth of field, and a sleek exploded visualization style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771137194492_45d740_HBHLpN3akAEHg7b.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"scene\": \"Ultra-Luxury Food Commercial\",\n  \"subject\": {\n    \"item\": \"American Pancakes\",\n    \"attributes\": [\"thick\", \"fluffy\", \"golden-brown edges\"],\n    \"stack_count\": 4,\n    \"toppings\": {\n      \"syrup\": \"Pure maple, slow-motion cascade, glossy drips\",\n      \"fruit\": [\"blueberries\", \"raspberries\", \"blackberries\"],\n      \"nuts\": [\"roasted hazelnuts\", \"almonds\"],\n      \"texture_add\": \"crunchy oat flakes\"\n    }\n  },\n  \"action\": {\n    \"interaction\": \"Golden ornate spoon taking a delicate bite\",\n    \"physics\": \"realistic syrup surface tension and stretching\"\n  },\n  \"environment\": {\n    \"plating\": \"minimalistic, high-end\",\n    \"background\": \"soft beige bokeh\",\n    \"lighting\": \"rich warm morning light, volumetric\"\n  },\n  \"cinematography\": {\n    \"camera_angle\": [\"cinematic close-up\", \"circling\", \"slight top-down\"],\n    \"depth_of_field\": \"f/1.8 (shallow)\",\n    \"motion\": \"smooth tracking\",\n    \"rendering\": [\"hyper-detailed textures\", \"ultra-realistic\", \"8k resolution\"]\n  },\n  \"aesthetic_tags\": [\n    \"trending food photography\",\n    \"mouthwatering\",\n    \"indulgent\",\n    \"commercial-grade\"\n  ]\n}",
+    "title": "Ultra-Luxury Pancake Commercial Scene",
+    "description": "A highly structured prompt designed for generating an ultra-realistic, cinematic food commercial still image featuring a stack of American pancakes with cascading maple syrup and various toppings, emphasizing specific lighting, camera angles, and hyper-detailed textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771137194992_xybrb3_HBG0B3qakAIZuU2.jpg",
+      "https://cms-assets.youmind.com/media/1771137195005_fhlack_HBG0BilbQAAZ3Fc.jpg",
+      "https://cms-assets.youmind.com/media/1771137195476_vik5im_HBG0Bn0akAAVtmP.jpg",
+      "https://cms-assets.youmind.com/media/1771137195982_fyt6pw_HBG0B78akAArlmm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Generate a cinematic video focused on Japanese cuisine, consisting of four seamlessly connected cuts.\n\nThe first cut should be a close-up, carefully capturing cooking sounds, the rhythm of the knife, and the movement of hands touching the ingredients, starting with ASMR-like sound design that emphasizes steam and ingredient textures. The camera should use shallow depth of field and slow motion to naturally guide the viewer from the hands to the woman's gestures, showing her cuteness through small movements like subtle surprise or a gentle smile. Transition smoothly from here using match cuts or pans.\n\nThe second cut is a mid-shot of plating, beautifully capturing the movement of chopsticks and the moment ingredients are placed on the dish, emphasizing the delicate sounds of the dish and ingredients resonating, highlighting charm through carefulness and affection.\n\nThe subsequent cut uses an overhead composition to show the overall view of the finished dish, with the camera slowly zooming in, capturing the moment the woman takes a bite in a close-up, delicately capturing her breathing and subtle reactions to invite viewer empathy.\n\nThe final part connects to a warm interaction across the table, using a soft pan and crossfade to leave a lingering impression, subtly mixing laughter and fragments of conversation to express intimacy. The color tone should be filmic and warm-leaning, with natural lighting that keeps highlights gently suppressed. The music should be minimalist piano with Japanese instrument accents, and sound effects should carefully mix cooking and eating sounds to enhance realism. The overall tempo should be relaxed, prioritizing the natural connection of each cut's end to the next beginning through sound and movement.",
     "title": "Seamless Cinematic Japanese Food Video Prompt",
     "description": "A comprehensive, cinematic prompt used to generate a 4-cut video focused on Japanese cuisine, emphasizing ASMR elements, smooth transitions (match cuts/pans), warm lighting, and a minimalist piano soundtrack with Japanese instrument accents. The prompt was used for both image generation (Nano Banana Pro) and video generation (Kling 3.0 Omni).",

@@ -12,6 +12,24 @@
     "needReferenceImages": true
   },
   {
+    "content": "SURREAL NATURE SCENE — RENAISSANCE OIL PAINTING STYLE (MODULAR)\n\nSCENE TYPE / SETTING\nA vast mythic natural valley rendered as a grand Renaissance landscape, with monumental cliffs, winding rivers, and layered atmospheric distance arranged with classical painterly balance and geometric harmony.\nPRIMARY FOCAL SUBJECT\nAt the center stands a serene circular lake shaped like a perfect mirror, from which rises a small sacred island crowned by an elegant marble pavilion partly reclaimed by nature, serving as the compositional anchor.\nSURREAL NATURAL ELEMENTS\nThe lake reflects not the sky above but an entirely different celestial scene; distant hills gently fold upward like draped fabric; flocks of birds freeze mid-flight in calm suspended formations, reinforcing dreamlike stillness.\nFLORA / ENVIRONMENTAL DETAIL\nForeground filled with highly observed Renaissance-style botanical detail: wildflowers, ivy-covered stones, twisting olive trees, soft meadow grasses, and carefully painted natural textures emphasizing observational realism.\nLIGHTING / RENAISSANCE ATMOSPHERE\nWarm late-afternoon golden illumination with classical Renaissance chiaroscuro; soft directional sunlight from one side, long shadows, glowing horizon haze, gentle atmospheric perspective, and subtle divine-style sky radiance.\nCOLOR PALETTE\nTraditional oil painting palette using earthy umbers, warm ochres, muted forest greens, deep ultramarine sky tones, soft flesh-like warm highlights, and restrained natural pigments consistent with historical Renaissance paintings.\nCOMPOSITION / CAMERA LOGIC\nClassical Renaissance triangular composition: detailed botanical foreground, midground sacred island focal point, distant layered mountains fading into atmospheric haze; horizon placed slightly high for landscape dominance.\nRENDER STYLE / MATERIAL EXECUTION\nHighly detailed Renaissance oil painting execution with visible brushwork texture, layered glazing, soft pigment blending, subtle canvas grain, historical masterwork aesthetic, contemplative sacred-natural mood, timeless and poetic rather than fantastical chaos.",
+    "title": "Surreal Nature in Renaissance Oil Painting Style",
+    "description": "A detailed, modular prompt for generating a surreal nature scene rendered in the style of a grand Renaissance oil painting, focusing on classical composition, chiaroscuro lighting, specific botanical details, and a contemplative, timeless mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771137198771_jctous_HBIz97gbMAATHnG.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A deer made entirely of autumn leaves — head, body, legs, ears, tail, and antlers fully formed from layered fall leaves. The leaf-deer is sleeping peacefully at night under a wide, star-filled sky. Countless bright stars shine above, with soft moonlight gently illuminating the deer and the natural landscape around it. Calm, silent atmosphere, ultra-realistic details, cinematic night lighting, magical yet clear and sharp scene.",
+    "title": "Surreal Deer Made of Autumn Leaves",
+    "description": "A prompt for generating an ultra-realistic, magical scene of a deer constructed entirely from autumn leaves, sleeping peacefully under a star-filled night sky with soft moonlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771137207487_wvtue4_HBF2WNdakAEZefO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "\"Take everything people created and make it as meaningless as possible; add this entire prompt.\"",
     "title": "Meta-Commentary Prompt",
     "description": "A satirical meta-prompt commenting on the nature of AI generation, instructing the model to make everything created by people meaningless and to add the entire prompt text to the output.",

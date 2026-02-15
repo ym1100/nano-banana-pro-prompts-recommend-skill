@@ -1,5 +1,37 @@
 [
   {
+    "content": "Task: Ultra-close macro hero shot of a {argument name=\"subject\" default=\"SUBJECT\"} as premium optical cast glass with diagonal light-band shadows, stronger rainbow caustics, and clean readable high-detail areas (no refraction “mush”). Subject is FULLY visible and NOT cropped. The subject is placed on the surface or floating in the air at a low altitude above the surface.\nStyle: Photoreal luxury product; seamless blue-gray gradient background #9FAFBC (cool, slightly blue, low saturation); glossy reflective plane; smooth clear optical glass with crisp edges, controlled internal highlights, subtle star glints; pronounced caustic streaks + vivid prismatic rainbow arcs cast onto the surface from the subject.\nFraming: extreme close-up, subject fills ~90–95% of the frame, fully visible and not cropped.\nReadability (fix mush): preserve crisp facial/edge details—minimize internal warping, lensing, and overlapping caustic patterns on fine features; keep the interior visually “quiet” so the surface sculpt reads clean.\nOptical control: low-distortion, low-aberration glass look (reduced dispersion inside the object) with strong external caustics on the surface.\nLighting: broad diagonal soft light bands; long soft cast shadow with smooth penumbra; rainbow caustics should be stronger and more numerous around the base and across the floor. Clean white color.\nEnvironment control: seamless studio only; gray/black flags controlling reflections; no window/room elements.\nNegative prompt: excessive refraction, heavy distortion, lens effect, warped facial features, chaotic highlights, milky/foggy glass, random reflections, window, interior, wall corner, faceted, polygonal, low poly, text, watermark, clutter",
+    "title": "Macro Hero Shot of Optical Cast Glass Object with Caustics",
+    "description": "A highly technical prompt for generating an ultra-close macro hero shot of a specified subject rendered as premium optical cast glass, focusing on controlled internal highlights, strong rainbow caustics cast onto the surface, and preserving crisp edge details without distortion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771137201725_ivabrq_HBIWOOIXUAE6yom.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-realistic commercial product photography of a pastel {argument name=\"soda color\" default=\"peach\"}-colored soda can labeled “OLIPOP – {argument name=\"flavor\" default=\"Peaches & Cream\"}” placed upright in the center, surrounded tightly by fresh whole peaches at the bottom and large transparent ice cubes stacked around and partially covering the top of the can, heavy condensation droplets covering the can and fruit, tiny carbonation bubbles visible on the peaches, crushed ice texture with sharp edges and frosty highlights, soft diffused studio lighting.",
+    "title": "Ultra-Realistic Product Photography of OLIPOP Soda Can",
+    "description": "A prompt for generating ultra-realistic commercial product photography focusing on a pastel peach-colored soda can surrounded by fresh peaches and large, highly detailed ice cubes, emphasizing condensation, carbonation bubbles, and soft diffused studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771137195753_bgfnt4_HBH-uiOa0AAOC4p.jpg",
+      "https://cms-assets.youmind.com/media/1771137195782_oh4xra_HBH-ukhawAAyv7P.jpg",
+      "https://cms-assets.youmind.com/media/1771137195753_hr3um5_HBH-uiTakAQ2rfA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Ultra-realistic underwater luxury skincare advertisement.\nA matte turquoise lip treatment tube standing upright, slightly angled, centered in frame. The tube is smooth soft-touch plastic with subtle specular highlights and realistic surface texture. Vertical elegant white typography reading “MODA SKIN” and smaller text near the bottom “Lip Treatment 15 ml”. Text is sharp, clean, and perfectly legible.\nThe product is placed among dense, bioluminescent coral reef formations in shades of teal, aqua, blue, and violet. Coral branches surround the tube naturally without covering the label. Several translucent jellyfish float around the product at different depths, softly glowing, with delicate semi-transparent tentacles.\nOcean floor visible at bottom with sandy texture and realistic underwater caustic light patterns. Strong volumetric god rays shining from the water surface above. Cinematic underwater lighting, high contrast, deep blue atmosphere, subtle haze for depth. Sharp focus on product, shallow depth of field on background coral.\nLuxury skincare commercial style, hyper-detailed, photorealistic, global illumination, physically accurate underwater light refraction, 8k resolution, macro product photography.",
+    "title": "Underwater Luxury Skincare Product Ad",
+    "description": "An ultra-realistic prompt for generating a macro product advertisement for a matte turquoise lip treatment tube, placed underwater among bioluminescent coral reefs, emphasizing physically accurate light refraction, god rays, and luxury commercial style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771137192721_1drv56_HBHlTOiakAA95VP.jpg",
+      "https://cms-assets.youmind.com/media/1771137192767_h16d7d_HBHlTPHaQAAoCmg.jpg",
+      "https://cms-assets.youmind.com/media/1771137192788_fmd6g8_HBHlTOkbIAAQQ4W.jpg",
+      "https://cms-assets.youmind.com/media/1771137194370_2miu6h_HBHlTO6aYAA97LH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Make the model wear the VR Headset (do not change the style of the VR Headset) https://t.co/C0Gd0pGg5T",
     "title": "Integrate VR Headset onto Model",
     "description": "A simple instruction prompt used to integrate a specific VR headset model onto a subject in an image, ensuring the device is worn naturally while preserving the original image's fabric textures and lighting consistency.",
