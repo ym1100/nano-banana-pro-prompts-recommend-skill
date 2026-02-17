@@ -1,5 +1,17 @@
 [
   {
+    "content": "2x2 grid showing identical [{argument name=\"object or scene\" default=\"OBJECT/SCENE\"}] across four seasons. Top-left spring (cherry blossoms, soft pastels), top-right summer (golden light, vibrant greens), bottom-left autumn (orange leaves, warm tones), bottom-right winter (snow, blue twilight). Seamless aesthetic, same camera angle, cinematic lighting each panel.",
+    "title": "Seasonal Transformation Grid",
+    "description": "A prompt template for generating a 2x2 grid showing the same object or scene transformed across the four seasons (Spring, Summer, Autumn, Winter), maintaining a seamless aesthetic and consistent camera angle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771310079634_278gq0_HBT0rq3bcAMeCHF.jpg",
+      "https://cms-assets.youmind.com/media/1771310079735_nlkcd5_HBT0xm1bEAAepVS.jpg",
+      "https://cms-assets.youmind.com/media/1771310079770_63tpm7_HBT016CacAA6g3s.jpg",
+      "https://cms-assets.youmind.com/media/1771310080753_7f6e9o_HBT06t7XwAAVXyL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Motion Prompt: The food start to round spin while ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, with no extra effects.\n\nImage 1: Cinematic frame from a high-end food commercial showing the same tacos, preserved exactly. Warm dramatic lighting, shallow depth, soft motion-like steam, luxurious blurred background, ultra-premium ad quality.\n\nImage 2: Cinematic exploded visualization with spotlight effect, bold modern labels, rich gradient background, sleek commercial presentation style.",
     "title": "Exploded Tacos Commercial Visualization",
     "description": "A dual-part prompt for generating a motion sequence and two high-end commercial images of tacos. The motion prompt specifies a precise, smooth separation of ingredients, while the image prompts detail cinematic lighting, shallow depth of field, and a sleek exploded visualization style.",

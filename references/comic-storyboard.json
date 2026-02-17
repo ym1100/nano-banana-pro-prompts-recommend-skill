@@ -1,5 +1,14 @@
 [
   {
+    "content": "3D Pixar-style animated girl shown in a 6-panel grid, same character with short brown hair and big blue eyes, different emotions (happy, shocked, angry, caring, confident, thumbs up), colorful solid backgrounds (yellow, blue, red, pink, purple, green), soft studio lighting, smooth 3D render, vibrant colors, ultra-detailed, 4K, animated movie quality.",
+    "title": "Pixar Style Character Expression Grid",
+    "description": "A prompt for converting an image into a Pixar-style animated character, generating a 6-panel grid showing the same character with different emotions (happy, shocked, angry, caring, confident, thumbs up) against colorful solid backgrounds, emphasizing smooth 3D render quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771310086398_7f1k62_HBTBVIiawAA3BKI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "A cinematic 9-panel storyboard sheet arranged in a 3x3 grid. A sequential visual narrative expanding on the context of the input image. Dynamic variety of perspectives, diverse camera angles, changing focal points, and atmospheric storytelling. Consistent character, lighting, and film grain. High-resolution stills. No borders. plot: {argument name=\"plot description\" default=\"[optional]\"}",
     "title": "9-Panel Cinematic Storyboard Generation Prompt",
     "description": "A prompt for Nano Banana Pro that uses an input image as a reference to generate a sequential, 9-panel cinematic storyboard sheet (3x3 grid). It emphasizes dynamic perspectives, diverse camera angles, consistent character/lighting, and high-resolution stills without borders.",
