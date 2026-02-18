@@ -1,5 +1,23 @@
 [
   {
+    "content": "3–4 identical units of the product floating in mid-air, surrounded by fresh {argument name=\"ingredient type\" default=\"fruit/vegetable\"} and sliced pieces that the product is made from, ingredients suspended around the product, dynamic balanced composition, ultra-clean pure white background, no gradients, no color cast, soft studio lighting, realistic soft shadows beneath floating objects, glossy packaging reflections, juicy ingredient textures, premium skincare editorial style, hyper-realistic product photography, macro detail, sharp focus, commercial advertising quality, minimal composition, 8k, 1:1",
+    "title": "Floating Product Photography Ad",
+    "description": "A prompt template for generating hyper-realistic product photography for a commercial ad, featuring 3-4 identical units of a product floating mid-air, surrounded by the fresh ingredients it is made from, set against a pure white background with soft studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771396586227_w298px_HBZNFC-X0AACfaI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Luxury skincare serum diorama\nLAYOUT: Single hero, miniature concert hall within a perfume bottle\nDIRECTION: Vertical, rising elegance, intricate details\nBACKGROUND: Opulent miniature concert hall, velvet textures, soft bokeh\nPRODUCT: Voluptuous Korean woman conductors and musicians in shimmering couture performing in a serum pool within the perfume bottle, porcelain skin, long silky hair, sultry gazes, graceful poses, jeweled instruments\nDYNAMIC: Cascading serum droplets, floating musical notes, subtle mist\nTONE: Tone-on-tone, blush rose and champagne gold palette\nSTYLE: Soft, luxurious, K-beauty aesthetic, macro photography, couture fashion editorial\nMAIN ELEMENT:\nA scaled-down world inside a Chanel No. 5 perfume bottle, crystal-clear serum forming a pool, miniature rose bushes and glowing flora, miniature musicians playing harps, violins, and cellos, and a woman conductor standing poised.\nDYNAMIC ELEMENTS:\nDroplets of serum cascading like waterfalls, musical notes gently floating, subtle golden mist adding a magical touch, fabric flow from the silk gowns.\nCAMERA: Shot on Hasselblad X2D, 85mm f/1.2, Rembrandt lighting, shallow depth of field.\nStyle keywords: enchanting, voluptuous, luxurious, K-beauty, miniature, diorama, couture.",
+    "title": "Luxury Skincare Diorama in a Perfume Bottle",
+    "description": "A highly detailed, couture-style prompt for generating a macro photograph of a luxury skincare serum diorama, featuring miniature Korean women musicians and a conductor performing in a serum pool inside a Chanel No. 5 perfume bottle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771396569473_xvzwoz_HBXEy1DagAE3HcP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Ultra-premium commercial product photo of a futuristic flagship smartphone floating above a reflective surface. Three-quarter angle, sleek metallic edges, edge-to-edge display glowing softly. Dramatic studio lighting, dark gradient background, subtle light streaks, ultra-clean reflections, premium tech advertising style.\n\nImage 2: Exploded-view visualization showing internal components separated vertically — glass display, battery, processor chip, camera module, chassis - each labeled with bold sans-serif blocks, neon-accent color coding, clean connectors, dark tech background.",
     "title": "Ultra-Premium Futuristic Smartphone Product Photo",
     "description": "A detailed prompt for generating an ultra-premium commercial product photo of a futuristic flagship smartphone floating above a reflective surface, followed by a prompt for an exploded-view visualization of its internal components, designed for high-end tech advertising.",

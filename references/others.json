@@ -12,6 +12,42 @@
     "needReferenceImages": true
   },
   {
+    "content": "Prompt them what you are going to prompt them, prompt them, prompt them what you just prompt them",
+    "title": "Repetitive Prompting Instruction",
+    "description": "A meta-prompt or instruction emphasizing the act of prompting itself, suggesting a sequence of pre-prompting, prompting, and post-prompting actions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771396592622_2t4c3t_HBYP78kaAAAQUV7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Welcome home 🤍🩷🩵 I was cooking a cake and I saw you arrived 🏰 Were you with someone...? 😇🔪\nNano Banana Pro 🍌",
+    "title": "Welcome Home Scenario Prompt",
+    "description": "A short, narrative prompt setting a scene where the user returns home to find the subject cooking a cake, followed by a slightly jealous or suspicious question.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771396595129_2lepri_HBY0paObcAEKPHl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"type\": \"image_generation_prompt\",\n  \"style\": \"surreal, cinematic, conceptual art\",\n  \"camera\": {\n    \"angle\": \"high-angle\",\n    \"shot\": \"full shot\",\n    \"composition\": \"symmetrical balance with central campfire dividing two characters\",\n    \"background\": \"pitch-black void with no visible environment\"\n  },\n  \"scene\": {\n    \"setting\": \"abstract cosmic space\",\n    \"environment\": \"dark void emphasizing isolation and contrast\",\n    \"resolution\": \"8k\",\n    \"render_style\": \"photorealistic\"\n  },\n  \"characters\": [\n    {\n      \"position\": \"left\",\n      \"subject\": \"astronaut\",\n      \"pose\": \"sitting\",\n      \"seat\": \"rough gray rock\",\n      \"appearance\": {\n        \"suit\": \"highly detailed realistic white space suit\",\n        \"helmet\": \"on, reflective visor\"\n      },\n      \"action\": \"holding a stick and roasting a marshmallow over the fire\"\n    },\n    {\n      \"position\": \"right\",\n      \"subject\": \"young man\",\n      \"pose\": \"sitting and leaning forward\",\n      \"seat\": \"metal folding chair\",\n      \"appearance\": {\n        \"hair\": \"dark hair\",\n        \"clothing\": {\n          \"top\": \"red and black plaid flannel shirt\",\n          \"bottom\": \"blue jeans\",\n          \"footwear\": \"brown boots\"\n        }\n      },\\n      \"action\": \"warming hands by the fire\"\n    }\n  ],\n  \"central_element\": {\n    \"object\": \"campfire\",\n    \"style\": \"magical and surreal\",\n    \"fire_behavior\": \"flames transition seamlessly into a spiral galaxy\",\n    \"galaxy\": {\n      \"type\": \"photorealistic spiral galaxy\",\n      \"details\": [\n        \"glittering stars\",\n        \"cosmic dust\",\n        \"swirling motion\"\n      ],\n      \"shape\": \"arching overhead like a celestial canopy\"\n    }\n  },\n  \"lighting\": {\n    \"primary_light\": \"warm orange glow from the campfire\",\n    \"secondary_light\": \"cool blue and purple glow from the galaxy\",\n    \"mood\": \"dramatic, cinematic, ethereal\",\n    \"shadows\": \"soft but deep, emphasizing contrast\"\n  },\n  \"color_palette\": {\n    \"dominant\": [\"black\", \"orange\", \"blue\", \"purple\"],\n    \"accent\": [\"white\", \"red\", \"brown\"]\n  },\n  \"themes\": [\n    \"human connection\",\n    \"cosmic wonder\",\n    \"contrast between the ordinary and the infinite\",\n    \"shared warmth in an infinite universe\"\n  ],\n  \"quality_tags\": [\n    \"ultra-detailed\",\n    \"photorealistic textures\",\n    \"cinematic lighting\",\n    \"sharp focus\",\n    \"high dynamic range\"\n  ]\n}",
+    "title": "Surreal Cinematic Campfire in Cosmic Void",
+    "description": "A detailed JSON prompt for generating a surreal, cinematic conceptual art image of an astronaut and a young man sitting opposite each other in a pitch-black void, sharing a campfire whose flames transition into a spiral galaxy overhead, emphasizing the contrast between the ordinary and the infinite.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771396583685_luu3g2_HBWVKbTbQAAaKfU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Hey, wait for me outside for a moment, I'm just going to take out money and then we'll go eat 🤍🖤💙\nNano Banana Pro 🍌",
+    "title": "Quick Stop Scenario Prompt",
+    "description": "A short, conversational prompt setting a scene where the subject asks the user to wait outside while they quickly withdraw money before going out to eat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771396596052_3q7qsd_HBTzBXpbcAEAMhW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Subject: an imperial masterpiece ornate black jade bowl diorama titled Night Mountain of the Ancients, the bowl opened with an organic blended cutaway where the dark jade rim seamlessly transforms into jagged mountain rock, ancient soil, moss, and weathered stone so the boundary between vessel and terrain appears naturally continuous and almost indistinguishable, revealing a miniature nocturnal sacred mountain world with steep terraces, a secluded ancient shrine carved into the cliff face, winding pilgrimage steps, weathered guardian statues, twisted wind-shaped pines, and faint runic stone markers suggesting forgotten ages\nEnvironment: the black jade bowl rests on a prestigious museum pedestal within a dimmed gallery-style neutral space, inside the bowl exists a high sacred mountain ecosystem under night conditions with layered cliffs, narrow stone paths, drifting low mist, sparse alpine vegetation, scattered fallen needles, and subtle environmental storytelling such as worn stair edges, cracked stone slabs, and ancient offerings, all mountain peaks, trees, and shrine roofs intentionally composed fully inside the frame with visible headroom above to prevent clipping\nStyle: ultra-refined hyper-detailed surreal realism with mythic nocturnal atmosphere, imperial East-Asian-inspired sacred artifact aesthetic, masterwork black jade carving object design, cinematic macro miniature photography, extremely precise geological realism, physically plausible environmental aging, strong visual hierarchy, premium Nano Banana Pro optimized imperial masterpiece density\nLighting: deep moonlit night illumination with cool blue ambient light, soft silver moon highlights catching cliff edges and pine needles, subtle internal lantern glow along the pilgrimage steps and shrine entrance providing warm focal contrast, faint mist diffusion enhancing depth, delicate rim lighting revealing the polished black jade translucency and mineral depth without losing shadow detail\nCamera: carefully composed three-quarter frontal museum presentation angle aimed into the blended opening, slightly elevated macro viewpoint maximizing terrace and shrine readability while framing the entire bowl, all peaks, and tallest trees fully within the image, generous vertical breathing space above the highest elements, cinematic miniature depth of field emphasizing the lantern-lit shrine and ascending path, 70–100mm macro-equivalent lens feel, stable gallery presentation framing\nMaterials: master-carved black jade bowl with deep near-obsidian tonal layers, subtle green-black mineral veining, low translucent depth along thinner carved regions, ultra-fine engraved dragon-cloud, mountain, and ancient rune motifs polished into the jade, the cutaway transition organically morphs into stratified rock faces, weathered steps, moss patches, root systems, and cliff textures so the jade appears naturally crystallized into th",
     "title": "Black Jade Diorama of Night Mountain of the Ancients",
     "description": "A highly detailed prompt for generating a hyper-realistic macro photograph of an ornate black jade bowl diorama. The prompt specifies the bowl's rim transforming into a miniature nocturnal sacred mountain landscape with a carved shrine, emphasizing deep moonlit lighting, East-Asian artifact aesthetic, and geological realism.",

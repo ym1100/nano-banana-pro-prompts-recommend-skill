@@ -51,6 +51,34 @@
     "needReferenceImages": false
   },
   {
+    "content": "Create a dual-orientation optical illusion portrait.\nWhen viewed in normal upright position (0° orientation), the image must clearly reveal a young woman’s left-facing side profile.\nWhen the image is rotated 180 degrees (phone flipped upside down), the same composition must reveal an elderly woman’s side profile.\nBoth identities must share the exact same contour structure and occupy identical spatial boundaries. No separate drawings, no split screen, no overlay. The transformation must occur purely through contour reinterpretation and structural ambiguity.\nDesign the contour so that:\nThe young woman’s chin becomes the elderly woman’s nose when rotated.\nThe young woman’s ear becomes the elderly woman’s eye socket.\nThe young woman’s neckline becomes the elderly woman’s mouth and chin structure.\nApply a Moiré interference surface using ultra-thin radial or dual-frequency line patterns across the entire composition. The interference pattern must enhance depth without breaking the dual-orientation illusion.\nStrict monochrome palette. Black background (#000000) with white or light gray line structures only. No color. No gradients except those created by line density. No blur. No texture noise.\nUltra-precise vector alignment. High contrast. Clean silhouette edges. 8K ultra-high resolution. Aspect ratio 4:5.\nThe illusion must be readable in both orientations.",
+    "title": "Dual-Orientation Optical Illusion Portrait",
+    "description": "A highly technical prompt for generating a dual-orientation optical illusion portrait in strict monochrome, where the image reveals a young woman's side profile when viewed upright, and an elderly woman's side profile when rotated 180 degrees, requiring precise contour reinterpretation and Moiré interference surface application.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771396588296_6mjizk_HBXUwAjbcAAGEPm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Motion Prompt: The Cake plate start to round spin while ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, with no extra effects.\n\nIMAGE - Ultra-realistic premium food photography of a layered chocolate cake on a white plate, centered composition, three thick moist chocolate sponge layers with a smooth white cream filling in the middle, topped with glossy rich chocolate ganache frosting, decorated with fresh raspberries, dark chocolate curls, shards, and small gold sugar pearls, clean minimal light grey studio background, soft diffused professional lighting, gentle natural shadows, ultra-sharp texture detail showing porous sponge and creamy layers, high-end bakery advertising style, shallow depth of field, macro food photography look, photorealistic, 8K resolution, elegant dessert presentation, no text, no watermark\nNegative prompt:\nblurry, low resolution, cartoon style, CGI look, artificial textures, messy composition, oversaturated colors, harsh shadows, noise, watermark, text, extra objects, distorted cake shape.\n\nIMAGE 2 - Design an ultra-realistic exploded chocolate cake infographic. Top layer cocoa powder dust, below frosting swirl, sponge cake layers, cream filling, and cake plate base. White background, professional dessert photography lighting, rich textures, floating symmetry, labeled infographic style, 8K resolution.",
+    "title": "Ultra-Realistic Chocolate Cake Food Photography with Motion Prompt",
+    "description": "A complex prompt for generating a video featuring ultra-realistic food photography of a layered chocolate cake, including a motion prompt for the cake plate and ingredients, and a separate image prompt for an exploded infographic view. This is designed for high-end commercial food advertising.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771396577795_6gdzxg_HBXF8eNbkAAQ97-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create a technical infographic of {argument name=\"object\" default=\"OBJECT\"} with a 45-degree isometric 3D perspective showing the device slightly tilted to reveal depth and dimension.\nCombine a realistic photoreal render with black ink technical annotations on pure white background. Include:\nKey component labels with color-coded callout boxes\nInternal component visibility through transparent/cutaway sections\nMeasurements, dimensions, and precise scale markers\nMaterial callouts and quantities\nColor-coded arrows for function/flow: RED (power/battery), BLUE (data/connectivity), ORANGE (thermal/processor), GREEN (sensors/haptics)\nSimple schematics or cross-sectional diagrams where relevant\n\nPlace “OBJECT” title in a hand-drawn technical box (top-left corner).\nStyle: Black linework (technical pen/architectural), sketched but precise. Object remains clearly visible. Educational museum-exhibit vibe. Clean composition, balanced negative space.\nPerspective: Isometric 3D angle—tilted to show depth, dimension, and internal architecture dramatically. Like a professional product teardown or engineering manual.\nColors: ~10-15% accent density. Black dominant. White background.\nOutput: 1080×1080, ultra-crisp, social-feed optimized.",
+    "title": "Technical Infographic Prompt Template",
+    "description": "A reusable prompt template for generating technical infographics of an object, featuring a 45-degree isometric 3D perspective, black ink annotations, cutaway sections, measurements, and color-coded arrows for function/flow, styled like an engineering manual.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771396580715_rvug9m_HBVOp5kboAAI6xv.jpg",
+      "https://cms-assets.youmind.com/media/1771396580708_7butuk_HBVOp5sbcAUM-Kh.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "A hyper-realistic 3D view of a section of the Ho Chi Minh Trail deep within the Truong Son mountains at twilight. The dense triple-canopy jungle filters the fading light into a gloom of deep greens and indigos. A narrow, beaten dirt track winds through giant fern fronds and ancient teak trees. In the foreground, a heavily laden, reinforced bicycle leans against a mossy rock, half-hidden by foliage. A concealed tunnel entrance is barely visible beneath a tangle of roots. The atmosphere is heavy with humidity, mist rising from the forest floor, capturing the silent, hidden endurance of the logistical network.",
     "title": "Ho Chi Minh Trail Vietnam War Scene Prompt",
     "description": "A hyper-realistic 3D image generation prompt for Nano Banana Pro describing a section of the Ho Chi Minh Trail at twilight. It focuses on the dense jungle environment, filtered light, a hidden bicycle, a concealed tunnel entrance, and a humid, atmospheric mood.",
