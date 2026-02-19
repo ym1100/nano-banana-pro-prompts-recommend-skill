@@ -1,5 +1,23 @@
 [
   {
+    "content": "Custom prompt workflow with movie-genre guidance.\nStoryboard must be exported and polished at least 4K.",
+    "title": "Storyboard Grid Generation Prompt (3x3)",
+    "description": "A brief prompt requirement for generating a 3x3 storyboard grid using a custom prompt workflow with movie-genre guidance, specifying that the output must be exported and polished at 4K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771483123073_g8qzcu_HBeEwb9XQAAGxnw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Custom prompt workflow with movie-genre guidance.\nStoryboard must be exported and polished at least 4K.",
+    "title": "Storyboard Grid Generation Prompt (2x2)",
+    "description": "A brief prompt requirement for generating a 2x2 storyboard grid using a custom prompt workflow with movie-genre guidance, specifying that the output must be exported and polished at 4K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771483125569_046tax_HBeElHwXcAAsQnN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "3D Pixar-style animated girl shown in a 6-panel grid, same character with short brown hair and big blue eyes, different emotions (happy, shocked, angry, caring, confident, thumbs up), colorful solid backgrounds (yellow, blue, red, pink, purple, green), soft studio lighting, smooth 3D render, vibrant colors, ultra-detailed, 4K, animated movie quality.",
     "title": "Pixar Style Character Expression Grid",
     "description": "A prompt for converting an image into a Pixar-style animated character, generating a 6-panel grid showing the same character with different emotions (happy, shocked, angry, caring, confident, thumbs up) against colorful solid backgrounds, emphasizing smooth 3D render quality.",

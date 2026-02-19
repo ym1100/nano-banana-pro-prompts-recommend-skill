@@ -12,6 +12,82 @@
     "needReferenceImages": true
   },
   {
+    "content": "A highly detailed, hand drawn, technical style illustration of a young man looking upward with a hopeful and intense expression. His face is shaded with fine crosshatching lines, emphasizing facial structure and emotion. The hair is messy and dynamic, with strands, illustrated in an ink sketch style. The portrait is surrounded by golden geometric patterns, celestial rings, and constellation-like lines, giving it a scientific and spiritual fusion.",
+    "title": "Technical Illustration of Hopeful Young Man with Celestial Patterns",
+    "description": "A prompt for generating a highly detailed, hand-drawn technical style illustration of a young man looking upward with an intense, hopeful expression. The illustration uses fine crosshatching and ink sketch style, surrounded by golden geometric patterns and celestial rings, fusing scientific and spiritual aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771483147444_5r3p2d_HBf6gIMbIAAGK7t.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A field of poppies with eyes in the center of each flower. The flowers are pink, red, and cream colored, and they are all facing the viewer. The background is a blur of more flowers and greenery. The overall mood is surreal and dreamlike.",
+    "title": "Surreal Poppies with Eyes",
+    "description": "A prompt for generating a surreal, dreamlike image of a field of poppies where each flower has an eye in its center, with the flowers facing the viewer against a blurred greenery background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771483112700_4xc5a2_HBd8zkPXwAAz5D_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"cinematic_video_request\": {\n    \"meta\": {\n      \"title\": \"Sadie Sink - Night Drive Portrait\",\n      \"style_preset\": \"Cinematic Realism\",\n      \"duration_seconds\": 10,\n      \"resolution\": \"4K\"}}}",
+    "title": "Cinematic Video Request for Sadie Sink Portrait",
+    "description": "A structured prompt for generating a short cinematic video featuring Sadie Sink, focusing on a night drive portrait aesthetic with cinematic realism and 4K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771483108314_ek1c0t_HBeAPRSXMAAyZb7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "An asymmetrical two-point linear perspective painting of são paulo, avenida paulista. A prominent MASP building is the focal point,...",
+    "title": "São Paulo Avenida Paulista Painting Prompt (JSON reference)",
+    "description": "A summary description of a JSON prompt (not fully provided in the tweet) intended to generate an asymmetrical two-point linear perspective painting of São Paulo's Avenida Paulista, focusing on the MASP building as the focal point.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771483120273_0cimrv_HBda0tlXEAAm1_I.jpg",
+      "https://cms-assets.youmind.com/media/1771483120418_n9ybmk_HBdVX_tWYAAeCpP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"Restore the image while preserving the exact facial identity of the subject and facial expression. Fix any tears, wrinkles and human artifact in the photograph itself. Restore the coloring perfectly, sharpen the image and make it full HDR. It should look like a Nikon DSLR camera took the photograph. Maintain the subjects exact facial features, expression and details. \"",
+    "title": "Image Restoration and Enhancement Prompt",
+    "description": "A prompt for Nano Banana Pro focused on restoring an old, damaged image by fixing tears and wrinkles, perfectly restoring color, sharpening, and applying full HDR, while strictly preserving the subject's exact facial identity and expression, mimicking a Nikon DSLR photograph.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771483136576_c9a9je_HBdQnyoawAAdAHL.jpg",
+      "https://cms-assets.youmind.com/media/1771483136583_sh9ymk_HBdQnxRbsAAxtE0.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A vibrant, expressive portrait of a man gazing upward with a sense of awe and childlike wonder. He wears oversized, bright orange-red furcin misutured glasses with fully tinted lenses that softly diffuse light. His face is rendered using bold, dynamic black sketch strokes-loose yet intentional-capturing raw emotion and character. The background is composed of layered, textured newspaper pages, clearly visible yet organically integrated. Energetic splashes of vivid blue and warm orange paint burst across the composition, adding motion and contrast. The artwork seamlessly blends realism with abstract expressionism, evoking themes of innocence, hope, imagination, and creative freedom. Painterly textures, high contrast, and an editorial fine-art aesthetic.",
+    "title": "Expressive Portrait with Sketch Strokes and Paint Splashes",
+    "description": "A prompt for generating a vibrant, expressive portrait of a man gazing upward, featuring oversized orange-red glasses, rendered using bold black sketch strokes, with a background of layered newspaper pages, and energetic splashes of vivid blue and warm orange paint, blending realism with abstract expressionism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771483114965_b5fr33_HBcxLqvbUAETiw6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Remove the phone and the hand should be just in a relaxed position. Remove the number 4 on the top left",
+    "title": "Image Editing Prompt: Remove Phone and Text",
+    "description": "A simple image editing prompt instructing the model to remove a phone and a number '4' from an image, and adjust the hand pose to be relaxed.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771483128254_8d53z0_HBccpbRa4AEZs-Z.jpg",
+      "https://cms-assets.youmind.com/media/1771483128250_1e1zxs_HBccs1VasAEw7YH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Visualize Debussy's\nPetit Suite 'En Bateau'\nin the style of Monet's 'Boating'!\n\nAfter that,\nChange the water color to sparkling blue!",
+    "title": "Generate Debussy's 'Petit Suite: En Bateau' in Monet's Style with Color Modification",
+    "description": "An image generation prompt for Nano Banana Pro (Gemini 3 Pro Image) that first instructs the AI to visualize Debussy's 'Petit Suite: En Bateau' in Monet's style, followed by a modification instruction to change the water color to a sparkling blue.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771483147936_2xdzww_HBcQbAObwAAMZ51.jpg",
+      "https://cms-assets.youmind.com/media/1771483147999_9six6w_HBcQbAVa0AALLbs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Prompt them what you are going to prompt them, prompt them, prompt them what you just prompt them",
     "title": "Repetitive Prompting Instruction",
     "description": "A meta-prompt or instruction emphasizing the act of prompting itself, suggesting a sequence of pre-prompting, prompting, and post-prompting actions.",
@@ -19,6 +95,35 @@
       "https://cms-assets.youmind.com/media/1771396592622_2t4c3t_HBYP78kaAAAQUV7.jpg"
     ],
     "needReferenceImages": false
+  },
+  {
+    "content": "A hyper-realistic, low-angle ground-level shot of a miniature tropical island paradise inside a rainwater puddle on a rough asphalt suburban street. The island features tiny white sand, microscopic palm trees, a yellow lifeguard tower, a blue beach shack, and several miniature people sunbathing and swimming. The reflection of the trees is visible in the clear puddle water. In the background, out-of-focus (bokeh) suburban houses and parked cars line the street under a bright blue sky. Tilt-shift effect, whimsical, highly detailed, 8k resolution.",
+    "title": "Tropical Island in a Puddle Prompt",
+    "description": "A detailed image generation prompt for Nano Banana Pro, creating a whimsical, hyper-realistic scene of a miniature tropical island paradise inside a rainwater puddle on an asphalt street, emphasizing low-angle, tilt-shift, and 8K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771483131936_h294ub_HBayKLlbcAIa7sN.jpg",
+      "https://cms-assets.youmind.com/media/1771483131997_5mn7s9_HBayKMhb0AAt8t-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"type\": \"image_generation\",\n  \"style\": \"ultra-realistic cinematic portrait photography\",\n  \"resolution\": \"8K UHD\",\n  \"aspect_ratio\": \"2:3 vertical\",\n  \"face_preservation\": {\n    \"preserve_identity\": true,\n    \"preserve_face_shape\": true,\n    \"preserve_eyes\": true,\n    \"preserve_nose\": true,\n    \"preserve_lips\": true,\n    \"preserve_expression\": true,\n    \"preserve_skin_texture\": true,\n    \"preserve_proportions\": true,\n    \"no_beautification_filter\": true,\n    \"no_face_modification\": true\n  },\n  \"scene\": {\n    \"location\": \"cozy artistic café interior\",\n    \"environment_description\": \"A warm yet naturally lit café with textured plaster walls, wooden flooring, soft neutral-toned furniture, and an intimate creative atmosphere. The wall has a natural, slightly rough texture with subtle imperfections visible.\",\n    \"mural_concept\": \"The woman is painting a large, realistic artistic mural of her own face on the café wall. The mural face must match her real facial features and exact expression perfectly, as if she is painting her own reflection. The mural style is hyper-detailed realism with painterly brush textures visible upon close inspection.\",\n    \"decor_elements\": {\n      \"white_decorative_pots\": \"Elegant matte white ceramic pots arranged near the wall and around the floor area.\",\n      \"flowers\": \"Various colors of fresh roses including red, pink, peach, white, and soft yellow.\",\n      \"plants\": \"Delicate green vines and climbing plants trailing naturally around the mural edges and along the wall corners.\",\n      \"ambience\": \"Artistic, cozy, creative café vibe with subtle decorative charm.\"\n    }\n  },\n  \"subject\": {\n    \"position\": \"Standing slightly angled toward the wall while painting\",\n    \"action\": \"Holding a paintbrush mid-stroke while working on the mural\",\n    \"expression\": \"Exactly the same as in the uploaded reference image\",\n    \"pose_details\": \"Natural relaxed posture, focused and immersed in painting, realistic hand placement holding brush and palette\",\n    \"clothing\": \"Casual yet stylish café-artist outfit, soft neutral or earthy tones, natural fabric texture\",\n    \"hair\": \"Exactly as in the original image, no changes\",\n    \"makeup\": \"Natural and realistic, matching the original photo\"\n  },\n  \"lighting\": {\n    \"type\": \"soft natural daylight\",\n    \"direction\": \"Light entering gently from a nearby window\",\n    \"temperature\": \"Neutral daylight (not too warm, not overly golden)\",\n    \"shadow_style\": \"Soft diffused shadows with realistic depth\",\n    \"skin_tone_rendering\": \"True-to-life color accuracy without oversaturation\"\n  },\n  \"camera_settings\": {\n    \"camera_type\": \"Full-frame professional DSLR\",\n    \"lens\": \"85mm portrait lens\",\n    \"aperture\": \"f/2.0\",\n    \"depth_of_field\": \"Shallow depth of field with sharp focus on subject and mural face\",\n    \"focus\": \"Crisp facial details on both real face and painted mural face\",\n    \"dynamic_range\": \"High dynamic range wit",
+    "title": "Ana de Armas Painting a Realistic Mural of Herself",
+    "description": "A complex, structured JSON prompt for generating an ultra-realistic cinematic portrait of Ana de Armas as a wall artist. The key feature is the requirement for the subject to be painting a mural of her own face that perfectly matches her real facial features and expression, set in a cozy, naturally lit artistic café.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771483142839_s9qso6_HBaOrRubcAIzEMx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Create a photo-style line drawing / ink sketch of the person identical to the uploaded image — keep every facial feature, proportion, and expression exactly the same.\nUse blue and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background.\nShow a right hand holding a pen and an eraser near the sketch, as if the artist is still working.",
+    "title": "Photo-Style Line Drawing Sketch Prompt",
+    "description": "A prompt for generating a photo-style line drawing/ink sketch of an uploaded person, ensuring identical facial features and proportions, rendered in blue and white ink on a notebook background, with a hand holding a pen/eraser visible.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771483131915_jrdtax_HBZtu99bcAEA2zE.jpg",
+      "https://cms-assets.youmind.com/media/1771483132613_awwe8w_HBZtu94aIAAaKSa.jpg"
+    ],
+    "needReferenceImages": true
   },
   {
     "content": "Welcome home 🤍🩷🩵 I was cooking a cake and I saw you arrived 🏰 Were you with someone...? 😇🔪\nNano Banana Pro 🍌",

@@ -51,6 +51,15 @@
     "needReferenceImages": false
   },
   {
+    "content": "High-end commercial photograph of a luxury mechanical wristwatch on a marble pedestal. Soft spotlight, deep shadows, gold and steel textures glowing, shallow depth of field, premium Swiss watch advertisement style.\n\nImage 2: Exploded visualization showing sapphire crystal, dial, hands, movement gears, casing, strap — vertically aligned, elegant annotation blocks, minimal luxury background.",
+    "title": "Luxury Mechanical Watch Commercial Photography Prompt",
+    "description": "A prompt designed for generating a high-end commercial photograph of a luxury mechanical wristwatch, focusing on cinematic lighting, textures, and a shallow depth of field for a premium advertisement style. The second part requests an exploded visualization of the watch components.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771483116250_etg7vy_HBbpdf3aUAAtiRV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Create a dual-orientation optical illusion portrait.\nWhen viewed in normal upright position (0° orientation), the image must clearly reveal a young woman’s left-facing side profile.\nWhen the image is rotated 180 degrees (phone flipped upside down), the same composition must reveal an elderly woman’s side profile.\nBoth identities must share the exact same contour structure and occupy identical spatial boundaries. No separate drawings, no split screen, no overlay. The transformation must occur purely through contour reinterpretation and structural ambiguity.\nDesign the contour so that:\nThe young woman’s chin becomes the elderly woman’s nose when rotated.\nThe young woman’s ear becomes the elderly woman’s eye socket.\nThe young woman’s neckline becomes the elderly woman’s mouth and chin structure.\nApply a Moiré interference surface using ultra-thin radial or dual-frequency line patterns across the entire composition. The interference pattern must enhance depth without breaking the dual-orientation illusion.\nStrict monochrome palette. Black background (#000000) with white or light gray line structures only. No color. No gradients except those created by line density. No blur. No texture noise.\nUltra-precise vector alignment. High contrast. Clean silhouette edges. 8K ultra-high resolution. Aspect ratio 4:5.\nThe illusion must be readable in both orientations.",
     "title": "Dual-Orientation Optical Illusion Portrait",
     "description": "A highly technical prompt for generating a dual-orientation optical illusion portrait in strict monochrome, where the image reveals a young woman's side profile when viewed upright, and an elderly woman's side profile when rotated 180 degrees, requiring precise contour reinterpretation and Moiré interference surface application.",
