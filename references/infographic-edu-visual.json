@@ -51,6 +51,15 @@
     "needReferenceImages": false
   },
   {
+    "content": "A hyper-detailed folded-paper blueprint of {argument name=\"subject name\" default=\"Neymar JR\"} where the character is constructed from precise geometric folds and crease lines, overlaid with subtle blueprint markings, measurement lines, and paper annotations. Minimal color palette, off-white paper with faint ink lines. Studio lighting, crisp shadows, architectural art style, photorealistic paper detail.",
+    "title": "Blueprint Illustration of Neymar JR",
+    "description": "A prompt for generating a hyper-detailed, folded-paper blueprint illustration of the soccer player Neymar JR. The image should feature precise geometric folds, crease lines, subtle blueprint markings, and measurement annotations, rendered in a minimal color palette (off-white paper, faint ink lines) with crisp studio lighting and an architectural art style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771569150594_7a6dl1_HBhMMohWIAAYApP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "High-end commercial photograph of a luxury mechanical wristwatch on a marble pedestal. Soft spotlight, deep shadows, gold and steel textures glowing, shallow depth of field, premium Swiss watch advertisement style.\n\nImage 2: Exploded visualization showing sapphire crystal, dial, hands, movement gears, casing, strap — vertically aligned, elegant annotation blocks, minimal luxury background.",
     "title": "Luxury Mechanical Watch Commercial Photography Prompt",
     "description": "A prompt designed for generating a high-end commercial photograph of a luxury mechanical wristwatch, focusing on cinematic lighting, textures, and a shallow depth of field for a premium advertisement style. The second part requests an exploded visualization of the watch components.",

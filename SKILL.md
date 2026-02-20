@@ -33,17 +33,17 @@ The `references/` directory contains categorized prompt data (auto-generated dai
 
 | File | Category | Count |
 |------|----------|-------|
-| `profile-avatar.json` | Profile / Avatar | 1014 |
-| `social-media-post.json` | Social Media Post | 6026 |
-| `infographic-edu-visual.json` | Infographic / Edu Visual | 436 |
+| `profile-avatar.json` | Profile / Avatar | 1017 |
+| `social-media-post.json` | Social Media Post | 6052 |
+| `infographic-edu-visual.json` | Infographic / Edu Visual | 437 |
 | `youtube-thumbnail.json` | YouTube Thumbnail | 160 |
 | `comic-storyboard.json` | Comic / Storyboard | 275 |
-| `product-marketing.json` | Product Marketing | 3436 |
-| `ecommerce-main-image.json` | E-commerce Main Image | 355 |
+| `product-marketing.json` | Product Marketing | 3459 |
+| `ecommerce-main-image.json` | E-commerce Main Image | 357 |
 | `game-asset.json` | Game Asset | 328 |
-| `poster-flyer.json` | Poster / Flyer | 455 |
+| `poster-flyer.json` | Poster / Flyer | 457 |
 | `app-web-design.json` | App / Web Design | 159 |
-| `others.json` | Uncategorized | 880 |
+| `others.json` | Uncategorized | 883 |
 
 <!-- REFERENCES_END -->
 

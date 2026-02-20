@@ -12,11 +12,38 @@
     "needReferenceImages": true
   },
   {
-    "content": "A highly detailed, hand drawn, technical style illustration of a young man looking upward with a hopeful and intense expression. His face is shaded with fine crosshatching lines, emphasizing facial structure and emotion. The hair is messy and dynamic, with strands, illustrated in an ink sketch style. The portrait is surrounded by golden geometric patterns, celestial rings, and constellation-like lines, giving it a scientific and spiritual fusion.",
-    "title": "Technical Illustration of Hopeful Young Man with Celestial Patterns",
-    "description": "A prompt for generating a highly detailed, hand-drawn technical style illustration of a young man looking upward with an intense, hopeful expression. The illustration uses fine crosshatching and ink sketch style, surrounded by golden geometric patterns and celestial rings, fusing scientific and spiritual aesthetics.",
+    "content": "A seamless pattern of melting smiley faces in holographic glossy hot-pink against a black background. The smiley faces are distorted and fluid, with curved lines forming the eyes and mouths, some appearing to drip or stretch. The pattern is dense and covers the entire frame, with no discernible beginning or end.",
+    "title": "Melting Holographic Smiley Face Pattern Prompt",
+    "description": "A prompt for generating a seamless pattern featuring distorted, fluid melting smiley faces in holographic glossy hot-pink against a black background, creating a dense, continuous texture.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1771483147444_5r3p2d_HBf6gIMbIAAGK7t.jpg"
+      "https://cms-assets.youmind.com/media/1771569161672_sz51pr_HBinrQkXwAEqEK3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Abstract forms arranged to suggest motion.\nCurved directional flow,\nlayered spacing,\nlight gradient shifts guiding the eye,\nno actual motion blur,\nbalanced dynamic tension.",
+    "title": "Abstract Motion Illusion Prompt",
+    "description": "A prompt designed to create abstract visuals that suggest dynamic movement and energy through composition, layered spacing, and light gradients, without relying on traditional motion blur effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771569156259_7k2rqf_HA9j3aiW8AAHoq7.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A highly detailed, hand drawn, technical style illustration of a young man looking upward with a hopeful and intense expression. His face is shaded with fine crosshatching lines, emphasizing facial structure and emotion. The hair is messy and dynamic, with strands, illustrated in an ink sketch style. The portrait is surrounded by golden geometric patterns, celestial rings, and constellation-like lines, giving it a scientific and spiritual fusion.",
+    "title": "Hand-Drawn Technical Illustration Portrait Prompt",
+    "description": "A prompt for generating a highly detailed, hand-drawn technical style illustration of a young man looking upward with an intense, hopeful expression. The style uses fine crosshatching for shading and ink sketch for dynamic hair, surrounded by golden geometric patterns, celestial rings, and constellation lines, fusing scientific and spiritual aesthetics.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771569152911_fmxa7p_HBf6gIMbIAAGK7t.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A hyper-realistic, wide-angle aerial shot of a giant {argument name=\"celebrity name\" default=\"Salman Khan\"} sitting casually on the suspension cables of a large bridge over a European city (like Copenhagen or Amsterdam). He is wearing a grey hoodie and dark cargo pants. His giant bare feet are dipping into the river below, creating massive white water splashes. The city below features historic red-roofed buildings, canals, and small boats. High-detail cinematic lighting, surreal scale, 8k resolution.",
+    "title": "Giant Salman Khan on European Bridge Prompt",
+    "description": "A prompt for generating a hyper-realistic, surreal image of a giant Salman Khan sitting casually on the suspension cables of a large bridge over a European city (like Copenhagen or Amsterdam). The prompt specifies his clothing, the action (feet dipping into the river creating splashes), the city details, and demands high-detail cinematic lighting and 8K resolution.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771569154779_9kuygz_HBexvFoXUAArkTs.jpg"
     ],
     "needReferenceImages": false
   },
