@@ -18,6 +18,26 @@
     "needReferenceImages": false
   },
   {
+    "content": "Please create a realistic photo in the style of a sci-fi monster movie, low angle, of a giant, 70s-style Japanese Godzilla standing on a wide national road with three lanes on one side, in the high-rise district of Tokyo where the Tokyo Skytree is visible, under a cloudy, hazy sky. Godzilla is glaring directly at the camera. Aspect ratio 16:9.",
+    "title": "Godzilla in Tokyo Skytree District, 70s Style",
+    "description": "A detailed image generation prompt for creating a realistic, low-angle, sci-fi monster movie style photograph of a giant, 70s-style Japanese Godzilla standing on a wide national road in the high-rise district of Tokyo, with the Tokyo Skytree visible under a cloudy sky. The prompt specifies the aspect ratio and that Godzilla should be staring directly at the camera.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771655083668_a9axdx_HBneakpbgAA8AIh.jpg",
+      "https://cms-assets.youmind.com/media/1771655083871_qj5rnf_HBneYwEb0AA6OLw.jpg",
+      "https://cms-assets.youmind.com/media/1771655083897_dlqd66_HBneZqTbgAAZqeI.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Quality: Photograph. Live-action film.\n*Please generate the photo using the reference image as a color palette. Please also use the reference image as a reference for tone, worldview, and composition when constructing the image.\nCamera/angle: Shot from a frontal angle, with a wide-angle lens from slightly below.\nTheme: A live performance scene of a Japanese band with a cyberpunk look.\nGuitarist/vocalist: A handsome man with short white hair, pink inner coloring, and a gold-blue gradient eye color.\nVocalist's pose: Singing with his foot on the speaker.\nClothing: A combination of 2000s V-kei fashion and cyberpunk. Looks like a visual kei band member. Cyberpunk military black officer's uniform with metal engineer boots. Red armband. Pink glowing infographic UI goggles.\nBand members: A band consisting of guitar, bass, and drums.\nInstrument design: A near-future, cyberpunk design with pink glows in places.\nLocation: A live stage at an upscale nightclub in Shibuya in a cyberpunk setting 100 years in the future.\nPause: The band is belting out.",
+    "title": "Cyberpunk Japanese Band Live Performance",
+    "description": "A detailed prompt for generating a hyper-realistic photograph of a Japanese visual kei band performing live in a futuristic, cyberpunk Shibuya nightclub setting, specifying character appearance, clothing, instrument design, and camera details. The prompt uses a reference image for color palette, tone, worldview, and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771655082021_bce0vi_HBlp0xhboAAS9i2.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "[BRAND NAME] | [SUBJECT_TOGGLE]. Act as a Lead Graphic Designer.\n\nPHASE 1: ARCHITECTURAL SETTING.\n\nCreate a minimalist 2D vector illustration of a vintage-style storefront representing [BRAND NAME]. \n\n- Autonomously design the facade (Modernist, Industrial, or Classic) to match the brand's heritage.\n\nPHASE 2: SUBJECT LOGIC (TOGGLE SYSTEM).\n\n- If [SUBJECT_TOGGLE] is \"OFF\": Show only the empty storefront.\n\n- If [SUBJECT_TOGGLE] is \"ON\": Autonomously add 1-2 characters or a pet that fits the brand's lifestyle.\n\nPHASE 3: DYNAMIC TYPOGRAPHY (CORRECTED).\n\n- Header: Autonomously generate a high-status \"Club\" or \"Community\" title based on the nature of [BRAND NAME]. * Examples: For Starbucks — \"Coffee Roasters Society\"; for Nike — \"Elite Runners Club\"; for Apple — \"Digital Creators Guild\". \n\n- Branding: Place the [BRAND NAME] logo clearly on the storefront awning.\n\n- Contextual Info: Below the awning, add \"EST. [REAL FOUNDING YEAR]\" and \"[REAL ORIGIN CITY]\".\n\nPHASE 4: VISUAL STYLE.\n\n- Two-tone palette: [BRAND SIGNATURE COLOR] on a pure white background.\n\n- Style: 1950s-60s Retro Line Art. No gradients, no shadows.\n\nTECH SPECS:\n\nFlat 2D vector, 8k resolution, monochrome aesthetic, centered composition.",
     "title": "Retro Line Art Storefront Illustration Generator Template",
     "description": "A structured, multi-phase prompt template designed to generate a minimalist, 2D vector illustration of a vintage-style storefront for a specific brand. It uses a toggle system to include or exclude subjects, dynamically generates a 'Club' or 'Community' title, and enforces a 1950s-60s retro line art style with a two-tone color palette.",

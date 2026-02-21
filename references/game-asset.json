@@ -1,5 +1,51 @@
 [
   {
+    "content": "Character sheet of a character from front, side, rear and 3/4 turn view. Background solid white corner to corner. Take that as reference and put into @tripoai and let it create the 3D version.",
+    "title": "Character Sheet for 3D Model Generation",
+    "description": "A prompt instruction for Nano Banana Pro to generate a character sheet (front, side, rear, 3/4 views) on a solid white background, intended to be used as a reference input for Tripo AI to create a 3D version of the character.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771655062720_5bykcu_HBoukOtWUAA-X-f.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "SCENE:\nA gigantic shattered orbital ring segment has crashed into a vast grassy valley during early morning mist. The broken metallic arc stretches across the landscape, partially embedded into hills while smoke rises from damaged sections. Emergency access ramps, exposed interior corridors, dangling cables, and collapsed transport modules reveal believable scale along the wreck. In the foreground, scorched grass, scattered debris panels, and fractured alloy plating frame the viewpoint. Low morning sunlight cuts through drifting ground fog and smoke, illuminating the massive structure while distant mountains fade into soft atmospheric haze.\nSTYLE:\nProduction-ready AAA cinematic game environment concept art designed for professional game development visual exploration. Strong readable hierarchy with the crashed orbital ring as dominant anchor. Dramatic believable sunrise lighting interacting with smoke, fog, and reflective metal surfaces. Semi-painterly realistic rendering including brushed alloy, scorched terrain, structural steel, exposed machinery, and atmospheric mist depth.",
+    "title": "Crashed Orbital Ring Segment Concept Art",
+    "description": "A prompt for generating AAA cinematic game environment concept art depicting a gigantic shattered orbital ring segment crashed into a grassy valley during early morning mist. The prompt emphasizes dramatic sunrise lighting, semi-painterly realism, and structural detail for professional game development visuals.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771655058145_msw0sa_HBoMReBbwAAv3i2.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "SCENE:\nA layered cyberpunk city block combining low historic structures at ground level with towering neon skyscrapers rising above, connected by bridges, cables, and stacked infrastructure.\nSTYLE:\nRender as a premium stylized 3D collectible miniature diorama on a fully visible, centered self-contained display base, shown from a slightly elevated 3/4 tabletop angle against a clean neutral studio gradient background. Maintain collectible figurine scale and clean display presentation.\nAll elements should appear sculpted from smooth matte ceramic, painted resin, or stylized polymer with rounded edges, simplified geometry, and slightly exaggerated toy-like proportions. Keep surfaces clean and intentionally stylized. Avoid fingerprints, rough handmade textures, workshop scenes, macro photography depth-of-field, or photoreal clay imperfections.\nUse soft professional studio product lighting: gentle global illumination, warm key light, soft ambient bounce, controlled shadows, and optional warm interior window glow.\nRender any water or translucent materials as poured clear resin with smooth transparency, subtle reflections, soft internal depth, and slightly thick stylized edges.\nInclude small environmental details but keep everything cohesive, simplified, and sculptural. Prioritize clean stylized modeling over photorealistic texture detail.\nOverall intent: premium collectible miniature, stylized 3D marketplace presentation, cozy whimsical mood, smooth sculpt clarity, controlled studio rendering, avoid real-world photography aesthetics",
+    "title": "Cyberpunk City Block Collectible Diorama",
+    "description": "A detailed prompt for generating a stylized 3D miniature diorama of a layered cyberpunk city block, combining historic ground structures with neon skyscrapers. The style is specified as a premium collectible, sculpted from smooth ceramic or resin with clean, toy-like proportions and soft studio product lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771655056348_e4b5y9_HBoK5MgbMAA7L0D.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Flat vector emoji sheet of a llama face only, front view, close-up head portrait, no full body, no hands, no pose outside the face, pure 2D flat vector...",
+    "title": "Flat Vector Llama Emoji Prompt",
+    "description": "A prompt for Google Nano Banana Pro requesting a pure 2D flat vector emoji sheet of only a llama face, emphasizing a close-up head portrait and excluding full body, hands, or complex poses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771655080850_1p34xu_HBnAJi7b0AEg5Fm.jpg",
+      "https://cms-assets.youmind.com/media/1771655081014_rx5yzy_HBnAJi1aEAA23IZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Shin Sangoku Musou (Dynasty Warriors)\nKongming holds a rainbow-glowing fan in the bottom right of the screen, unleashing his True Musou Ranbu (ultimate attack).\nInclude as many grunt characters as possible being blown from the bottom right to the top left of the screen.\nMusou Ranbu: Blue laser rays radiating out!",
+    "title": "Dynasty Warriors: Kongming Musou Ranbu",
+    "description": "A prompt attempting to generate an image in the style of Dynasty Warriors (Shin Sangoku Musou), depicting Zhuge Liang (Kongming) in the bottom right corner with a rainbow-glowing fan, unleashing his Musou Ranbu (ultimate attack), with as many flying grunt characters as possible being blown from the bottom right to the top left by blue laser rays.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771655086570_inmjfd_HBmcmRRaAAA7-f1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "SCENE:\nA larger ancient jungle temple complex featuring a stepped main temple, several surrounding shrine structures, broken ceremonial courtyards, moss-covered staircases, carved statues, fragmented stone walls, and a shallow reflecting pool, all surrounded by dense tropical foliage and vines. Arrange the ruins so the space feels like a compact, layered miniature district with multiple clustered architectural elements, varied heights, and interconnected pathways, filling the platform naturally without empty gaps and reading clearly as a contained archaeological jungle ruin diorama.\nSTYLE:\nRender as a premium stylized 3D collectible miniature diorama on a fully visible, centered self-contained display base, shown from a slightly elevated 3/4 tabletop angle against a clean neutral studio gradient background. Maintain collectible figurine scale and clean display presentation.\nAll elements should appear sculpted from smooth matte ceramic, painted resin, or stylized polymer with rounded edges, simplified geometry, and slightly exaggerated toy-like proportions. Keep surfaces clean and intentionally stylized. Avoid fingerprints, rough handmade textures, workshop scenes, macro photography depth-of-field, or photoreal clay imperfections.\nUse soft professional studio product lighting: gentle global illumination, warm key light, soft ambient bounce, controlled shadows, and optional warm interior window glow.\nRender any water or translucent materials as poured clear resin with smooth transparency, subtle reflections, soft internal depth, and slightly thick stylized edges.\nInclude small environmental details but keep everything cohesive, simplified, and sculptural. Prioritize clean stylized modeling over photorealistic texture detail.\nOverall intent: premium collectible miniature, stylized 3D marketplace presentation, cozy whimsical mood, smooth sculpt clarity, controlled studio rendering, avoid real-world photography aesthetics.",
     "title": "Ancient Jungle Temple Diorama Collectible Prompt",
     "description": "A detailed prompt for generating an image of an ancient jungle temple complex diorama. It specifies the scene layout (stepped temple, courtyards, moss, vines) and the required style: a premium stylized 3D collectible miniature, sculpted from smooth matte ceramic/resin, with controlled studio lighting and a cozy, whimsical mood.",

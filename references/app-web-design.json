@@ -1,5 +1,15 @@
 [
   {
+    "content": "Flat vector emoji sheet of a llama face only, front view, close-up head portrait, no full body, no hands, no pose outside the face, pure 2D flat vector...",
+    "title": "Flat Vector Llama Emoji Prompt",
+    "description": "A prompt for Google Nano Banana Pro requesting a pure 2D flat vector emoji sheet of only a llama face, emphasizing a close-up head portrait and excluding full body, hands, or complex poses.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1771655080850_1p34xu_HBnAJi7b0AEg5Fm.jpg",
+      "https://cms-assets.youmind.com/media/1771655081014_rx5yzy_HBnAJi1aEAA23IZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Make a beautiful 9:16 wallpaper. Leave natural negative space near the top and bottom. Give the wallpaper a subtle top to bottom gradient. No blur effects or cropping. Keep the scene simple.\n\nPut your subject and style at the end of the prompt.",
     "title": "Minimalist Wallpaper Generation Prompt",
     "description": "A simple prompt instructing the AI to create a beautiful 9:16 wallpaper with a subtle top-to-bottom gradient, ensuring natural negative space at the top and bottom, and keeping the scene simple without blur effects or cropping.",
