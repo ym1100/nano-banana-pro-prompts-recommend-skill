@@ -1,5 +1,81 @@
 [
   {
+    "content": "Create a funny 4-part story featuring 3 primitive men around a mobile phone. The story has emotional highs and lows and ends in a happy moment. Maintain consistent identity across the 3 characters. Generate 4 images in 16:9 format",
+    "title": "Funny 4-Part Story: Primitive Men and a Mobile Phone",
+    "description": "A prompt for generating a 4-part story and corresponding images about three primitive men encountering a mobile phone, maintaining character consistency and featuring emotional highs and lows, ending happily.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174133157_pvagm2_HCJK_wsXIAA-d3t.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n\"scene\": \"A young woman dressed as a vampire sitting on a mossy log in a dark forest, flanked by three realistic werewolf creatures.\",\n\"subject\": {\n\"character\": \"Vampire girl\",\n\"face\": {\n\"structure\": \"Symmetrical, youthful, soft features\",\n\"skin\": \"Fair, pale complexion\",\n\"eyes\": {\n\"shape\": \"Almond-shaped\",\n\"color\": \"Dark brown\",\n\"expression\": \"Friendly, slightly mischievous smile\"\n},\n\"mouth\": {\n\"lips\": \"Natural pink tone with visible vampire fangs and small droplets of blood at the corners\"\n}\n},\n\"hair\": {\n\"color\": \"Dark brown / Black\",\n\"length\": \"Long, flowing behind shoulders\"\n}\n},\n\"creatures\": {\n\"type\": \"Werewolves\",\n\"count\": 3,\n\"appearance\": \"Highly detailed animatronic or costume style, thick brown/black fur, snarling expressions, visible yellowed fangs, pointed ears\"\n},\n\"pose\": {\n\"overall\": \"Relaxed sitting position\",\n\"position\": {\n\"base\": \"Seated on a fallen moss-covered tree trunk\",\n\"orientation\": \"Centrally framed, facing the camera\"\n}\n},\n\"outfit\": {\n\"dress\": {\n\"type\": \"Gothic Victorian style gown\",\n\"color\": \"Deep black\",\n\"material\": \"Velvet body with lace detailing\"\n}\n},\n\"environment\": {\n\"location\": \"Dense, dark forest\",\n\"ground\": \"Covered in dry brown leaves and a large mossy log\"\n},\n\"lighting\": {\n\"type\": \"Natural, diffused woodland light\",\n\"quality\": {\n\"intensity\": \"Soft, moody\"\n}\n},\n\"photography\": {\n\"angle\": \"Eye-level\",\n\"framing\": \"Full body shot, centered subject\",\n\"style\": \"Cinematic fantasy\"\n},\n\"color_palette\": {\n\"subject\": {\n\"hair\": \"Black\",\n\"skin\": \"Pale porcelain\",\n\"dress\": \"Jet black\"\n},\n\"environment\": {\n\"wood\": \"Deep brown and moss green\",\n\"leaves\": \"Earth tones, copper, and tan\",\n\"background\":",
+    "title": "Detailed Character Prompt: Vampire Girl with Werewolves",
+    "description": "A highly structured JSON prompt for generating a cinematic fantasy image of a vampire girl sitting on a log in a dark forest, flanked by three highly detailed werewolf creatures, focusing on gothic Victorian style and moody lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174126273_9hr1sc_HCHLNyZbkAAnllL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Anime character in a background, 2-point perspective with a keystoning angle, composition split in half: on the right, a 20-year-old woman is pressed against a wall, waiting and hiding; on the left, seen through a door frame, a male guard holding a submachine gun is walking stealthily.\n\nJapanese style animation, full color, modern Madhouse style (2020s), detailed cel shading, cinematic post-processing, masterpiece.",
+    "title": "Anime Stealth Scene with Keystoning Angle",
+    "description": "A prompt for generating an anime-style image using a specific 2-point perspective and keystoning camera angle, depicting a tense stealth scene split compositionally between a hiding woman and a patrolling male guard.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174118896_71epms_HCGm4bAXEAAUUnJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Create cinematic, ultra-realistic film stills inspired by Interstellar (Christopher Nolan vibe).\nLook like real movie screenshots with consistent color grading, \nOutput as an aesthetic storyboard:  visually cohesive, no text",
+    "title": "Interstellar-Inspired Cinematic Film Stills Prompt",
+    "description": "A simple prompt requesting the generation of cinematic, ultra-realistic film stills inspired by the movie Interstellar, emphasizing consistent color grading and outputting an aesthetic storyboard.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174124383_mirgt0_HCGVfaZXUAA7H4p.jpg",
+      "https://cms-assets.youmind.com/media/1772174124408_l71dkj_HCGVfbDbwAEnwp6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Translate the Japanese text in this image into Chinese, and color this comic strip. The style must match the content and atmosphere of the comic, use master-level color matching, maintain the original aspect ratio, and maintain perfect consistency.",
+    "title": "Nano Banana 2 Comic Coloring Prompt",
+    "description": "A prompt used to test Nano Banana 2's ability to color comics, requiring the model to translate Japanese text to Chinese, color the comic in a style matching the content and atmosphere, use master-level coloring, and maintain the original aspect ratio and perfect consistency.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174154292_in44kj_HCGCtOpbYAAUMU5.jpg",
+      "https://cms-assets.youmind.com/media/1772174154312_vr4zzk_HCGCrJFacAATTTO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A glowing banana-shaped float soaring forward like a rocket through space, leaving a trail of tiny sparkling particles that resemble cosmic dust.\n\nThe character cheerfully waves with pride while flying. The camera tracks smoothly from behind, following the motion, creating a dynamic cinematic feel. Add playful, lighthearted sci-fi sound effects to enhance the fun, adventurous atmosphere.",
+    "title": "Dynamic Video Prompt: Banana Float Rocket",
+    "description": "A prompt for generating a dynamic video of a glowing banana-shaped float soaring forward like a rocket through space, leaving a sparkling cosmic dust trail, with the character cheerfully waving and the camera tracking smoothly from behind.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174115322_1czhhz_HCFAvhsasAEMFcR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Zhuge Liang (person) VS Sima Yi\nLike Final Fantasy X\nWater Dragon VS Fire Dragon\n\nTrue Musou Ranbu\n\nSend as many minor characters as possible flying across the screen!",
+    "title": "Nano Banana Pro Dynasty Warriors/Final Fantasy Prompt (Full Screen)",
+    "description": "An image generation prompt for Nano Banana Pro (Gemini 3 Pro Image) requesting a battle scene between Zhuge Liang and Sima Yi, styled like Final Fantasy X with a Water Dragon vs. Fire Dragon, performing a 'Shin Musou Ranbu' (True Musou Rampage), and filling the screen with as many minor characters as possible.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174163017_gxy7ud_HCDw2MtaEAAZhAE.jpg",
+      "https://cms-assets.youmind.com/media/1772174162820_679ebw_HCDw2MvaMAEIrP-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A haunting cinematic scene of a pale woman in a flowing white medieval gown standing at the edge of a towering cliff shrouded in mist. Her long dark hair moves softly in the wind as she reaches forward with both hands toward a single deep red rose being offered by a figure in black armor (first-person perspective). The atmosphere is moody and ethereal, heavy fog rolling over dramatic cliffs in the background. Desaturated blue-gray tones dominate the scene, with the",
+    "title": "Haunting Cinematic Cliff Scene with Red Rose",
+    "description": "A prompt for generating a haunting cinematic scene featuring a pale woman in a medieval gown on a mist-shrouded cliff, reaching for a red rose offered by a figure in black armor (first-person perspective), emphasizing moody, desaturated blue-gray tones.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174150397_ww4ane_HCC0vwBaMAAqKFS.jpg",
+      "https://cms-assets.youmind.com/media/1772174150302_hluzoo_HCC0vuHa0AA8Ky5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Resident Evil\nCarrying a rocket launcher\nFiring diagonally up to the right\nBlow away lots of mob characters\nThe mob characters being blown away are\nEthereal\n\nNext\nMore mob characters",
     "title": "Resident Evil Rocket Launcher with Ethereal Mobs",
     "description": "A sequence of prompts used with Nano Banana Pro (Gemini 3 Pro Image) to generate a Resident Evil-inspired action scene where a character fires a rocket launcher diagonally upwards, blowing away 'mob characters' rendered in an ethereal state.",

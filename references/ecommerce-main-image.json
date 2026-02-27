@@ -1,5 +1,34 @@
 [
   {
+    "content": "Ultra-premium conceptual jewelry product photography with romantic symbolism.\n\nA soft dusty-rose twisted cotton rope tied into a symmetrical heart-shaped knot, vertically suspended in the center of the frame. The rope texture is highly detailed, visible fibers, soft matte finish, slightly plush and tactile.\n\nPlace @img1 naturally intertwined within the center of the rope heart knot, as if gently held or suspended by the rope structure.\n\n⚠️ Keep the exact original product shape, proportions, gemstone placement, metal tone, reflections, engraving details, and craftsmanship unchanged.\nNo distortion. No redesign. No modification of product geometry.\n\n🎨 Background\n\nSolid muted dusty pink matte background\n\nSmooth seamless studio surface\n\nSoft gradient depth but very subtle\n\nClean, minimal, no props\n\n💡 Lighting\n\nSoft diffused studio lighting from front-top\n\nGentle specular highlights on metal\n\nDiamond reflections crisp but natural\n\nRope shadows soft and dimensional\n\nSubtle depth shadow behind rope to create floating illusion\n\n📸 Camera & Composition\n\nVertical 4:5 composition\n\nPerfect center alignment\n\nProduct floating mid-air\n\n85mm macro lens look\n\nf/3.2 shallow depth\n\nUltra-sharp focus on ring\n\nRope texture detailed but secondary focus\n\n🧠 Mood & Style\n\nRomantic luxury campaign\n\n“Bond”, “Connection”, “Forever” symbolism\n\nHigh-end jewelry brand aesthetic\n\nInstagram luxury editorial\n\nClean commercial CGI-style realism\n\n🚫 Output Rules\n\nNo text\n\nNo watermark\n\nNo logo\n\nNo extra elements\n\nUltra-realistic rendering\n\nPremium jewelry advertisement quality",
+    "title": "Ultra-Premium Jewelry Product Photography Prompt",
+    "description": "A highly detailed prompt for generating ultra-premium, conceptual product photography of jewelry intertwined with a dusty-rose cotton rope heart knot, emphasizing texture, lighting, and a high-end commercial aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174123420_webrzi_HCEf8yZbgAArTRy.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A vibrant orange glass dropper bottle of \"pop beauty EXTRA LIT-B SHOT exfoliating serum / sérum exfoliant\" (1 fl. oz / 30 ml). The bottle and dropper are covered in water droplets and sit on a reflective orange surface against a gradient orange background. A glowing, translucent orange spiral light effect wraps around the bottle.\n\nPrompt:\n\nA vibrant orange glass dropper bottle of \"pop beauty EXTRA LIT-B SHOT exfoliating serum / sérum exfoliant\" (1 fl. oz / 30 ml). The bottle and dropper are covered in water droplets and sit on a reflective orange surface against a gradient orange background. The scene is clean and focused on the product.",
+    "title": "Product Photography Prompt: Orange Serum Bottle",
+    "description": "Two variations of a prompt for generating product photography of an orange glass dropper bottle of exfoliating serum, focusing on water droplets, reflective surfaces, and either a glowing light effect or a clean, focused presentation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174126849_13n6br_HCEIZbDasAEYUqh.jpg",
+      "https://cms-assets.youmind.com/media/1772174126834_ikkffx_HCEIZbIaMAgcurO.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"master_prompt\": {\n    \"scene_type\": \"high-speed commercial food photography\",\n    \"product\": {\n      \"type\": \"sleek glass bottle filled with creamy latte\",\n      \"brand_name\": \"VELOUR CRÈME\",\n      \"label_design\": \"minimalist circular white label with bold black sans-serif typography\",\n      \"liquid_color\": \"rich caramel-toned iced coffee\"\n    },\n    \"composition\": {\n      \"action\": \"dynamic high-velocity liquid collision\",\n      \"surrounding_elements\": [\n        \"sculptural swirls of thick white milk\",\n        \"spiraling splashes of dark espresso\",\n        \"floating roasted coffee beans\",\n        \"vibrant red coffee cherries with glossy skin\",\n        \"mist of micro-droplets for texture\"\n      ],\n      \"placement\": \"centered hero bottle with a perfect reflection on a dark glossy surface\"\n    },\n    \"lighting\": {\n      \"style\": \"glossy studio product lighting\",\n      \"effects\": [\n        \"rim lighting to define bottle edges\",\n        \"specular highlights on liquid splashes\",\n        \"warm golden bokeh in the background\"\n      ]\n    },\n    \"color_palette\": {\n      \"background\": \"deep amber and chocolate brown gradient\",\n      \"accents\": \"cream, espresso, and pops of cherry red\"\n    },\n    \"technical_specs\": {\n      \"camera\": \"macro lens, eye-level angle\",\n      \"shutter\": \"ultra-fast freeze-motion\",\n      \"depth_of_field\": \"shallow focus on the label, soft blur on splashing background\",\n      \"quality\": \"8K resolution, photorealistic texture\"\n    }\n  }\n}",
+    "title": "High-Speed Commercial Food Photography Prompt for Latte Bottle",
+    "description": "A detailed JSON-structured prompt designed for generating ultra-realistic, high-speed commercial food photography of a sleek glass bottle filled with a creamy latte, emphasizing dynamic liquid collision, glossy studio lighting, and a rich color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174106944_i5t05f_HCDI1qlaMAElady.jpg",
+      "https://cms-assets.youmind.com/media/1772174106665_toi7tq_HCDI1pXaAAAQxEw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "A highly detailed stylized caricature figurine of a person made entirely from woven wicker / rattan material, big head and small body proportions, hyper-realistic texture with intricate basket weave patterns forming facial features, hair, and clothing. The figure stands on a small woven base placed on a wooden table. Background is a warm wooden wall with subtle brand logos or props. Studio lighting, soft shadows, shallow depth of field, ultra-detailed, 8K resolution, sharp focus, photorealistic, artistic craftsmanship, handcrafted sculpture look.",
     "title": "Stylized Wicker Caricature Figurine",
     "description": "A prompt for generating a highly detailed, photorealistic image of a stylized caricature figurine made entirely from woven wicker/rattan material, emphasizing hyper-realistic texture, studio lighting, and artistic craftsmanship.",

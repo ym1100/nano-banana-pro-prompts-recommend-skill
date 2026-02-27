@@ -18,6 +18,60 @@
     "needReferenceImages": false
   },
   {
+    "content": "make a design with synthetic cubism of the {argument name=\"museum name\" default=\"Clos Lucé Museum\"}",
+    "title": "Synthetic Cubism of Clos Lucé Museum",
+    "description": "A comparison between Nano Banana Pro and Nano Banana 2 using a prompt to create a design featuring the Clos Lucé Museum in the style of synthetic cubism.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174140132_z9ojq1_HCGNqEJXAAA1Ynb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "A single square image divided into four equal square panels, perfect 2x2 grid composition, each panel shows one different aerial circus discipline performed by the same elegant athletic woman with long dark hair, wearing a sparkling black-and-gold aerial costume, dramatic stage lighting, dark theatrical background with subtle smoke and spotlights, high detail, cinematic style, vertical 1:1 aspect ratio overall\nTop-left panel: woman gracefully performing on aerial hoop (lyra), mid-spin with one leg hooked, powerful and elegant pose\nTop-right panel: woman flowing in aerial silk (tissue), beautiful drops and wraps, fabric elegantly draped around her body\nBottom-left panel: woman on static trapeze, holding a strong straddle catch pose high above, muscular lines visible\nBottom-right panel: woman doing aerial hoop/rope hybrid (aerial roop), dynamic spinning descent with rope wrapped around one arm and leg, intense expression.All panels perfectly aligned, clean sharp borders between panels, cohesive color palette with gold accents and deep blues/purples, ultra-detailed, professional circus photography aesthetic, masterpiece quality",
+    "title": "Four-Panel Aerial Circus Composition",
+    "description": "A prompt for generating a single square image divided into four panels, each showing a different aerial circus discipline (hoop, silk, trapeze, roop) performed by the same athletic woman, emphasizing dramatic stage lighting, high detail, and a cohesive cinematic style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174139232_b4mkci_HCFlea5XoAAsZSH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Hyperrealistic full-length promotional photo of a giant dark chocolate ice cream in a waffle cone, immersed in a swirl of glossy chocolate cream, top of the ice cream covered with oversized chocolate chunks, cocoa dust and shards scattering chaotically in a creamy storm, ice cream falling downward with glossy deep brown textures, background New York Times Square glowing in night neon lights, confident western woman in a stylish black evening dress standing slightly behind the falling ice cream, looking up with an excited smile, hair flowing in the motion, soft neon reflections on her face, holding the waffle cone elegantly like a luxury dessert advertisement, cinematic lighting, high-fashion commercial vibe, shot on Camera Sony A9 --ar 2:3 --stylize 300",
+    "title": "Hyperrealistic Chocolate Ice Cream Commercial Prompt",
+    "description": "A detailed prompt for generating a hyperrealistic, high-fashion commercial image of a giant dark chocolate ice cream cone falling, set against the neon lights of Times Square, featuring a confident woman in a black evening dress.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174121683_6n6v3q_HCE_J1zakAEZzwS.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"prompt\": \"Ultra-detailed stylized portrait using my face as reference. Intellectual, modernist illustration style inspired by architectural blueprints and editorial line art. Face split into layered geometric sections with visible technical diagrams, city interiors, structural grids, and abstract architectural elements embedded within the facial planes. Fine ink linework, cross-hatching, and engraving-style shading. Clean white background with dense black line drawings.\\n\\nBold accent colors only in selected regions: deep red, muted blue, and warm yellow, applied as flat graphic blocks and translucent overlays. Sharp, thoughtful eyes with realistic highlights, wearing thin round glasses. Minimalist yet complex composition, high contrast, crisp edges, poster-grade clarity.\\n\\nEditorial illustration aesthetic, conceptual portrait, futuristic intellect vibe, data visualization meets human identity. Extremely sharp, ultra-high resolution, professional magazine cover quality, no blur, no distortion, balanced symmetry.\",\n  \"negative_prompt\": \"photorealism, soft blur, painterly strokes, oil painting, low detail, messy colors, cartoonish style, exaggerated proportions\",\n  \"style\": [\n    \"modernist illustration\",\n    \"architectural blueprint\",\n    \"editorial line art\",\n    \"engraving\",\n    \"conceptual portrait\",\n    \"futuristic intellect\"\n  ],\n  \"color_palette\": {\n    \"accent_colors\": [\n      \"deep red\",\n      \"muted blue\",\n      \"warm yellow\"\n    ],\n    \"base_colors\": [\n      \"black\",\n      \"white\"\n    ]\n  },\n  \"composition\": {\n    \"background\": \"clean white\",\n    \"symmetry\": \"balanced\",\n    \"contrast\": \"high\",\n    \"detail_level\": \"ultra-detailed\",\n    \"resolution\": \"ultra-high\"\n  },\n  \"quality\": [\n    \"poster-grade clarity\",\n    \"professional magazine cover\",\n    \"extremely sharp\",\n    \"no blur\",\n    \"no distortion\"\n  ]\n}",
+    "title": "Architectural Blueprint Style Portrait",
+    "description": "A highly detailed, stylized portrait prompt using an architectural blueprint and editorial line art aesthetic. The face is split into geometric sections containing technical diagrams and structural grids, featuring fine ink linework and high contrast with specific accent colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174132882_z8gxtd_HCEGf_7bQAAz5vS.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Shot on a Hasselblad 907X 50C with an XCD 90mm f/2.5 lens, aperture f/2.8 shallow depth of field emphasizes the precision fit of the suit while the background dissolves into painterly color patches; captured in 16-bit RAW with high dynamic range and soft film grain to preserve wool texture and the glow of colored light without \"harsh\" digital sharpness. Frame a tight portrait cropped to mid-chest, at eye level, with a slight three-quarter turn; the model is offset from center so the stained-glass pattern reads in the negative space. The pose is calm and composed: shoulders open, posture confident but without tension; one hand neatly adjusts the tie knot or collar line, the other is in the trouser pocket, slightly opening the jacket and revealing the layered styling. Expression restrained and thoughtful; the gaze passes just past the lens, as if distant music is playing. Outfit a man in a suit with a retro accent: a structured double-breasted wool blazer with sharp lapels, high-waisted pleated trousers, a white shirt and narrow tie, polished Oxfords, and a minimal pocket square. Location a retro Art Deco hall with dark wood, brass, and a tall stained-glass window projecting jewel-like geometry onto the suit and background. Light warm practical fill from one side and colored stained-glass light from the other, cinematic contrast, \"stained-glass\" shadows. Result -retro editorial: graphic, refined, expensive, and timeless",
+    "title": "Retro Art Deco Editorial Portrait",
+    "description": "A detailed prompt for a high-end, retro editorial portrait of a man in a structured double-breasted suit, captured in an Art Deco hall with stained-glass windows. The prompt specifies camera details (Hasselblad), lighting (cinematic contrast, colored light), and composition (tight crop, three-quarter turn).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174134954_taviyh_HCC_-5vbMAAE_s0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "cinematic conceptual portrait of a young woman standing still inside a rushing urban crowd, extreme radial motion blur, frozen identity effect, dynamic speed distortion, intense light burst from behind, strong central composition, graphic cinematic framing, psychological tension, existential solitude in the city, emotional isolation narrative, bold warm color field, surreal realism, experimental fashion editorial style.",
+    "title": "Cinematic Conceptual Portrait with Radial Motion Blur",
+    "description": "A prompt for generating a cinematic conceptual portrait of a woman in an urban crowd, using extreme radial motion blur and dynamic speed distortion to convey psychological tension and existential solitude.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174124946_yj4tx7_HCC-sReaMAAzTHm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Create a refined, gallery-quality tribute poster built around a central portrait silhouette filled with a textured photo mosaic. The design should feel tactile, layered, and premium not like flat digital collage work. \n\nCentral Structure : The Vessel The central focus must be a large-scale, high-contrast black and white portrait silhouette of {argument name=\"person's name\" default=\"[Persons name]\"}.\nThis silhouette acts as the container for the internal visual narrative. It must be centered perfectly on the canvas. The Grid Fill and Mixed Media Textures The interior of the silhouette should be populated by a dense photo mosaic grid made from action shots throughout the person’s career. Critical Texture Direction Do not paste flat photos. Each grid cell should have artistic treatment to create a tactile, collage-like aesthetic. Incorporate a mix of the following textures selectively across different cells: Halftone dots (comic-book style raster patterns) \nFabric or embroidery textures suggesting jersey material or stitched patches Film grain or heavy noise on high-contrast action shots The result should feel handcrafted and layered rather than digitally assembled. \n\nColor Strategy Base palette: monochrome black and white. Introduce selective color overlays only on specific grid cells. The accent colors should relate to the relevant team, brand, or national flag. Use color sparingly to create visual rhythm and emphasis. \n\nTypography and Branding – Strict Micro-Scaling Top Left (The name) Write “{argument name=\"person's name\" default=\"[person name]\"}” using the font Inter Semibold. Kerning: tight negative kerning , Size: small and discreet. The name must occupy a maximum of 20% of the total canvas width. Do not make it large or dominant. \nTop Right (The symbol) Place the primary logo (Team, Brand, or Flag). Size: very small. It must occupy a maximum of 10% of the total canvas width. \n\nComposition and Background Background Use off-white or light grey. Include a visible high-quality paper or subtle concrete texture. Avoid flat digital white. \nAlignment Center the silhouette precisely. Maintain generous negative space around the figure to preserve elegance and balance.",
     "title": "Gallery-Quality Tribute Poster with Textured Photo Mosaic Silhouette",
     "description": "A complex prompt for creating a high-quality tribute poster featuring a central black and white portrait silhouette filled with a dense, textured photo mosaic. The prompt emphasizes a tactile, layered, and premium aesthetic, avoiding flat digital collage work, and includes strict guidelines for color, typography, and composition.",

@@ -33,17 +33,17 @@ The `references/` directory contains categorized prompt data (auto-generated dai
 
 | File | Category | Count |
 |------|----------|-------|
-| `profile-avatar.json` | Profile / Avatar | 1052 |
-| `social-media-post.json` | Social Media Post | 6254 |
-| `infographic-edu-visual.json` | Infographic / Edu Visual | 453 |
-| `youtube-thumbnail.json` | YouTube Thumbnail | 169 |
-| `comic-storyboard.json` | Comic / Storyboard | 279 |
-| `product-marketing.json` | Product Marketing | 3627 |
-| `ecommerce-main-image.json` | E-commerce Main Image | 376 |
-| `game-asset.json` | Game Asset | 359 |
-| `poster-flyer.json` | Poster / Flyer | 473 |
+| `profile-avatar.json` | Profile / Avatar | 1055 |
+| `social-media-post.json` | Social Media Post | 6312 |
+| `infographic-edu-visual.json` | Infographic / Edu Visual | 455 |
+| `youtube-thumbnail.json` | YouTube Thumbnail | 172 |
+| `comic-storyboard.json` | Comic / Storyboard | 287 |
+| `product-marketing.json` | Product Marketing | 3675 |
+| `ecommerce-main-image.json` | E-commerce Main Image | 379 |
+| `game-asset.json` | Game Asset | 374 |
+| `poster-flyer.json` | Poster / Flyer | 479 |
 | `app-web-design.json` | App / Web Design | 167 |
-| `others.json` | Uncategorized | 905 |
+| `others.json` | Uncategorized | 910 |
 
 <!-- REFERENCES_END -->
 

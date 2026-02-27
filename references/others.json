@@ -12,6 +12,55 @@
     "needReferenceImages": true
   },
   {
+    "content": "Debussy\nPetite Suite \"En Bateau\"\nMake it a painting like Monet's \"Boating\"\n\nMake the water color sparkling blue!",
+    "title": "Debussy's 'En Bateau' in Monet Style Prompt",
+    "description": "A creative prompt asking the AI to visualize Debussy's musical piece 'En Bateau' (from Petite Suite) in the style of Monet's painting 'Boating' (La Barque), specifically requesting sparkling blue water colors.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174156939_blee09_HCHjpAuaoAEMPhQ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Convert a photo of a normal, realistic kitchen into a world entirely made of Lego blocks. However, only the inside of the refrigerator should remain a surreal image where real food is still visible.",
+    "title": "Nano Banana 2 vs. Pro Surreal Kitchen Scene Prompt",
+    "description": "A comparison test between Nano Banana 2 and Pro using a surreal prompt to transform a realistic kitchen into a Lego world, with the exception of the refrigerator contents remaining realistic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174159918_wn853k_HCGiH9HbEAApyQU.jpg",
+      "https://cms-assets.youmind.com/media/1772174159919_v76v53_HCGiSsdaQAA9KVI.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Create an ultra-realistic modern recreation of an old vintage photo, maintaining 99% facial likeness with no changes to the original face.\nTransform it into a high-quality digital portrait featuring vibrant, updated colors, smooth natural skin texture, and soft realistic lighting. Upgrade the outfit and background to a clean, contemporary style, while preserving the authentic pose, emotion, and essence of the original image.",
+    "title": "Vintage Photo Restoration to Modern Portrait Prompt",
+    "description": "A prompt designed to restore and transform an old vintage photo into an ultra-realistic, high-quality digital portrait, maintaining 99% facial likeness while upgrading colors, skin texture, lighting, and modernizing the outfit and background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174113317_hazboo_HCFhnpfXYAMTI_G.jpg",
+      "https://cms-assets.youmind.com/media/1772174113357_zqgadw_HCFhnp1boAAakNz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "Monet {argument name=\"theme\" default=\"Boating\"}\n{argument name=\"style\" default=\"Ethereal\"}",
+    "title": "Image generation prompt for Nano Banana Pro: Monet's 'Boating' in an ethereal style",
+    "description": "A Japanese image generation prompt for Nano Banana Pro (Gemini 3 Pro Image) that combines the style of Monet's painting 'Boating' with an ethereal aesthetic. The user notes that the result seems brighter.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174158076_ddh59t_HCD5nIZaMAA5SUC.jpg",
+      "https://cms-assets.youmind.com/media/1772174158197_39tan5_HCD5nKDbYAAk84s.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "\"Restore this old photo into professional portrait of DLSR - quality colour and detail, using an advanced upscaling algorithm comparable to the results from canon EOS R6 II. Ensure the restored the image looks natural, retains exact facial features, has great clarity......\"",
+    "title": "Vintage Photo Restoration to DSLR Quality Prompt (Truncated)",
+    "description": "A prompt snippet for restoring an old photo into a professional, high-definition portrait with DSLR quality, focusing on retaining exact facial features and clarity using an advanced upscaling algorithm.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174114033_1h1mp3_HCDTBZ1XUAA85wE.jpg",
+      "https://cms-assets.youmind.com/media/1772174114085_1foemv_HCDTBaIW4AAkazn.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "content": "Scene:\nA sleek high-speed train glides across an elevated rail bridge spanning an enormous flooded forest valley. Half-submerged ancient tree trunks rise from still reflective water while small patches of moss-covered land hold abandoned wooden cabins and broken docks. Morning fog drifts between the skeletal trees, and distant mountains fade into pale atmospheric haze. The bridge stretches far into the distance, its repeating supports creating strong cinematic perspective lines across the quiet, mysterious landscape.\n\nStyle:\nFantasy hand-drawn watercolor illustration style. Traditional watercolor rendering with visible pigment splashes, fluid paint diffusion, and softly blended tonal transitions. Delicate hand-illustrated linework with expressive drawn detailing and organic sketch-like contours. Soft, gentle color palette emphasizing airy tones and subtle saturation rather than strong contrast. Painterly layered watercolor textures combined with illustrative fantasy art aesthetics. Decorative, richly illustrated environments with numerous small background details integrated into the composition. Elegant full illustration treatment prioritizing handcrafted visual charm, artistic softness, and classic storybook-inspired fantasy rendering.",
     "title": "Fantasy Watercolor Illustration of an Elevated Rail Bridge over Flooded Forest",
     "description": "A detailed prompt for generating a fantasy watercolor illustration featuring a high-speed train on an elevated rail bridge spanning a mysterious flooded forest valley, emphasizing traditional watercolor techniques and a soft, atmospheric palette.",

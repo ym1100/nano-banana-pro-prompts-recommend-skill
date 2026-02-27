@@ -1,5 +1,149 @@
 [
   {
+    "content": "{\n\"scene\": \"A young woman dressed as a vampire sitting on a mossy log in a dark forest, flanked by three realistic werewolf creatures.\",\n\"subject\": {\n\"character\": \"Vampire girl\",\n\"face\": {\n\"structure\": \"Symmetrical, youthful, soft features\",\n\"skin\": \"Fair, pale complexion\",\n\"eyes\": {\n\"shape\": \"Almond-shaped\",\n\"color\": \"Dark brown\",\n\"expression\": \"Friendly, slightly mischievous smile\"\n},\n\"mouth\": {\n\"lips\": \"Natural pink tone with visible vampire fangs and small droplets of blood at the corners\"\n}\n},\n\"hair\": {\n\"color\": \"Dark brown / Black\",\n\"length\": \"Long, flowing behind shoulders\"\n}\n},\n\"creatures\": {\n\"type\": \"Werewolves\",\n\"count\": 3,\n\"appearance\": \"Highly detailed animatronic or costume style, thick brown/black fur, snarling expressions, visible yellowed fangs, pointed ears\"\n},\n\"pose\": {\n\"overall\": \"Relaxed sitting position\",\n\"position\": {\n\"base\": \"Seated on a fallen moss-covered tree trunk\",\n\"orientation\": \"Centrally framed, facing the camera\"\n}\n},\n\"outfit\": {\n\"dress\": {\n\"type\": \"Gothic Victorian style gown\",\n\"color\": \"Deep black\",\n\"material\": \"Velvet body with lace detailing\"\n}\n},\n\"environment\": {\n\"location\": \"Dense, dark forest\",\n\"ground\": \"Covered in dry brown leaves and a large mossy log\"\n},\n\"lighting\": {\n\"type\": \"Natural, diffused woodland light\",\n\"quality\": {\n\"intensity\": \"Soft, moody\"\n}\n},\n\"photography\": {\n\"angle\": \"Eye-level\",\n\"framing\": \"Full body shot, centered subject\",\n\"style\": \"Cinematic fantasy\"\n},\n\"color_palette\": {\n\"subject\": {\n\"hair\": \"Black\",\n\"skin\": \"Pale porcelain\",\n\"dress\": \"Jet black\"\n},\n\"environment\": {\n\"wood\": \"Deep brown and moss green\",\n\"leaves\": \"Earth tones, copper, and tan\",\n\"background\":",
+    "title": "Detailed Character Prompt: Vampire Girl with Werewolves",
+    "description": "A highly structured JSON prompt for generating a cinematic fantasy image of a vampire girl sitting on a log in a dark forest, flanked by three highly detailed werewolf creatures, focusing on gothic Victorian style and moody lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174126273_9hr1sc_HCHLNyZbkAAnllL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "hyperrealistic portrait of a beautiful, tattooed elf and warrior couple. Winter, snow, a woman holding a sword. A castle in the background. The elf woman has a tattoo, blue eyes, long white hair, and knightly armor.",
+    "title": "Hyperrealistic Tattooed Elf Couple",
+    "description": "A prompt for a hyperrealistic portrait of a beautiful, tattooed elf and warrior couple set in a winter scene with snow and a castle background. The female elf is specified to have a sword, blue eyes, long white hair, and knightly armor.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174139519_9a7ck6_HCGrsrSbsAE6sMM.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Anime character in a background, 2-point perspective with a keystoning angle, composition split in half: on the right, a 20-year-old woman is pressed against a wall, waiting and hiding; on the left, seen through a door frame, a male guard holding a submachine gun is walking stealthily.\n\nJapanese style animation, full color, modern Madhouse style (2020s), detailed cel shading, cinematic post-processing, masterpiece.",
+    "title": "Anime Stealth Scene with Keystoning Angle",
+    "description": "A prompt for generating an anime-style image using a specific 2-point perspective and keystoning camera angle, depicting a tense stealth scene split compositionally between a hiding woman and a patrolling male guard.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174118896_71epms_HCGm4bAXEAAUUnJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Person ({argument name=\"person\" default=\"Nishimura Mizuki\"})\nLeviathan and others",
+    "title": "Image Generation Prompt: Nishimura Mizuki and Leviathan",
+    "description": "A prompt for generating an image featuring the person {argument name=\"person\" default=\"西村瑞樹\"} along with the mythical creature Leviathan and other elements, used to test the Nano Banana Pro model's ability to handle specific character and creature requests.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174155521_cmm7nw_HCFt8RCbwAEZGwS.jpg",
+      "https://cms-assets.youmind.com/media/1772174155680_sn2a34_HCFt8RybQAAn6is.jpg",
+      "https://cms-assets.youmind.com/media/1772174155704_m4oc36_HCFt8TnaIAAQ0wY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Person ({argument name=\"person\" default=\"Nishimura Mizuki\"})\nFishing Leviathan",
+    "title": "Image Generation Prompt: Nishimura Mizuki Fishing Leviathan",
+    "description": "A prompt for generating an image featuring the person {argument name=\"person\" default=\"西村瑞樹\"} attempting to fish the mythical creature Leviathan, used to test the model's ability to combine specific actions and subjects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174156531_nchy62_HCFsPUpbIAAy8TZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Background Monster Hunter tower\nPerson ({argument name=\"person name\" default=\"Nishimura Mizuki\"}) VS Gold Rathian\nMake them hold a Slash Axe\nGolden aura over the entire Slash Axe\netc-like prompt",
+    "title": "Nano Banana Pro Monster Hunter Battle Prompt",
+    "description": "An image generation prompt for Nano Banana Pro (Gemini 3 Pro Image) requesting a battle scene set against the Monster Hunter tower background, featuring a person (Nishimura Mizuki) fighting Gold Rathian with a Slash Axe, and the axe glowing with a golden aura.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174161387_0zl484_HCFrH-abIAAp_SY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Transform the uploaded image into a stylized 3D claymation character. Soft felt / fuzzy texture skin, rounded exaggerated facial features, big expressive eyes, thick soft eyebrows, slightly oversized nose, warm blush tones on cheeks. Playful open-mouth expression. Clean pure white studio background. Soft diffused studio lighting, subtle rim light, shallow depth of field. Pixar-style charm, stop-motion aesthetic, highly detailed fibers and soft materials, cinematic render, warm vibrant tones.",
+    "title": "3D Claymation Character Transformation",
+    "description": "A prompt for transforming an uploaded image into a stylized 3D claymation character, emphasizing soft felt/fuzzy textures, exaggerated facial features (Pixar-style), and soft studio lighting for a stop-motion aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174153428_vtf7li_HCFD_ama0AARREs.jpg",
+      "https://cms-assets.youmind.com/media/1772174153356_d3k8j7_HCFD_avbkAELRlt.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "content": "A glowing banana-shaped float soaring forward like a rocket through space, leaving a trail of tiny sparkling particles that resemble cosmic dust.\n\nThe character cheerfully waves with pride while flying. The camera tracks smoothly from behind, following the motion, creating a dynamic cinematic feel. Add playful, lighthearted sci-fi sound effects to enhance the fun, adventurous atmosphere.",
+    "title": "Dynamic Video Prompt: Banana Float Rocket",
+    "description": "A prompt for generating a dynamic video of a glowing banana-shaped float soaring forward like a rocket through space, leaving a sparkling cosmic dust trail, with the character cheerfully waving and the camera tracking smoothly from behind.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174115322_1czhhz_HCFAvhsasAEMFcR.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"image_generation_prompt\": {\n    \"subject\": \"A cute, wide-eyed baby hybrid creature with a mix of soft, fluffy brown sloth fur and iridescent green dragon scales, featuring small orange wings.\",\n    \"action\": \"The creature is sitting on a mossy log, holding a glowing, magical pink orchid flower that emits a soft, ethereal light.\",\n    \"environment\": \"A lush, sun-drenched tropical jungle canopy with dense foliage, hanging vines, and soft bokeh.\",\n    \"art_style\": \"High-fidelity 3D animation, Disney-Pixar style, featuring large expressive eyes and detailed textures.\",\n    \"lighting\": \"Cinematic lighting with natural sunlight filtering through leaves (God rays) combined with a magical bioluminescent glow from the orchid.\",\n    \"composition\": \"Close-up shot focusing on the creature's endearing expression and the contrast between fur and scale textures.\"\n  },\n  \"metadata\": {\n    \"aspect_ratio\": \"16:9\",\n    \"quality\": \"Ultra-HD\",\n    \"style_reference\": \"Modern 3D Feature Film\"\n  }\n}",
+    "title": "Disney-Pixar Style Hybrid Sloth-Dragon Creature",
+    "description": "A structured prompt for generating a high-fidelity 3D animation image in the Disney-Pixar style. It describes a cute hybrid creature (sloth fur and dragon scales) sitting on a mossy log and holding a glowing, magical pink orchid in a sun-drenched tropical jungle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174147095_yv7hgd_HCEV1wJaMAQn8dv.jpg",
+      "https://cms-assets.youmind.com/media/1772174147089_50kb3i_HCEV1wGaYAAb5Jf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "An ultra-dominant cinematic power reveal of the character fully re-engineered in advanced mech armor, preserving the exact eye shape, spacing, facial structure, patterns, and original color palette with absolute fidelity. The helmet is open, framing the face without altering proportions. Identity remains untouched. No humanization. No anatomical reinterpretation.\n\nLikeness Preservation (CRITICAL):\nKeep the exact eyes, exact facial geometry, exact stylization. Armor integrates around the character’s existing design language. Patterns are embedded into armor plating, not replaced. Colors remain identical, only expressed through reinforced materials and illuminated seams.\nPerspective:\nWorm’s-eye ultra-low angle shot, camera almost touching the ground beneath the character. 16–18mm wide lens. Slight 7–10 degree horizon tilt to destabilize symmetry. One armored limb closer to the lens, dominating foreground mass.\n\nComposition:\nThe character occupies 70% vertical frame height. Helmet open. Face near upper third intersection point. One massive mech gauntlet partially cropped out of frame edge to create unsafe framing tension.\nPose:\nNot static. Transitional power ignition. One step forward mid-weight shift. Shoulder rotation engaged. Armor plates subtly separating as internal energy surges beneath.\n\nDepth of Field Discipline:\nPrimary focal plane locked on the eyes.\nForeground mech limb slightly soft.\nLower legs progressively fall into depth blur.\nBackground collapses into volumetric haze.\nLighting Structure:\nHard directional back cross-light slicing through armor edges.\nCold blue rim accent along shadow edge.\nSubtle warm internal glow leaking through mech seams.\nDeep shadow pockets between plating layers.\nSpecular highlights sharp and controlled, not glossy plastic.\n\nSurface Treatment:\nMicro-scratches on armor.\nSlight burnished metal variation.\nEnergy veins glowing beneath translucent panels.\nFace remains clean and consistent with original material identity.\nEnvironment:\nMinimal but monumental.\nVolumetric atmosphere.\nLight shafts cutting diagonally behind character.\nGround plane textured but subdued, darker than subject.\n\nEmotion:\nContained power.\nControlled destruction.\nThe mech is not worn. It has bonded.\nNegative Prompt:\nNo redesign of eyes.\nNo change in facial proportions.\nNo color shift.\nNo bulky random sci-fi accessories.\nNo symmetrical hero pose.\nNo flat studio lighting.\nAspect Ratio:\nar 4:5",
+    "title": "Mech Armor Power Reveal Prompt (Likeness Preservation)",
+    "description": "A highly technical prompt for generating a cinematic power reveal of a character fully re-engineered in advanced mech armor, with critical instructions to preserve the exact original facial geometry, eye shape, and color palette, using a worm's-eye ultra-low angle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174130258_oq9mvq_HCEMDrWXwAAsYGW.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Carrying a rocket launcher\nFiring diagonally up and left\nSend minor characters flying across the screen\n\nMake the person stand up\n\nFacing left\nCarrying a rocket launcher",
+    "title": "Nano Banana Pro Rocket Launcher Action Prompt",
+    "description": "An image generation prompt for Nano Banana Pro (Gemini 3 Pro Image) requesting a character carrying a rocket launcher, firing it diagonally up and left, and sending minor characters flying across the screen. The user struggles with getting the pose right.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174160719_lwq9ca_HCDyyBnbEAAIbIa.jpg",
+      "https://cms-assets.youmind.com/media/1772174160797_lp1end_HCDyyC7aMAEYIuS.jpg",
+      "https://cms-assets.youmind.com/media/1772174160940_lacriq_HCDyyARaMAAEdLi.jpg",
+      "https://cms-assets.youmind.com/media/1772174162120_3x3f7p_HCDyyFgbMAAEUmD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Zhuge Liang (person) VS Sima Yi\nLike Final Fantasy X\nWater Dragon VS Fire Dragon\n\nTrue Musou Ranbu\n\nSend as many minor characters as possible flying across the screen!",
+    "title": "Nano Banana Pro Dynasty Warriors/Final Fantasy Prompt (Full Screen)",
+    "description": "An image generation prompt for Nano Banana Pro (Gemini 3 Pro Image) requesting a battle scene between Zhuge Liang and Sima Yi, styled like Final Fantasy X with a Water Dragon vs. Fire Dragon, performing a 'Shin Musou Ranbu' (True Musou Rampage), and filling the screen with as many minor characters as possible.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174163017_gxy7ud_HCDw2MtaEAAZhAE.jpg",
+      "https://cms-assets.youmind.com/media/1772174162820_679ebw_HCDw2MvaMAEIrP-.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "Zhuge Liang Kongming (human) VS Sima Yi Zhongda\nLike {argument name=\"style\" default=\"Final Fantasy X\"}\n{argument name=\"element1\" default=\"Water Dragon\"} VS {argument name=\"element2\" default=\"Fire Dragon\"}\n\nBackground set to space\nRadiation of stars\nCharm on the feather fan",
+    "title": "Image generation prompt for Nano Banana Pro: Zhuge Liang vs. Sima Yi in a Final Fantasy X style cosmic battle",
+    "description": "A detailed Japanese image generation prompt for Nano Banana Pro (Gemini 3 Pro Image) requesting a scene featuring Zhuge Liang (human) versus Sima Yi in the style of Final Fantasy X, set in space with a cosmic background, radiating stars, and a charm on the feather fan, depicting a battle between a water dragon and a fire dragon.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174159098_cn3w7g_HCDwKbYbEAAYghz.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "PlayStation game case that's so full of \"X-Treme\" 90s marketing that you can't tell what the actual game is about",
+    "title": "X-Treme 90s PlayStation Game Case",
+    "description": "A prompt requesting the generation of a PlayStation game case design that is so saturated with 'X-Treme' 90s marketing tropes that the actual game content is obscured.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174151519_79hy2z_HCC4fR9XcAE852a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "content": "{\n  \"type\": \"image_generation_prompt\",\n  \"style\": \"ultra-realistic, cinematic, sci-fi mech aesthetic, cyberpunk\",\n  \"resolution\": \"8K\",\n  \"aspect_ratio\": \"2:3\",\n  \"scene\": {\n    \"location\": \"industrial workshop\",\n    \"background\": \"clean minimal workshop environment with subtle machinery elements and soft atmospheric haze\"\n  },\n  \"subject\": {\n    \"gender\": \"female\",\n    \"role\": \"cyberpunk mechanic\",\n    \"identity\": {\n      \"same_face\": true,\n      \"same_character\": true,\n      \"preserve_facial_features\": true,\n      \"realism\": \"exact facial structure, skin texture, and expression retained\"\n    },\n    \"pose\": {\n      \"stance\": \"standing strong and confident\",\n      \"body_language\": \"powerful, grounded posture\"\n    },\n    \"appearance\": {\n      \"outfit\": {\n        \"jacket\": \"purple futuristic techwear jacket\",\n        \"details\": [\n          \"tactical straps\",\n          \"utility pouches\",\n          \"reinforced armored panels\",\n          \"futuristic cyberpunk textures\"\n        ]\n      }\n    },\n    \"equipment\": {\n      \"exosuit_backpack\": {\n        \"type\": \"massive mechanical industrial exosuit\",\n        \"components\": [\n          \"large industrial engine core\",\n          \"exposed wires and cables\",\n          \"metal pipes and hydraulic tubes\",\n          \"heavy mechanical armor plates\",\n          \"mechanical joints and connectors\"\n        ],\n        \"style\": \"futuristic sci-fi mech design, functional and industrial\"\n      }\n    }\n  },\n  \"lighting\": {\n    \"type\": \"cinematic industrial lighting\",\n    \"details\": [\n      \"soft dramatic shadows\",\n      \"cool and warm mixed highlights\",\n      \"subtle volumetric light\",\n      \"metal reflections and glow accents\"\n    ]\n  },\n  \"camera\": {\n    \"focus\": \"sharp focus on subject and exosuit\",\n    \"depth_of_field\": \"shallow with soft background separation\",\n    \"composition\": \"centered, full-body or mid-body portrait\"\n  },\n  \"quality\": {\n    \"detail_level\": \"hyper detailed\",\n    \"textures\": \"ultra realistic skin, fabric, and metal textures\",\n    \"sharpness\": \"extremely sharp\",\n    \"noise\": \"clean high-resolution render\"\n  },\n  \"mood\": \"powerful, futuristic, cinematic, sci-fi industrial\",\n  \"constraints\": [\n    \"no cartoon style\",\n    \"no low detail\",\n    \"no distortion\",\n    \"no watermark\",\n    \"no text overlay\",\n    \"no unrealistic anatomy\"\n  ],\n  \"output_goal\": \"Create a hyper-realistic cinematic portrait of a cyberpunk mechanic girl wearing a massive mechanical exosuit backpack with industrial engine components, wires, pipes, and metal armor, standing strong in a minimal workshop environment with dramatic lighting and ultra-detailed sci-fi mech aesthetics.\"\n}",
+    "title": "Cyberpunk Mechanic with Massive Exosuit Backpack",
+    "description": "A highly structured prompt for generating an ultra-realistic, cinematic, cyberpunk portrait of a female mechanic wearing a massive, detailed mechanical exosuit backpack in a minimal industrial workshop setting, emphasizing hyper-detailed textures and dramatic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772174152530_hugfvc_HCCvDlhWgAAGfBa.jpg",
+      "https://cms-assets.youmind.com/media/1772174152444_8qmsaw_HCCvDj4XoAER2Be.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "content": "Extremely anthropomorphize ChatGPT-5.2 think, Gemini 3.1 pro, Claude, and Grok, characterizing them with creative expressions and poses, and arranging them in an image.",
     "title": "Anthropomorphizing LLMs",
     "description": "A prompt used to generate images of anthropomorphized LLMs (ChatGPT-5.2 think, Gemini 3.1 pro, Claude, Grok) with specific expressions and poses. The first image was generated by Nano Banana Pro, the second by ChatGPT.",
