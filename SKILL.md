@@ -153,6 +153,13 @@ If detected, set `contentIllustrationMode = true` and note the provided content 
 
 ### Step 1: Clarify Vague Requests
 
+**Always ask for more if context is insufficient.** Minimum info needed:
+- **What type of image** (avatar / cover / product photo / etc.)
+- **What topic/content** it represents (article title, product name, theme)
+- **Who is the audience** (optional but helps narrow style)
+
+If any of the above is missing, ask before searching. Don't guess.
+
 If user's request is too broad, ask for specifics:
 
 | Vague Request | Questions to Ask |
@@ -180,27 +187,36 @@ If user's request is too broad, ask for specifics:
 For each recommended prompt, provide in user's input language:
 
 ```markdown
-### [Prompt Title]
+### [编号]. [Prompt Title]
 
 **Description**: [Brief description translated to user's language]
 
-**Prompt**:
-```
-[Original English prompt from content field]
+**Prompt** (preview):
+> [Truncate to ≤100 chars then add "..."]
+
+[查看完整提示词](https://youmind.com/nano-banana-pro-prompts?id={id})
+
+**需要参考图**: [needReferenceImages 为 true 时注明，否则省略]
 ```
 
-**查看提示词**: [在 YouMind 查看完整提示词](https://youmind.com/nano-banana-pro-prompts?id={id})
+**CRITICAL — Full prompt in context**: Even though the display is truncated, the agent MUST hold the complete prompt text in its context so it can use it for customization in Step 5. Never discard the full prompt.
+
 **OpenClaw 图片发送流程**（Telegram 不支持外链图片，必须先下载再发）:
 ```
 1. exec: curl -fsSL --retry 2 "{sourceMedia[0]}" -o ~/clawd/tmp_nb_img.jpg
 2. message tool: action=send, channel=telegram, media=~/clawd/tmp_nb_img.jpg
-   caption: "[Prompt Title] — [首100字截断提示词]..."
+   caption: "[Prompt Title]"  ← 纯标题，不加 
+ 不加 markdown 链接
 3. exec: rm ~/clawd/tmp_nb_img.jpg
 ```
-注意：图片发完后，正文仍需输出完整 prompt，方便用户直接复制生图。
 
-**Requires Reference Images**: [Yes if needReferenceImages is true, otherwise No]
+**After presenting all prompts**, always ask the user to choose and offer customization:
+
+```markdown
+---
+你想用哪个？回复 1、2 或 3，我可以根据你的内容帮你定制 prompt（比如换主题、调整风格、加入你的信息）。
 ```
+(Adapt language to user's language)
 
 **If `contentIllustrationMode = true`**, add this notice after presenting all prompts:
 
@@ -250,9 +266,11 @@ If you'd like, I can search with different keywords or adjust the generated prom
 
 ### Step 5: Remix & Personalization (Content Illustration Mode Only)
 
-**TRIGGER**: Only proceed to this step AFTER user explicitly selects a template (e.g., "I choose 1", "Let's go with the second one", "Option 2").
+**TRIGGER**: Proceed to this step whenever the user selects a prompt (e.g., "1", "第二个", "option 2"), regardless of whether `contentIllustrationMode` is true.
 
-When user selects a prompt template in Content Illustration mode:
+This step applies to ALL users after selection — not just content illustration mode. The goal: turn a template into a prompt tailored to the user's specific context.
+
+When user selects a prompt:
 
 #### 5.1 Collect Personalization Info
 
