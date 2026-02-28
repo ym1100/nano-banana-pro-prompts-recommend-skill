@@ -1,20 +1,35 @@
 {
   "name": "nano-banana-pro-prompts-recommend-skill",
-  "version": "1.0.0",
-  "description": "Claude Code skill for recommending Nano Banana Pro image generation prompts",
+  "version": "1.1.0",
+  "description": "AI skill for recommending from 6000+ Nano Banana Pro (Gemini) image generation prompts — works with OpenClaw, Claude Code, Cursor, and more",
   "type": "module",
   "scripts": {
     "generate": "npx tsx scripts/generate-references.ts",
     "typecheck": "tsc --noEmit"
   },
   "keywords": [
+    "openclaw",
+    "openclaw-skill",
+    "clawhub",
     "claude-code",
+    "claude-code-skill",
+    "cursor",
     "skill",
+    "nano-banana",
     "nano-banana-pro",
+    "gemini",
+    "gemini-image",
     "prompts",
-    "image-generation"
+    "prompt-library",
+    "prompt-engineering",
+    "image-generation",
+    "ai-image",
+    "ai-art",
+    "image-prompts",
+    "content-creation",
+    "ai-agent-skill"
   ],
-  "author": "",
+  "author": "YouMind-OpenLab",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.10.0",
