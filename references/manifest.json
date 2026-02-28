@@ -1,18 +1,42 @@
 {
-  "updatedAt": "2026-02-28T10:35:00Z",
-  "totalPrompts": 14398,
+  "updatedAt": "2026-02-28T12:55:54.758Z",
+  "totalPrompts": 10224,
   "categories": [
     {
-      "slug": "app-web-design",
-      "title": "App / Web Design",
-      "file": "app-web-design.json",
-      "count": 167
+      "slug": "profile-avatar",
+      "title": "Profile / Avatar",
+      "file": "profile-avatar.json",
+      "count": 1064
+    },
+    {
+      "slug": "social-media-post",
+      "title": "Social Media Post",
+      "file": "social-media-post.json",
+      "count": 6382
+    },
+    {
+      "slug": "infographic-edu-visual",
+      "title": "Infographic / Edu Visual",
+      "file": "infographic-edu-visual.json",
+      "count": 458
+    },
+    {
+      "slug": "youtube-thumbnail",
+      "title": "YouTube Thumbnail",
+      "file": "youtube-thumbnail.json",
+      "count": 173
     },
     {
       "slug": "comic-storyboard",
       "title": "Comic / Storyboard",
       "file": "comic-storyboard.json",
       "count": 290
+    },
+    {
+      "slug": "product-marketing",
+      "title": "Product Marketing",
+      "file": "product-marketing.json",
+      "count": 3709
     },
     {
       "slug": "ecommerce-main-image",
@@ -27,46 +51,22 @@
       "count": 378
     },
     {
-      "slug": "infographic-edu-visual",
-      "title": "Infographic / Edu Visual",
-      "file": "infographic-edu-visual.json",
-      "count": 458
-    },
-    {
-      "slug": "others",
-      "title": "Uncategorized",
-      "file": "others.json",
-      "count": 910
-    },
-    {
       "slug": "poster-flyer",
       "title": "Poster / Flyer",
       "file": "poster-flyer.json",
       "count": 485
     },
     {
-      "slug": "product-marketing",
-      "title": "Product Marketing",
-      "file": "product-marketing.json",
-      "count": 3709
+      "slug": "app-web-design",
+      "title": "App / Web Design",
+      "file": "app-web-design.json",
+      "count": 167
     },
     {
-      "slug": "profile-avatar",
-      "title": "Profile / Avatar",
-      "file": "profile-avatar.json",
-      "count": 1064
-    },
-    {
-      "slug": "social-media-post",
-      "title": "Social Media Post",
-      "file": "social-media-post.json",
-      "count": 6382
-    },
-    {
-      "slug": "youtube-thumbnail",
-      "title": "YouTube Thumbnail",
-      "file": "youtube-thumbnail.json",
-      "count": 173
+      "slug": "others",
+      "title": "Uncategorized",
+      "file": "others.json",
+      "count": 910
     }
   ]
 }
