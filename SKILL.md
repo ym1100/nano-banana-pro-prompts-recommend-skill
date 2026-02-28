@@ -29,6 +29,18 @@ User provides image generation need → You recommend matching prompts with samp
 1. **Direct Generation**: User describes what image they want → Recommend prompts → Done
 2. **Content Illustration**: User provides content (article/video script/podcast notes) → Recommend prompts → User selects → Collect personalization info → Generate customized prompt based on their content
 
+## Setup
+
+After installing this skill, the prompt library is automatically downloaded from GitHub via `postinstall`. No credentials needed — all data is publicly available.
+
+If references are missing, run manually:
+```bash
+node scripts/setup.js
+```
+
+This fetches the latest `references/*.json` files from:
+https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill/tree/main/references
+
 ## Available Reference Files
 
 The `references/` directory contains categorized prompt data (auto-generated daily):
