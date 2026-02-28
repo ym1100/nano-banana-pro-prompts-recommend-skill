@@ -41,6 +41,7 @@ interface CMSPrompt {
 }
 
 interface OutputPrompt {
+  id: number;
   content: string;
   title: string;
   description: string;
@@ -95,6 +96,7 @@ function transformToOutputPrompt(item: CMSPrompt): OutputPrompt | null {
   }
 
   return {
+    id: item.id,
     content: item.translatedContent || item.content,
     title: item.title,
     description: item.description,

@@ -39,15 +39,15 @@ The `references/` directory contains categorized prompt data (auto-generated dai
 
 | File | Category | Count |
 |------|----------|-------|
-| `profile-avatar.json` | Profile / Avatar | 1055 |
-| `social-media-post.json` | Social Media Post | 6312 |
-| `infographic-edu-visual.json` | Infographic / Edu Visual | 455 |
-| `youtube-thumbnail.json` | YouTube Thumbnail | 172 |
-| `comic-storyboard.json` | Comic / Storyboard | 287 |
-| `product-marketing.json` | Product Marketing | 3675 |
-| `ecommerce-main-image.json` | E-commerce Main Image | 379 |
-| `game-asset.json` | Game Asset | 374 |
-| `poster-flyer.json` | Poster / Flyer | 479 |
+| `profile-avatar.json` | Profile / Avatar | 1064 |
+| `social-media-post.json` | Social Media Post | 6382 |
+| `infographic-edu-visual.json` | Infographic / Edu Visual | 458 |
+| `youtube-thumbnail.json` | YouTube Thumbnail | 173 |
+| `comic-storyboard.json` | Comic / Storyboard | 290 |
+| `product-marketing.json` | Product Marketing | 3709 |
+| `ecommerce-main-image.json` | E-commerce Main Image | 382 |
+| `game-asset.json` | Game Asset | 378 |
+| `poster-flyer.json` | Poster / Flyer | 485 |
 | `app-web-design.json` | App / Web Design | 167 |
 | `others.json` | Uncategorized | 910 |
 
@@ -142,9 +142,11 @@ For each recommended prompt, provide in user's input language:
 [Original English prompt from content field]
 ```
 
-**Sample Images**:
-![Sample 1](sourceMedia[0])
-![Sample 2](sourceMedia[1])
+**Sample Images**: [查看图片](https://youmind.com/nano-banana-pro-prompts?id={id})
+- Image 1: {sourceMedia[0]}
+- Image 2: {sourceMedia[1]} *(if available)*
+
+> **OpenClaw users**: Send `sourceMedia[0]` via the `message` tool (action=send, media=<url>) to display the image inline.
 
 **Requires Reference Images**: [Yes if needReferenceImages is true, otherwise No]
 ```
@@ -278,6 +280,7 @@ Remix the selected template by:
 
 ```json
 {
+  "id": 12345,
   "content": "English prompt text for image generation",
   "title": "Prompt title",
   "description": "What this prompt creates",
