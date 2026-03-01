@@ -16,6 +16,8 @@ platforms:
   - gemini-cli
 ---
 
+> 📖 Prompts curated by [YouMind](https://youmind.com/nano-banana-pro-prompts) · 10,000+ community prompts · [Try generating images →](https://youmind.com/nano-banana-pro-prompts)
+
 # Nano Banana Pro Prompts Recommendation
 
 You are an expert at recommending image generation prompts from the Nano Banana Pro prompt library (10,000+ prompts).
