@@ -1,5 +1,38 @@
 [
   {
+    "id": 11069,
+    "content": "Read the opening of the novel [{argument name=\"book\" default=\"BOOK\"}]  by  [{argument name=\"author\" default=\"AUTHOR\"}]. Create a manga page with one opening panel on the left side and four panels on the right side that visually retell the very beginning of the story. Each panel should follow the narrative progression of the opening scene. Classic black and white manga style, expressive ink lines, cinematic framing, strong storytelling composition.",
+    "title": "Manga Retelling of a Novel Opening",
+    "description": "A story prompt designed to instruct an AI (Nano Banana 2 in Firefly) to read the opening of a specified novel and visually retell the beginning scene across five manga panels (one large, four small), using a classic black and white manga style with expressive ink lines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346664541_y8gqle_HCQ-tXVW8AAEbl4.jpg",
+      "https://cms-assets.youmind.com/media/1772346665118_e0czfu_HCQ_DiyXcAEomBA.jpg",
+      "https://cms-assets.youmind.com/media/1772346665138_s7qng6_HCQ_GtlWAAA_RXH.jpg",
+      "https://cms-assets.youmind.com/media/1772346665401_s32glb_HCQ_KgOWwAAERrr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11076,
+    "content": "action shot of all 5 [character references] in an epic car chase, Onomatopoeia style graphic punctuates the action, cinematic shot",
+    "title": "Epic Car Chase Action Shot",
+    "description": "A simple prompt for Adobe Firefly using Nano Banana 2 to generate a cinematic action shot of five characters in a car chase, punctuated by Onomatopoeia-style graphic text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346668626_nn45uy_HCPwDDlXYAA7UGp.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11126,
+    "content": "Photorealistic cinematic film still live-action (no CGI). Preserve the subject's identity exactly from the reference photo: same facial structure, asymmetry, skin texture, pores, dirt, sweat. No beautification. Three-quarter body portrait, vertical. Torso angled sideways, head toward camera. Hands gripping a rugged improvised shotgun at waist level. Wasteland survivor - Mad Max: Fury Road visual language. Practical, battle-worn realism. Environment: open desert wasteland, orange sand and dust clouds, saturated turquoise sky. Background: slightly blurred post-apocalyptic pursuit vehicles, sense of imminent chase. Subtle motion blur and heat haze. Lighting: harsh overhead desert sun, extremely hard shadows. Rich detail in sun-bleached highlights and deep crushed shadows. Wardrobe & details: distressed leather, scarf around neck, dusty welding goggles on forehead. Windblown messy hair. Face smeared with engine grease and sand (naturalistic). Look & color: shot on 35mm film, Kodak Vision3 feel. Organic film grain, high contrast. Strong teal & orange grading, realistic skin tones. Emphasis on tactile realism: rusted metal, sand particles, sweat, grease, fabric weave. Final: raw, tense, sun-blasted, high-energy cinematic still.",
+    "title": "Mad Max Wasteland Survivor Film Still",
+    "description": "A detailed prompt for generating a photorealistic cinematic film still (no CGI) in the style of Mad Max: Fury Road. It emphasizes preserving the exact identity and imperfections of a subject from a reference photo, featuring them as a wasteland survivor gripping an improvised shotgun in a harsh, sun-blasted desert environment with strong teal and orange color grading.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346687677_003o3q_HCOEFGlbEAQP7g1.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 10979,
     "content": "create a cute style cel shaded cartoon comic strip  with textures that depicts the One Ring poem from LOTR.",
     "title": "Cel-Shaded Comic Strip Prompt for LOTR Poem",

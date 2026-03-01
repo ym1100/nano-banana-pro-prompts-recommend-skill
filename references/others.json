@@ -13,6 +13,47 @@
     "needReferenceImages": true
   },
   {
+    "id": 11065,
+    "content": "A highly detailed 4K digital painting of a young woman [Use the uploaded image as reference] with light eyes and wavy dark hair. She wears a high-neck white lace garment, with one hand gracefully positioned near her collarbone showing neutral manicured nails. The color palette is warm and earthy, dominated by browns, burnt sienna, and copper. Soft, diffused lighting creates a gentle glow on her face. The composition is a close-up portrait. The background is textured and mottled with faint vintage damask overlays that softly blend into the subject's edges. Ethereal, romantic, and subtly mysterious mood with a stylized painterly finish.",
+    "title": "Ethereal Digital Painting Portrait",
+    "description": "A prompt for generating a highly detailed 4K digital painting portrait of a young woman, emphasizing warm, earthy colors, soft diffused lighting, a high-neck white lace garment, and a textured background with faint vintage damask overlays.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346663197_wdg8hk_HCSHYEHXgAEVMcl.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11062,
+    "content": "Scene:\nA traveling herbalist’s wooden wagon parked in a wide flower-filled meadow, shelves of glass jars and bundled dried herbs hanging from the sides, a small folding table covered in potions and plants, a canvas shade stretched overhead, and butterflies drifting lazily through the warm open field.\n\nStyle:\nFantasy hand-drawn watercolor illustration style. Traditional watercolor rendering with visible pigment splashes, fluid paint diffusion, and softly blended tonal transitions. Delicate hand-illustrated linework with expressive drawn detailing and organic sketch-like contours. Soft, gentle color palette emphasizing airy tones and subtle saturation rather than strong contrast. Painterly layered watercolor textures combined with illustrative fantasy art aesthetics. Decorative, richly illustrated environments with numerous small background details integrated into the composition. Elegant full illustration treatment prioritizing handcrafted visual charm, artistic softness, and classic storybook-inspired fantasy rendering.",
+    "title": "Fantasy Watercolor Herbalist Wagon",
+    "description": "A prompt for generating a fantasy hand-drawn watercolor illustration of a traveling herbalist's wooden wagon parked in a flower-filled meadow, focusing on traditional watercolor techniques, delicate linework, and a soft, storybook aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346661962_99xzkm_HCRFzYqb0AAxD31.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11147,
+    "content": "Make me a panorama of this location in an anime style",
+    "title": "Google Maps to Anime Panorama Conversion",
+    "description": "A prompt used with Nano Banana 2 to convert a Google Maps screenshot into a detailed anime-style panorama, demonstrating the model's improved realism and prompt interpretation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346697026_8t1fl6_HCPWtUFaoAASs2N.jpg",
+      "https://cms-assets.youmind.com/media/1772346697246_2igj4u_HCPWtiRbEAECIPT.png"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11145,
+    "content": "Make me a panorama of this location in anime style.",
+    "title": "Map to Anime Panorama Conversion",
+    "description": "A prompt used with Nano Banana 2's AI animation feature to convert a map screenshot into an anime-style panorama, highlighting its compatibility with Adobe Firefly.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346696653_n7s2t6_HCNoZUYawAA86Df.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 10929,
     "content": "Debussy\nPetite Suite \"En Bateau\"\nMake it a painting like Monet's \"Boating\"\n\nMake the water color sparkling blue!",
     "title": "Debussy's 'En Bateau' in Monet Style Prompt",

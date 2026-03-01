@@ -56,6 +56,40 @@
     "needReferenceImages": false
   },
   {
+    "id": 11083,
+    "content": "Create an info graphic about the 1969 Woodstock Festival",
+    "title": "Infographic Creation with Simple Text Prompt",
+    "description": "A simple text prompt used with Adobe Firefly Boards and Nano Banana 2 (with Google Search enabled) to create an infographic about the 1969 Woodstock Festival.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346671213_t80l5b_HCQNKriWgAAC67s.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11074,
+    "content": "A conceptual architectural isometric model of an organic-form corporate office tower, presented as an exhibition-scale diorama. The building is shown with a cutaway section, exposing fluid spatial flow, curved meeting rooms, and lounge zoning from a top-down isometric perspective. Volumes are lightly separated by seamlessly curved translucent partitions to suggest circulation and function. Warm micro-LEDs illuminate the individual floors from within. Strong use of negative space and clear compositional hierarchy. Thin structural outlines, soft pastel lavender and mint, ribbed wood and dark terrazzo tones, minimal abstract signage, subtle human-scale markers. Smooth surfaces, pill-shaped rounded edges, dramatic controlled studio lighting, architectural model photography style, clean dark neutral background, high-detail yet minimal.",
+    "title": "Conceptual Isometric Office Tower Model",
+    "description": "A prompt for generating a conceptual architectural isometric model (diorama style) of an organic-form corporate office tower, viewed from a top-down perspective, emphasizing fluid spatial flow, soft pastel colors, ribbed wood, and controlled studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346666853_pe8t48_HCPbtcyXkAAgMJV.jpg",
+      "https://cms-assets.youmind.com/media/1772346666829_k3fjgc_HCPbtcpWUAAQ9AV.jpg",
+      "https://cms-assets.youmind.com/media/1772346666814_7tjdub_HCPbtcyWwAA2iC0.jpg",
+      "https://cms-assets.youmind.com/media/1772346667640_lilznm_HCPbtctW8AAo105.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11138,
+    "content": "Referencing this character, generate a Pokémon Zukan-style illustration. The Zukan No. is {argument name=\"Zukan Number\" default=\"[Enter Zukan No.]\"}. The background is white. The Zukan description text is {argument name=\"Description Text\" default=\"[Enter description text]\"}. Reproduce the Zukan layout and design.",
+    "title": "Generating Pokémon Zukan (Illustrated Guide) Style Art",
+    "description": "The user generated Pokémon Zukan-style illustrations of their characters using Nano Banana (not Pro) to celebrate Pokémon's 30th anniversary. The prompt is shared in the ALT text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346692714_c8s49l_HCOoVFubEAAoja7.jpg",
+      "https://cms-assets.youmind.com/media/1772346693074_6ksinz_HCOoVFra8AA44Pf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11032,
     "content": "{\n  \"Objective\": \"Create a 3:4 vertical sports equipment breakdown layout of Victor Osimhen with a more visually appealing and premium left panel design.\",\n  \"AspectRatio\": \"3:4\",\n  \"Layout\": {\n    \"Type\": \"Vertical split infographic\",\n    \"LeftPanel\": {\n      \"Width\": \"38%\",\n      \"Background\": {\n        \"BaseColor\": \"Soft warm ivory\",\n        \"Texture\": \"Subtle luxury paper texture\",\n        \"Overlay\": \"Very light gradient from top left (brighter) to bottom right (slightly darker)\",\n        \"AccentElements\": [\n          \"Faint abstract stadium-light glow in background\",\n          \"Soft diagonal shadow for depth\"\n        ]\n      },\n      \"LightingStyle\": \"Soft studio lighting from upper left\",\n      \"ShadowStyle\": {\n        \"UnderItems\": \"Soft drop shadows beneath each product\",\n        \"SideShadow\": \"Gentle panel shadow near split line for dimensional separation\",\n        \"Realism\": \"Natural soft shadows, not harsh\"\n      },\n      \"ItemsDisplayedAsImages\": true,\n      \"ItemPresentation\": {\n        \"Layout\": \"Vertical stack with breathing space\",\n        \"CardStyle\": \"Each item slightly elevated with subtle shadow\",\n        \"Spacing\": \"Balanced luxury spacing between elements\"\n      },\n      \"Items\": [\n        {\n          \"ItemName\": \"Protective Face Mask\",\n          \"ImageStyle\": \"Isolated product image floating slightly with soft shadow\",\n          \"TextPlacement\": \"Centered underneath in refined typography\"\n        },\n        {\n          \"ItemName\": \"Galatasaray Home Jersey\",\n          \"ImageStyle\": \"Front-facing flat-lay with realistic fabric texture\",\n          \"TextPlacement\": \"Centered underneath\"\n        },\n        {\n          \"ItemName\": \"Match Shorts\",\n          \"ImageStyle\": \"Clean product cut-out with depth shadow\",\n          \"TextPlacement\": \"Centered underneath\"\n        },\n        {\n          \"ItemName\": \"Elite Football Cleats\",\n          \"ImageStyle\": \"Angled product shot with subtle reflective shadow\",\n          \"TextPlacement\": \"Centered underneath\"\n        },\n        {\n          \"ItemName\": \"Performance Socks\",\n          \"ImageStyle\": \"Minimal isolated display with soft grounding shadow\",\n          \"TextPlacement\": \"Centered underneath\"\n        }\n      ],\n      \"Typography\": {\n        \"Font\": \"Modern elegant sans-serif\",\n        \"Weight\": \"Medium\",\n        \"Color\": \"Deep charcoal\",\n        \"Spacing\": \"Generous letter spacing for premium feel\"\n      }\n    },\n    \"RightPanel\": {\n      \"Width\": \"62%\",\n      \"ImageStyle\": \"Smartphone photograph\",\n      \"Scene\": {\n        \"Subject\": \"Victor Osimhen celebrating a goal\",\n        \"Action\": \"Running with a smile, slight fist pump\",\n        \"Location\": \"Football pitch\",\n        \"Lighting\": \"Natural stadium lighting\",\n        \"Background\": \"Crowd naturally blurred\",\n        \"Realism\": \"Authentic phone camera clarity\"\n      }\n    }\n  },\n  \"VisualStyle\": {\n    \"OverallLook\": \"Premium modern sports editorial\",\n    \"Dept",
     "title": "Sports Equipment Infographic Layout of Victor Osimhen",

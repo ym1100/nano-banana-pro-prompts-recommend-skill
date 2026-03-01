@@ -1,5 +1,15 @@
 [
   {
+    "id": 11117,
+    "content": "Based on the uploaded 2D floor plan, generate a professional interior design presentation board in a single image. Layout : The final image should be a collage with one large main image at the top, and several smaller images below it. Content of Each Panel :\n\n1. Main Image (Top) : A wide-angle perspective view of the main living area , showing the connection between the living room and dining area.\n\n2. Small Image (Bottom Left) : A view of the Master Bedroom , focusing on the bed and window.\n\n3. Small Image (Bottom Middle) : A view of the Home Office / Study room .\n\n4. Small Image (Bottom Right) : A 3D top-down floor plan view showing the furniture layout. Overall Style : Apply a consistent Modern Minimalist style with warm oak wood flooring and off-white walls across ALL images. Quality : Photorealistic rendering, soft natural lighting.\nImage Ratio 3:4",
+    "title": "Modern Minimalist Interior Design Presentation Board",
+    "description": "A prompt for generating a professional interior design presentation board based on an uploaded 2D floor plan. The output should be a collage featuring a large main image of the living/dining area and three smaller images showing the Master Bedroom, Home Office, and a 3D top-down floor plan, all rendered in a consistent Modern Minimalist style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346684789_0n5kmy_HCNiK1QaMAAFRnN.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 10810,
     "content": "Make a beautiful 9:16 wallpaper. Leave natural negative space near the top and bottom. Give the wallpaper a subtle top to bottom gradient. No blur effects or cropping. Keep the scene simple.\n({argument name=\"image concept\" default=\"[Enter the image concept you want to generate]\"})",
     "title": "Nano Banana Pro Prompt: 9:16 Wallpaper Generation",

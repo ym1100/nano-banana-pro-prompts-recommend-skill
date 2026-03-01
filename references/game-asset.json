@@ -1,5 +1,57 @@
 [
   {
+    "id": 11084,
+    "content": "create a screenshot of the overworld for this game in the same area, with one pokemon following the player, fit the vibe of the reference",
+    "title": "Pokémon Overworld Screenshot Generation",
+    "description": "A prompt for Nano Banana 2 instructing it to create a screenshot of a game's overworld in a specific area, featuring one Pokémon following the player, while matching the vibe of a provided reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346671943_pd1plw_HCPy5O3XYAE3vlk.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11139,
+    "content": "Final Fantasy\nPlace the person (I) in the bottom right of the screen, facing diagonally up and to the left\nTransform into the Great Sorceress Barbara\nBackground is space, many shining shooting stars\nVS Griever",
+    "title": "Final Fantasy transformation prompt (Nano Banana Pro)",
+    "description": "An image generation attempt using Nano Banana Pro (Gemini 3 Pro Image). The prompt instructs the AI to transform the user (referred to as 'I') into the Great Sorceress Barbara from Final Fantasy, positioned in the bottom right, looking up and to the left, with a background of space and many shining shooting stars, battling Griever. (Duplicate prompt of 2027718880488264322)",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346694252_eqmhsp_HCPn0ETbEAI1EUy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11140,
+    "content": "Final Fantasy\nPlace the person (I) in the bottom right of the screen, facing diagonally up and to the left\nTransform into the Great Sorceress Barbara\nBackground is space, many shining shooting stars\nVS Griever",
+    "title": "Final Fantasy transformation prompt (Nano Banana Pro)",
+    "description": "An image generation attempt using Nano Banana Pro (Gemini 3 Pro Image). The prompt instructs the AI to transform the user (referred to as 'I') into the Great Sorceress Barbara from Final Fantasy, positioned in the bottom right, looking up and to the left, with a background of space and many shining shooting stars, battling Griever.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346693771_6ry2b6_HCPnkdrbwAAzBZ5.jpg",
+      "https://cms-assets.youmind.com/media/1772346693801_j7x29e_HCPnkflbEAAKxL5.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11138,
+    "content": "Referencing this character, generate a Pokémon Zukan-style illustration. The Zukan No. is {argument name=\"Zukan Number\" default=\"[Enter Zukan No.]\"}. The background is white. The Zukan description text is {argument name=\"Description Text\" default=\"[Enter description text]\"}. Reproduce the Zukan layout and design.",
+    "title": "Generating Pokémon Zukan (Illustrated Guide) Style Art",
+    "description": "The user generated Pokémon Zukan-style illustrations of their characters using Nano Banana (not Pro) to celebrate Pokémon's 30th anniversary. The prompt is shared in the ALT text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346692714_c8s49l_HCOoVFubEAAoja7.jpg",
+      "https://cms-assets.youmind.com/media/1772346693074_6ksinz_HCOoVFra8AA44Pf.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11052,
+    "content": "Referencing this character, create a cute deformation. Design 16 types of LINE stickers. Ensure a rich variety of sets by devising poses and text placements so that there are no similar stickers. The dialogue should be in Japanese with pop-style characters. The background should be white. Create a set that is easy to use in the daily conversations of a \"{argument name=\"target\" default=\"high school girl\"}\".",
+    "title": "Creating LINE Stickers with Nano Banana 2",
+    "description": "A prompt template for generating a set of 16 LINE stickers using Nano Banana 2, emphasizing cute deformation, variety in poses and text, and suitability for high school girl daily conversations.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346692709_x04nrb_HCOQfkabEAIBJz7.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11045,
     "content": "A hand-drawn treasure map on aged parchment, with the adventure erupting into three-dimensional quest. {argument name=\"starting point\" default=\"STARTING_POINT\"} rises at the map's edge with {argument name=\"departure scene\" default=\"DEPARTURE_SCENE\"}, the dotted path becomes an actual trail traversing {argument name=\"terrain 1\" default=\"TERRAIN_1\"} with {argument name=\"danger 1\" default=\"DANGER_1\"}, passing {LANDMARK_1} where {OBSTACLE_1} awaits. {TERRAIN_2} features {WILDLIFE_1} and {ENVIRONMENTAL_HAZARD}. The X marking the spot glows beneath {FINAL_LOCATION}, treasure partially visible, {GUARDIAN_ELEMENT} protecting it. Miniature expedition party frozen mid-journey at various points along the route. Torn edges of the map become cliffs. Coffee stains become lakes. Burn marks become scorched earth from battles past. Candlelight flicker, adventure novel lighting, 8K, the map as the story it promises.",
     "title": "Treasure Map Adventure Prompt for Nano Banana 2",

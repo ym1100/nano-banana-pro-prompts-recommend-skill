@@ -1,5 +1,51 @@
 [
   {
+    "id": 11125,
+    "content": "{\n  \"image_generation_request\": {\n    \"subject\": {\n      \"placeholder\": \"{argument name=\"product name\" default=\"INSERT PRODUCT HERE\"}\",\n      \"position\": \"dead center, eye-level, perfectly centered in frame\",\n      \"presentation\": \"levitating, floating in a weightless void, no stands, no platforms, no pedestals, no visible supports\"\n    },\n    \"environment\": {\n      \"background\": \"absolute solid pitch black, hex code #000000, infinite void\",\n      \"lighting\": \"rim lighting, cinematic chiaroscuro, high-contrast glints on metallic edges, soft orange glow from internal recesses\"\n    },\n    \"aesthetic_style\": {\n      \"textures\": [\n        \"shot-blasted matte titanium\",\n        \"brushed aerospace-grade aluminum\",\n        \"anodized dark grey metal\",\n        \"ribbed industrial vertical cooling fins\"\n      ],\n      \"optical_effects\": \"viewed through vertical fluted reeded glass, subtle chromatic distortion, refractive glass warping, radial motion blur on outer edges\",\n      \"color_palette\": {\n        \"primary_background\": \"#000000\",\n        \"secondary_metal\": \"#8E8E8E\",\n        \"accent_glow\": \"#FF8C00\",\n        \"highlights\": \"#FFFFFF\"\n      }\n    },\n    \"composition_constraints\": {\n      \"framing\": \"ensure full product visibility, do not cut off edges, wide safety margins around the subject\",\n      \"elements_to_exclude\": [\n        \"text\",\n        \"logos\",\n        \"watermarks\",\n        \"softboxes\",\n        \"light stands\",\n        \"floor\",\n        \"horizon line\",\n        \"props\",\n        \"human hands\",\n        \"shadows on surfaces\"\n      ]\n    },\n    \"technical_specs\": {\n      \"focal_length\": \"85mm macro lens\",\n      \"depth_of_field\": \"deep focus on product, blurred refractive foreground glass\",\n      \"render_engine\": \"photorealistic octane render, 8k resolution, ray-traced reflections\"\n    }\n  }\n}",
+    "title": "Restomod Product Shot with Chiaroscuro Lighting",
+    "description": "A structured JSON prompt for generating a photorealistic 8k Octane render of a product (placeholder) centered and levitating in a pitch-black void. The prompt specifies technical details like rim lighting, high-contrast chiaroscuro, specific metallic textures (titanium, aluminum), and optical effects like fluted glass distortion.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346687595_bcrg7q_HCOeiR2WEAAnYoC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11102,
+    "content": "Ultra-realistic luxury cosmetic product photography in a dramatic monochromatic blue-violet composition. A sleek satin-finish periwinkle-blue squeeze tube labeled “{argument name=\"brand name\" default=\"STENDERS\"}” stands vertically centered in the frame, featuring elegant silver typography and a reflective metallic chrome cap. The tube is surrounded by voluminous swirling clouds of ink-like smoke in layered shades of lavender, indigo, and icy blue, creating a soft, billowing texture that wraps around the product. Interwoven throughout the smoke are fresh purple and lilac flowers with intricate petal details and vibrant yellow centers, along with delicate sprigs of tiny violet blossoms for added dimension. Soft directional lighting from the upper left highlights the smooth curvature of the tube, adds subtle sheen to the metallic cap, and creates depth within the smoke plumes. The background seamlessly blends cool blue and purple tones, enhancing the ethereal, floral fragrance aesthetic. Hyper-detailed textures of petals and vapor, cinematic depth, high-end perfumed skincare advertising style, 8K ultra-high resolution",
+    "title": "Luxury Cosmetic Product Photography",
+    "description": "A detailed prompt for generating ultra-realistic luxury cosmetic product photography. It focuses on a periwinkle-blue squeeze tube surrounded by swirling, ink-like clouds of blue and violet smoke, interwoven with fresh purple and lilac flowers, emphasizing dramatic monochromatic composition and high-end advertising style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346678300_sowfar_HCPwzkRbEAQCCOw.jpg",
+      "https://cms-assets.youmind.com/media/1772346678345_gzn8ud_HCPwzlTaAAEI4RA.jpg",
+      "https://cms-assets.youmind.com/media/1772346678408_4bytwx_HCPwzlWaUAAOVO3.jpg",
+      "https://cms-assets.youmind.com/media/1772346679547_l1c2u2_HCPwzmJaAAAalmy.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11087,
+    "content": "Turn just the subject into a gold enamel pin. It's a minimal photo of the pin on a desk, no other items.",
+    "title": "Subject-to-Enamel Pin Conversion",
+    "description": "A simple prompt demonstrating how to use Nano Banana 2 to convert a subject into a gold enamel pin. The prompt specifies a minimal photo of the pin on a desk with no other items.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346673111_m4rcxp_HCPlWdDXoAADqvk.jpg",
+      "https://cms-assets.youmind.com/media/1772346673123_tgqh51_HCPlZ3pbEAYSK2J.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11141,
+    "content": "Please create a front-diagonal angle of the figure in the image. Respect and accurately reproduce the figure's details and color scheme based on the original design. The background should be white, the aspect ratio should be 1:1 square, and the size should be adjusted so that the entire figure fits comfortably within the frame.",
+    "title": "Comparing ChatGPT 5.2 and Nano Banana 2 for Devilman modeling",
+    "description": "A comparison of generation results between ChatGPT 5.2 and Nano Banana 2 using past modeling data for 'Devilman Ver-Showa Anime Taste Edition'. The prompt asks for a front-diagonal angle of a figure based on a reference image, respecting the original design's details and coloring.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772346693898_kcxvcb_HCO4IkObEAUFRoT.jpg",
+      "https://cms-assets.youmind.com/media/1772346693923_48bj2a_HCO4JJTaEAIDEF3.jpg",
+      "https://cms-assets.youmind.com/media/1772346693868_izcgpr_HCO4L-daYAA4_-4.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 10951,
     "content": "[Brand Name], conceptualized as a cohesive, premium \"capsule collection\" of branded merchandise and functional souvenirs. The image displays a curated set of various physical objects (such as tech accessories, utility gear, lifestyle items, or stationery) that are semantically relevant to the brand's specific industry and audience. Every item is designed using the brand's official signature color palette and features bold logo integration.\nThe objects are arranged in a clean, organized group composition (knolling or isometric perspective) on a seamless, infinite studio white background. The lighting is soft and professional, creating subtle shadows. The framing is wide, ensuring significant negative space (air) surrounds the product grouping on all sides.",
     "title": "Premium Branded Merchandise Capsule Collection (Knolling Perspective)",
@@ -13,13 +59,13 @@
   },
   {
     "id": 10971,
-    "content": "Give me this front packaging on a 2D flat white background",
-    "title": "Simple 2D Flat Packaging Generation Prompt",
-    "description": "A simple prompt used with Nano Banana Pro to convert packaging into a 2D flat version on a white background.",
+    "content": "\"Give me this front packaging on a 2D flat white background\"",
+    "title": "2D Flat Packaging Generation",
+    "description": "A simple prompt used to generate a 2D flat version of a product's front packaging against a white background, likely used for design or e-commerce purposes.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1772259922175_1xxn83_HCOMeamXgAAzwiQ.jpg"
+      "https://cms-assets.youmind.com/media/1772346679731_3cj70c_HCOMeamXgAAzwiQ.jpg"
     ],
-    "needReferenceImages": true
+    "needReferenceImages": false
   },
   {
     "id": 10972,
