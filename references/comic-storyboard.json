@@ -1,5 +1,26 @@
 [
   {
+    "id": 11164,
+    "content": "low angle wide shot at 45-degree side view of an astronaut walking down a desolate street at night, the time period is 1852, the astronaut is from 2027 and works for space x. The street is dirt and the air is hazy with light fog, there are two horses by a water trough in front of a hotel on the left of frame, there is a sign on the hotel that says Hilton, and on the right in the background a small building with a sign that says jail is just beginning to burn on fire, flames from inside the windows and licking up out of the roof, none of the other buildings in the small town street are on fire. on the right in the foreground slightly out of focus is a tesla with rocket boosters strapped to the back of it and standing near it is a beautiful woman in a mid 1800's dress is lighting a stick of dynamite, she has a devious smirk on her face. this scene is shot on a 35mm film camera with kodak film that has a daylight hue and has been graded with a muted color pallet",
+    "title": "Wild West Sci-Fi Time Travel Scene Prompt",
+    "description": "A highly specific, cinematic prompt comparing Nano Banana Pro and Nano Banana 2. It describes a low-angle, wide shot of a 2027 astronaut from SpaceX walking down a desolate 1852 street, featuring a Tesla with rocket boosters, a burning jail, and a woman lighting dynamite, all shot on 35mm film with a muted color palette.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433492763_z94ra3_HCVZF-LX0AAdIEu.jpg",
+      "https://cms-assets.youmind.com/media/1772433492756_tsjaso_HCVY_ZDWoAAXQ27.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11249,
+    "content": "Create a slice-of-life heartwarming 4-panel manga starring the cat \"Matatabi.\" Also, feature the red-haired girl \"Zan-chan.\"",
+    "title": "4-Panel Manga Generation Prompt",
+    "description": "A prompt used to generate a 4-panel slice-of-life manga in one shot using Nano Banana 2, featuring the cat 'Matatabi' and the red-haired girl 'Zan-chan'.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433525362_yd61oe_HCSNtnIbEAUEZiU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11069,
     "content": "Read the opening of the novel [{argument name=\"book\" default=\"BOOK\"}]  by  [{argument name=\"author\" default=\"AUTHOR\"}]. Create a manga page with one opening panel on the left side and four panels on the right side that visually retell the very beginning of the story. Each panel should follow the narrative progression of the opening scene. Classic black and white manga style, expressive ink lines, cinematic framing, strong storytelling composition.",
     "title": "Manga Retelling of a Novel Opening",

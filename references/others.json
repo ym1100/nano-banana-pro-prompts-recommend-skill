@@ -13,6 +13,27 @@
     "needReferenceImages": true
   },
   {
+    "id": 11205,
+    "content": "take a photo at {argument name=\"latitude\" default=\"31.2001° N\"}, {argument name=\"longitude\" default=\"29.9187° E\"}, {argument name=\"date\" default=\"August 12, 30 BCE\"}, {argument name=\"time\" default=\"16:00 hours\"}",
+    "title": "Historical Moment Capture Prompt",
+    "description": "A prompt attempting to capture a historical moment by specifying exact geographical coordinates, date, and time (August 12, 30 BCE, 16:00 hours at 31.2001° N, 29.9187° E, which is near Alexandria, Egypt).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433507796_j5eoqw_HCUGaf5XYAAMJ39.jpg",
+      "https://cms-assets.youmind.com/media/1772433507798_6pb0dr_HCUGaheWkAE_Aa4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11254,
+    "content": "𝗣𝗥𝗢𝗠𝗣𝗧 𝗜𝗗𝗘𝗔𝗦\n𝐹͟𝑂͟𝑅͟ 𝐴͟𝑃͟𝑅͟𝐸͟𝑆͟𝐼͟𝐴͟𝑆͟𝐼͟ 𝑃͟𝐿͟𝑂͟𝑇.",
+    "title": "Prompt Ideas for Apreciasi Plot",
+    "description": "A tweet sharing a resource or collection of prompt ideas specifically for generating 'Apreciasi Plot' content, likely for use with an LLM or text generation tool.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433526678_t43zx9_HCTiBvDbEAM8N19.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11065,
     "content": "A highly detailed 4K digital painting of a young woman [Use the uploaded image as reference] with light eyes and wavy dark hair. She wears a high-neck white lace garment, with one hand gracefully positioned near her collarbone showing neutral manicured nails. The color palette is warm and earthy, dominated by browns, burnt sienna, and copper. Soft, diffused lighting creates a gentle glow on her face. The composition is a close-up portrait. The background is textured and mottled with faint vintage damask overlays that softly blend into the subject's edges. Ethereal, romantic, and subtly mysterious mood with a stylized painterly finish.",
     "title": "Ethereal Digital Painting Portrait",

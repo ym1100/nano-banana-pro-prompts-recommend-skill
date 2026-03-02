@@ -1,5 +1,71 @@
 [
   {
+    "id": 11195,
+    "content": "High-end cinematic product photography of luxury skincare bottles labeled 'AQUAVÉR'. The scene is set in a breathtaking Alpine landscape with snow-capped mountains and crystal-clear glacial water. The bottles are placed on mossy rocks inside a shallow stream with realistic water splashes and reflections. Includes delicate white Edelweiss flowers and a pouring water stream on the side. Ultra-realistic, 8k resolution, bright natural daylight, refreshing and premium aesthetic. --ar 16:9.",
+    "title": "Luxury Skincare Product Photography Prompt",
+    "description": "A prompt for Nano Banana Pro on Gemini to create high-end cinematic product photography for luxury skincare bottles ('AQUAVÉR'). The scene is set in a breathtaking Alpine landscape with glacial water, mossy rocks, and Edelweiss flowers, emphasizing ultra-realism, 8k resolution, and a refreshing, premium aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433505306_twy2cv_HCWq3rcboAAw1mG.jpg",
+      "https://cms-assets.youmind.com/media/1772433505291_qzl4wf_HCWq4Ska0AAY9uV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11159,
+    "content": "Ultra-realistic premium skincare serum bottle (dark green glass with dropper), golden liquid inside, placed on sunlit marble surface with fresh orange slices around, natural citrus vibe, water splash frozen mid-air, detailed droplets and reflections, soft natural sunlight with sharp shadows, minimal aesthetic, macro photography, high detail textures, glossy glass reflections, fresh and vibrant color tones, luxury skincare advertising, 8K, perfect composition.",
+    "title": "Citrus Skincare Product Macro Photography Prompt",
+    "description": "A prompt for generating ultra-realistic macro photography of a luxury skincare serum bottle. The scene features a dark green glass bottle with golden liquid, placed on sunlit marble, surrounded by fresh orange slices, with a water splash frozen mid-air, emphasizing vibrant colors and a natural citrus aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433489994_3zyeju_HCVhnUxasAEhtGP.jpg",
+      "https://cms-assets.youmind.com/media/1772433489981_ma8law_HCVhjWZbMAEbxxH.jpg",
+      "https://cms-assets.youmind.com/media/1772433489938_q3mbnv_HCVhjTVbkAALqqQ.jpg",
+      "https://cms-assets.youmind.com/media/1772433490853_rctoq4_HCVhnWEaoAADBpm.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11256,
+    "content": ": {\n\"task\": \"image_generation\",\n\"aspect_ratio\": \"vertical\",\n\"style\": [\n\"professional commercial food photography\",\n\"award-winning advertising quality\",\n\"hyper-realistic\",\n\"cinematic 8k resolution\"\n],\n\"subject\": {\n\"element\": \"chili peppers\",\n\"attributes\": [\"vibrant intense red\", \"glossy skin\"],\n\"position\": \"exact center of the frame, dynamically suspended in mid-air\"\n},\n\"environment_and_fx\": {\n\"background\": \"dark, moody, slightly smoky\",\n\"effects\": [\n\"explosive burst of roaring fire\",\n\"glowing embers\",\n\"flying sparks violently erupting around the peppers\"\n],\n\"atmosphere\": \"scorching hot, dramatic contrast\"\n},\n\"lighting_and_camera\": {\n\"lighting\": [\"high-end studio lighting\", \"strong rim lighting to separate subject from flames\"],\n\"focus\": \"razor-sharp focus on the glossy skin of the peppers\"\n}\n}",
+    "title": "Explosive Chili Peppers Food Photography Prompt for Nano Banana 2",
+    "description": "A structured prompt for Nano Banana 2 designed to generate a hyper-realistic, cinematic commercial food photograph of vibrant red chili peppers suspended in mid-air amidst an explosive burst of fire and glowing embers.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433527400_rtxq3x_HCVW3pvaIAApLtM.jpg",
+      "https://cms-assets.youmind.com/media/1772433527398_j5p9yw_HCVW4CAXUAAybsJ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11227,
+    "content": "\"A photorealistic, highly detailed commercial product photograph of a heavy cylindrical midnight-blue glass Dior perfume bottle centered against a minimal, textured dusky twilight blue paper background, with subtle fibers visible. A single, continuous horizontal paper-tear strip runs across the entire width of the frame, seamless from the far-right edge to the far-left edge. The torn channel cuts through the thick glass body of the referance perfume bottle and continues across the background on both sides with a barely perceptible and minimal diagonal slope towards the upper-left. The tear channel is significantly broader, revealing a dense, glistening, and vibrant layer of citrus and bright bergamot zest tightly packed inside. Near the extreme far-left end of this tear, the paper is neatly rolled into a tight, realistic coil that occupies almost the entire left margin. The lighting is soft and cinematic, casting delicate drop shadows beneath the torn paper edges and the large left coil. 8k resolution, macro details on fibrous paper and glossy citrus texture.\"",
+    "title": "Perfume Bottle Product Shot with Torn Paper Effect",
+    "description": "A highly specific, photorealistic prompt for a commercial product photograph of a Dior perfume bottle. The key feature is a single, continuous horizontal tear in the background paper that visually cuts through the glass bottle, revealing a dense, vibrant layer of citrus zest inside the tear channel.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433518726_0qhr9g_HCUPYa_bEAAfrEt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11157,
+    "content": "Nano Banana 2 :- Hyper realistic edible version of uploaded product,preserve exact original shape, proportions and silhouette, product fully intact and uncut, surface transformed into soft matte mousse texture, natural sponge-like edible detailing, no glossy or shiny finish, subtle velvet spray coating, straight front view, eye-level camera angle, camera positioned directly in front of the product, centered symmetrical composition, natural soft daylight coming from a nearby window, realistic gentle shadows, placed on a wooden or beige marble table, soft neutral linen fabric background, bright natural lighting, not overexposed, shallow depth of field, macro lens photography, premium yet natural dessert styling, hand holding a simple spoon close to the surface but not cutting, ultra realistic, 8k high detailfinal image in 3:4.\n\nVeo 3.1 :- Turn the uploaded product into a hyper realistic edible cake, preserve exact shape and front view. Soft matte mousse texture, no gloss.Natural daylight setting.A spoon gently cuts one edge, surface breaks softly, inside reveals layered sponge cake and cream.Slow smooth motion, macro lens, ultra realistic.",
+    "title": "Hyper-Realistic Edible Product Transformation Prompt (Image & Video)",
+    "description": "A dual prompt set for transforming an uploaded product image into a hyper-realistic edible dessert. The first prompt (Nano Banana 2) focuses on generating a static image with a soft matte mousse texture and natural daylight. The second prompt (Veo 3.1) focuses on generating a slow-motion video where a spoon gently cuts the edible product, revealing layered cake inside.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433490043_lohpqm_HCTZTTuagAEqEum.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11192,
+    "content": "Prompt 1:\n\nA pastel pink vintage Volkswagen Beetle driving along a scenic mountain highway, massive olive green luxury handbag strapped to the car roof with thick rope, surreal oversized fashion accessory, alpine landscape with tall rocky mountains and pine forests, soft golden hour lighting, cinematic travel photography, motion blur on road, ultra-detailed, realistic shadows, shallow depth of field, high resolution, editorial fashion campaign style, whimsical luxury concept\n\nPrompt 2:\n\nTop-down flat lay of a sage green leather handbag placed inside a rustic wooden crate filled with fresh citrus fruits and pears, oranges, lemons, grapefruit (including sliced blood orange), natural textures, vibrant contrasting colors, soft diffused daylight, high-detail product photography, luxury fashion aesthetic, symmetrical composition, crisp focus, editorial still life, warm tones, 8k resolution, clean background, premium brand campaign style",
+    "title": "Luxury Fashion Campaign Prompts (2 Prompts)",
+    "description": "Two distinct prompts for Gemini Nano Banana Pro focusing on luxury fashion and product photography. Prompt 1 describes a whimsical travel scene with a vintage car and an oversized handbag, while Prompt 2 details a top-down flat lay of a leather handbag with fresh citrus fruits, emphasizing natural textures and high-detail product photography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433504370_2th281_HCSKtWqbEAgqpq4.jpg",
+      "https://cms-assets.youmind.com/media/1772433504413_h48hxd_HCSKtV9bEAMJtj3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11125,
     "content": "{\n  \"image_generation_request\": {\n    \"subject\": {\n      \"placeholder\": \"{argument name=\"product name\" default=\"INSERT PRODUCT HERE\"}\",\n      \"position\": \"dead center, eye-level, perfectly centered in frame\",\n      \"presentation\": \"levitating, floating in a weightless void, no stands, no platforms, no pedestals, no visible supports\"\n    },\n    \"environment\": {\n      \"background\": \"absolute solid pitch black, hex code #000000, infinite void\",\n      \"lighting\": \"rim lighting, cinematic chiaroscuro, high-contrast glints on metallic edges, soft orange glow from internal recesses\"\n    },\n    \"aesthetic_style\": {\n      \"textures\": [\n        \"shot-blasted matte titanium\",\n        \"brushed aerospace-grade aluminum\",\n        \"anodized dark grey metal\",\n        \"ribbed industrial vertical cooling fins\"\n      ],\n      \"optical_effects\": \"viewed through vertical fluted reeded glass, subtle chromatic distortion, refractive glass warping, radial motion blur on outer edges\",\n      \"color_palette\": {\n        \"primary_background\": \"#000000\",\n        \"secondary_metal\": \"#8E8E8E\",\n        \"accent_glow\": \"#FF8C00\",\n        \"highlights\": \"#FFFFFF\"\n      }\n    },\n    \"composition_constraints\": {\n      \"framing\": \"ensure full product visibility, do not cut off edges, wide safety margins around the subject\",\n      \"elements_to_exclude\": [\n        \"text\",\n        \"logos\",\n        \"watermarks\",\n        \"softboxes\",\n        \"light stands\",\n        \"floor\",\n        \"horizon line\",\n        \"props\",\n        \"human hands\",\n        \"shadows on surfaces\"\n      ]\n    },\n    \"technical_specs\": {\n      \"focal_length\": \"85mm macro lens\",\n      \"depth_of_field\": \"deep focus on product, blurred refractive foreground glass\",\n      \"render_engine\": \"photorealistic octane render, 8k resolution, ray-traced reflections\"\n    }\n  }\n}",
     "title": "Restomod Product Shot with Chiaroscuro Lighting",

@@ -20,6 +20,103 @@
     "needReferenceImages": false
   },
   {
+    "id": 11155,
+    "content": "An oil painting portrait of a young girl [Use the uploaded image as reference] in classical realism with visible, expressive brushstrokes. The palette features an earthy brown background, warm peach skin tones, Soft, natural lighting from the left illuminates her face in a close-up, three-quarter profile, and wide eyes looking off-camera. The texture features rough, unfinished painted edges at the top and bottom, contrasting with a smoothly blended face and loose, gestural strokes on her clothing. The mood is peaceful and innocent. High resolution, Vertical portrait, 4K, highly detailed fine art quality.",
+    "title": "Classical Realism Oil Painting Portrait Prompt",
+    "description": "A prompt for creating an oil painting portrait of a young girl in the style of classical realism. It specifies visible, expressive brushstrokes, a warm color palette, soft lighting, and contrasts rough, unfinished edges with a smoothly blended face, aiming for a peaceful and innocent mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433488858_e7zb5k_HCWLgAcWUAAtJTv.jpg",
+      "https://cms-assets.youmind.com/media/1772433488919_0n8w6v_HCWLgAxaIAA0OCC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11213,
+    "content": "Ultra-realistic vertical panorama, ratio 1:4, Swiss alpine setting in late winter. A lone male traveler in his 30s walks along an ancient stone-and-dirt mule road that snakes upward through a mountain valley. Minimalist cold-weather outfit (dark technical jacket, wool beanie, fitted hiking pants) and a small backpack, realistic fabric textures and frost on seams. LEFT side: dense, shadowy spruce forest heavy with fresh snow, branches sagging, thin mist drifting between trunks. RIGHT side: a wide alpine meadow blanketed in smooth untouched snow with subtle wind-carved ripples, scattered boulders capped with ice. Far in the distance, near the top of the frame, a mysterious medieval stone castle perched on a cliff ridge (Swiss fortress vibe), partially rim-lit, stones weathered, icicles hanging from battlements. Sky: pale winter clouds with a break of warm sunrise light from the right, golden rays cutting through cold air, long blue shadows on snow, visible breath in the air. Subtly integrated “world serpent” (Jörmungandr-style) as environmental geology: its tail forms a faint snowdrift spiral in the meadow, its massive body implied by a barely raised, serpent-like ridge line weaving beneath the forest snow, occasional scale-like texture in the frost pattern - never crossing the traveler’s path, only hinted by natural shapes and shadow contours. Strong emphasis on natural textures: gritty stones in the road, compacted footprints, ice crystals, bark detail, snow granularity, distant atmospheric perspective, cinematic lighting, extreme depth and scale, no fantasy glow, no CGI look, no text, no watermark.",
+    "title": "Ultra-Realistic Vertical Panorama of Swiss Alps with Mythological Hint",
+    "description": "A highly detailed prompt for generating an ultra-realistic vertical panorama (1:4 aspect ratio) set in the Swiss Alps during late winter. The scene features a lone traveler, cinematic lighting, and a subtle, integrated hint of the 'world serpent' (Jörmungandr) implied by natural geological shapes and snow patterns.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433512805_wjsx55_HCV3mWBWcAAsHt8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11245,
+    "content": "Image of the entrance stairs of the Tokyo Metropolitan Government Building (Version 2). I tried arranging it from Version 1 with the instruction to make the atmosphere 'dramatic'.",
+    "title": "Image generation prompt for Tokyo Metropolitan Government Building entrance stairs",
+    "description": "An image generation prompt used with Nano Banana Pro (Genspark) to create an architectural image based on the entrance stairs of the Tokyo Metropolitan Government Building, with an added instruction to make the atmosphere 'dramatic'.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433524047_ppnpo1_HCVNFFWbQAAXo6V.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11210,
+    "content": "Masterpiece, best quality, ultra detailed, photorealistic photograph. Shot from a dynamic low-angle perspective, the scene is dominated by a man from photo in close-up. He stands in three quarter profile on a rocky beach at twilight, his face clearly visible as he gazes upward at the wreck of a massive, rusted ship beached against a cliffside.\n\nThe immense shipwreck, with its battered hull and twisted metal, looms in the background against a dramatic teal and blue sky with a crescent moon and stars. The man, wearing a simple dark t-shirt and shorts, is the central focus of the frame, his contemplative expression highlighted by the cool dusk light. The overall mood is cinematic, mysterious, and powerful. Shot on a full-frame camera with a wide-angle lens to enhance the dynamic perspectiv 8K resolution.",
+    "title": "Shipwreck Twilight Scene",
+    "description": "A prompt for generating a photorealistic, cinematic photograph of a man (identity locked to a reference photo) standing on a rocky beach at twilight, gazing up at the massive, rusted wreck of a ship beached against a cliffside. The prompt emphasizes the dramatic perspective, cool dusk light, and the mysterious mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433511634_0qgsek_HCVMqWWbcAAMfes.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11188,
+    "content": "Create a high-contrast artistic portrait of a woman’s side profile in black and white, eyes closed, glossy lips slightly parted, dramatic lighting, minimal white background, bold abstract black paint splashes and ink brush strokes blending into her hair and face, vibrant streaks of cyan, magenta, yellow, and blue paint slashed across her cheek and nose, textured paint splatter details, modern mixed media aesthetic,fine art illustration style, sharp edges with dynamic motion strokes, high detail, ultra-clean composition, poster-ready design, 8k resolution, contemporary abstract portrait aesthetic",
+    "title": "High-Contrast Abstract Mixed Media Portrait Prompt",
+    "description": "A detailed prompt for Gemini Nano Banana 2 and GPT image 1.5 to create a high-contrast, black and white artistic portrait of a woman's side profile, incorporating bold abstract paint splashes and ink brush strokes in vibrant cyan, magenta, yellow, and blue, resulting in a modern mixed media aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433502877_f4cdcp_HCVGWOYasAA6iDh.jpg",
+      "https://cms-assets.youmind.com/media/1772433502846_6giob2_HCVGWPLaoAE9WqN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11250,
+    "content": "Model the image after the attached image of a woman. A profile portrait. Left-facing profile with a cool, intelligent expression. Bust-up composition.\n\nThe woman's face and skin must maintain completely photorealistic photographic quality. This is the highest priority, ensuring no illustration or anime style. Ultra-high-definition texture where every pore, fine hair, eyelash, and the translucency of the ear cartilage is visible.\n\nThe background and decorative elements are a fusion of urban, industrial, and Ukiyo-e (Japanese woodblock print). Grid lines and measurement lines run across the entire screen, but parts of the grid transform into the curves of Hokusai's waves. Straight design lines suddenly change into the swell of wave crests at a certain point. Numerical and scale notations are mixed with vertical Japanese text.\n\nThe sharp geometric triangles and lines placed in the background are indigo blue, the same deep blue as Ukiyo-e aizuri (indigo printing). Woodblock print wave patterns and swirling motifs are visible through the interior of the triangles. Geometry and Ukiyo-e patterns coexist in a single frame.\n\nMiniature-sized people are working on the woman's face and contours. They are Edo-period Ukiyo-e carvers and printers, carving the woodblock with small chisels and printing on washi paper with baren. The Ukiyo-e artisans are wearing indigo kimonos. Small scaffolding and ladders are erected along the contours of the face.\n\nThe outline of the woman's profile is, in some parts, a sharp digital vector line, and in other parts, an Ukiyo-e outline drawn with ink and brush. Two line drawing techniques intersect on one person's face.\n\nInk splatters and droplets are scattered across the entire screen, with indigo ink splatters and vermilion splatters mixed in with black ink splatters. The grunge texture is a combination of concrete wall texture and washi paper fiber texture.\n\nAbsolutely no characters, text, typography, Japanese strings, seals, stamps, hanko, or signatures are included in the image.\n\nLighting features dramatic shadows with strong contrast. Hard light from the left side of the screen makes the profile contour stand out clearly with distinct light and shadow. Film grain. Ultra-high resolution. Sharp. Art poster style.",
+    "title": "Photorealistic Portrait with Ukiyo-e and Industrial Fusion",
+    "description": "A complex image generation prompt used across Nano Banana Pro, Nano Banana 2, GPT Image 1.5, and Seedream 5, focusing on a photorealistic portrait fused with urban, industrial, and Ukiyo-e (Japanese woodblock print) elements, featuring detailed textures, geometric shapes, and miniature Ukiyo-e artisans working on the face.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433524876_ifezi5_HCPtwZzbEAgbhPU.jpg",
+      "https://cms-assets.youmind.com/media/1772433524862_lclvve_HCPtv7PbEAYFXA0.jpg",
+      "https://cms-assets.youmind.com/media/1772433524874_kctj4r_HCPtv0QbEAEY63E.jpg",
+      "https://cms-assets.youmind.com/media/1772433525445_na6ocm_HCPtw5zbYAAMCF-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11202,
+    "content": "A horizontal, rectangular metal sign created out of cut up license plates displays the words \"{argument name=\"sign text\" default=\"ENJOY THE NOW\"}\" in large, raised letters. Each letter is on a different colored background, resembling a collage of license plates. The sign has a distressed, rusty appearance around the edges and a slightly weathered texture overall. It is hanging on a distressed wooden wall.",
+    "title": "Distressed License Plate Sign",
+    "description": "A prompt for generating a horizontal, rectangular metal sign that spells out 'ENJOY THE NOW' using a collage of cut-up license plates. The sign should have a distressed, rusty, and weathered appearance, hanging on a distressed wooden wall.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433507201_sqjts4_HCNK_uBWgAAKOkw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11207,
+    "content": "16K ultra-realistic cinematic movie scene of the same young man (keep his real facial features and proportions exactly as in the reference photo, no changes to his face). He is in a dynamic action pose, slightly crouched forward as if ready to leap or attack, one knee bent, one hand pressing firmly on the ground, the other reaching out with intense motion. From his back, a Venom-like symbiote bursts outward, forming huge menacing tendrils and a snarling monstrous face rising above his shoulder. The dark industrial warehouse setting is filled with mist and drifting smoke, with sharp light beams slicing through the fog. Camera angle is low and slightly tilted for dramatic tension and high-energy impact. Add warm highlights, motion blur, lens flares, and subtle film-grain for a Hollywood action-poster vibe. Generate the face using the uploaded reference image with accurate likeness.",
+    "title": "Cinematic Venom Symbiote Action Scene",
+    "description": "A prompt for generating an ultra-realistic cinematic movie scene featuring a young man (with identity locked to a reference photo) in a dynamic action pose, with a Venom-like symbiote bursting from his back. The prompt specifies the setting (dark industrial warehouse), lighting (sharp light beams, warm highlights), and camera angle (low and tilted) for a Hollywood action-poster vibe.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433510693_v37hku_HCSiJpcbEAI0X_U.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11162,
+    "content": "Create a dramatic digital painting style portrait of a young woman (based on a reference image) looking upward with a strong, determined expression.The artwork should feel bold and textured, with energetic brush strokes and a limited color palette of black, white, red, and yellow. The background is split vertically with abstract red and yellow paint streaks, creating a powerful and intense mood. Focus on ambition and confidence in her gaze, capturing strength and resilience in her facial expression. The design should be clean with no text, no slogan, and no logo anywhere in the frame. The composition should feel motivational and poster-ready, high detail, 8K resolution, image aspect ratio 4:5.",
+    "title": "Dramatic Digital Painting Portrait Prompt",
+    "description": "A prompt for generating a dramatic digital painting portrait of a young woman with a strong, determined expression. It specifies a bold, textured style, a limited color palette (black, white, red, yellow), and an abstract background split with paint streaks to convey ambition and confidence.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772433491266_wje47c_HCSS92gbQAAkDw2.jpg",
+      "https://cms-assets.youmind.com/media/1772433491303_s30xtl_HCSS946bYAAWm-8.jpg",
+      "https://cms-assets.youmind.com/media/1772433491366_i5g8w7_HCSS9_wbcAAlLK6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11136,
     "content": "Attach the image from the profile section and say, \"{argument name=\"creation content\" default=\"Create a flyer to promote the person in this account\"}\"",
     "title": "Comparing Nano Banana Pro and 2 with a Profile Flyer Prompt",
