@@ -20,6 +20,38 @@
     "needReferenceImages": false
   },
   {
+    "id": 11325,
+    "content": "A high-resolution graphic design collage featuring a tilted, three-panel white photo strip of smiling young woman  [Use the uploaded image as reference], she wears a red sweater and thick beige knit scarf, shot with bright studio lighting. The strip features a young woman with dark curly hair in three different playful poses. The photo strip overlaps jagged red and yellow torn-paper graphics against a slate-gray background that features faint, oversized monochromatic portrait of the woman. Vertical white text reading \"HAPPY BIRTHDAY {argument name=\"name\" default=\"[NAME]\"}\" with dotted red and yellow lines borders the left edge. The mood is joyful and celebratory, seamlessly blending photorealistic photography with sharp vector graphic elements. Vertical portrait, 4k.",
+    "title": "Elegant Graphic Design Birthday Collage",
+    "description": "A prompt template for creating a high-resolution graphic design collage for a birthday, featuring a three-panel photo strip of a young woman (requiring a reference image) integrated with jagged red and yellow torn-paper graphics and custom text.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519735541_yutrhz_HCbpXUZX0AAuHHk.jpg",
+      "https://cms-assets.youmind.com/media/1772519735613_kynbbd_HCbpXPQXEAAMSDM.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11274,
+    "content": "Highly -detailed artistic vertical portrait poster of a beautiful person [Use the uploaded image as reference] looking slightly upward, expressive brown eyes, soft natural makeup, loose brown hair strands, wearing a textured wool scarf. The portrait blends with abstract textures, autumn leaves, and splattered paint effects. Double exposure style with architectural line sketches, geometric overlays, and subtle blueprint elements integrated into the face. Warm autumn color palette (orange, brown, beige) mixed with neutral whites and dark shadows. Floating maple leaves around the composition. Modern graphic design poster layout with minimal typography, vertical title text on the side. High detail skin texture, cinematic lighting, sharp focus, creative collage composition, contemporary digital art, photorealistic mixed with sketch and grunge textures, 8k resolution, professional poster design, clean white background.",
+    "title": "Gentle Autumn Mood Mixed-Media Portrait Poster Prompt",
+    "description": "A highly detailed prompt for generating an artistic vertical portrait poster with a gentle autumn mood. It combines photorealism (using an uploaded image as reference) with abstract textures, double exposure effects (architectural sketches, geometric overlays), and a warm autumn color palette, resulting in a contemporary digital art poster design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519706944_9zgmxb_HCauUGmbMAEn_dM.jpg",
+      "https://cms-assets.youmind.com/media/1772519706949_cg95ws_HCauUGDW0AEKvgX.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11278,
+    "content": "Hyper-detailed  portrait of a confident male footballer, looking slightly upward, strong jawline, short textured hair, wearing a red jersey with subtle crest detail, realistic skin texture with fine cross-hatching strokes, hand-drawn illustration style on textured paper, soft neutral background, dramatic lighting with gentle shadows, ultra-realistic sketch effect, high detail, 8K, editorial sports portrait",
+    "title": "Hyper-Detailed Footballer Portrait Sketch Prompt",
+    "description": "A prompt for generating a hyper-detailed portrait of a confident male footballer in a hand-drawn illustration style on textured paper. It specifies the subject's features, attire (red jersey), dramatic lighting, and technical details for an ultra-realistic sketch effect.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519708720_5192hq_HCYGzFEaMAAi--4.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11155,
     "content": "An oil painting portrait of a young girl [Use the uploaded image as reference] in classical realism with visible, expressive brushstrokes. The palette features an earthy brown background, warm peach skin tones, Soft, natural lighting from the left illuminates her face in a close-up, three-quarter profile, and wide eyes looking off-camera. The texture features rough, unfinished painted edges at the top and bottom, contrasting with a smoothly blended face and loose, gestural strokes on her clothing. The mood is peaceful and innocent. High resolution, Vertical portrait, 4K, highly detailed fine art quality.",
     "title": "Classical Realism Oil Painting Portrait Prompt",

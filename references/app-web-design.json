@@ -1,5 +1,28 @@
 [
   {
+    "id": 11355,
+    "content": "Please renovate this attached photo that showing a room under finishing work.\n\nPlease complete this finishing work for this toom to be home office of Mercedes branch.\n\nPlease renovate the ceilings, floor, windows, and wall professionally.\n\nDecorate this main office room to be suitable for 2026 modern design.\n\nAdd cupboards, chairs, sofa, main office table with chair.",
+    "title": "Office Renovation and Decoration Prompt",
+    "description": "A simple text prompt used to renovate an attached photo of a room under finishing work, transforming it into a modern 2026 home office for a Mercedes branch, specifying the completion of ceilings, floors, windows, and walls, and the addition of furniture.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519749314_5l01qt_HCbsZcPWMAAmJlQ.jpg",
+      "https://cms-assets.youmind.com/media/1772519749369_5um5fq_HCbsZdRaEAAYjfT.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11304,
+    "content": "the prompt help nano banana strictly maintain the exact layout, wall positions, door swing, shelving placement, toilet and sink position, and dimensions as shown. No structural or proportional changes",
+    "title": "Nano Banana Layout Preservation Prompt",
+    "description": "A prompt designed to ensure Nano Banana strictly maintains the exact structural layout, dimensions, and placement of elements (walls, doors, shelving, fixtures) when rendering a bedroom. This is a constraint-focused prompt for architectural rendering.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519723088_7vauaz_HCaB0LFbIAABmSb.jpg",
+      "https://cms-assets.youmind.com/media/1772519723272_zc0rx4_HCaB0Vgb0AAdWeh.jpg",
+      "https://cms-assets.youmind.com/media/1772519723474_oyse5b_HCaB0g1aUAA14p6.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11248,
     "content": "a plunger in the style of a video game wiki website's page",
     "title": "Video Game Wiki Style Plunger",

@@ -56,6 +56,38 @@
     "needReferenceImages": false
   },
   {
+    "id": 11270,
+    "content": "product design, {argument name=\"item\" default=\"THE ITEM HERE\"}, exploded view diagram, white background, three-dimensional, highly detailed internal components, studio lighting, product photography, best quality",
+    "title": "Exploded View Infographic Diagram Prompt",
+    "description": "A template prompt for generating highly detailed, quality infographics and product design diagrams using an exploded view perspective. It specifies a white background, three-dimensional rendering, detailed internal components, and product photography style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519703684_klovml_HCbTfBgXQAAtlhh.jpg",
+      "https://cms-assets.youmind.com/media/1772519703692_qr978r_HCbTcfuXMAECTaT.jpg",
+      "https://cms-assets.youmind.com/media/1772519703677_qcue28_HCbTdfRW0AA5eR9.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11335,
+    "content": "Combine these three objects into one single absurd but legally patentable invention. Output:\nOfficial patent title (overly long)\nUSPTO-style abstract (150 words)\n4 ridiculous ‘claims’\nOne real-sounding problem it solves Style: 100% serious US patent office document.\n\nCreate four clean black-and-white technical patent drawings (exploded view, side, top, perspective) of this new invention in classic patent illustration style.\n\nNow render the final product in glossy Apple-product-photography style on white infinity background with subtle reflection. Add fake patent number in corner.",
+    "title": "Multi-step prompt for generating absurd patent documents and product renders",
+    "description": "A complex, multi-step prompt designed for Nano Banana 2 to invent an absurd, legally patentable gadget by combining three random home appliances. The process involves generating a formal patent document (title, abstract, claims, problem solved), technical patent drawings, and a final glossy product render in Apple-product-photography style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519740440_44cqpn_HCIO0skXQAAujD_.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11267,
+    "content": "Image 1: Premium commercial photograph of assorted sushi rolls arranged elegantly on a slate plate. Soft diffused lighting, clean Japanese restaurant background blur, crisp textures, vibrant colors.\n\nImage 2: Exploded visualization of one sushi roll showing rice layer, nori sheet, fish filling, vegetables — precise vertical separation, minimal elegant labels.",
+    "title": "Sushi Commercial Photography and Exploded Diagram Prompt",
+    "description": "A dual-image prompt for generating two distinct visual styles of sushi: a premium commercial photograph of assorted rolls and an exploded visualization diagram of a single roll, emphasizing precise vertical separation and minimal labels for visual design purposes.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1772519702278_1lpdss_HCX-BNsWoAA1N2J.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11257,
     "content": "Infographic-style images that are on another level, in this case a {argument name=\"object\" default=\"Nvidia RTX 5090\"}, just change OBJECT to what you want to create an infographic of, prompt in the following post",
     "title": "Infographic Style Image Generation Prompt for Nano Banana 2",
