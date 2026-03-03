@@ -222,17 +222,28 @@ For each recommended prompt, provide in user's input language:
 **⚠️ MANDATORY: ALWAYS send the sample image for every prompt recommendation.**
 If `sourceMedia` is empty, skip that prompt. Otherwise, you MUST send the image — never skip this step.
 
-**How to send the image — just use the URL directly (all platforms):**
+**How to send the image — download then send (works on all platforms):**
+
+The `sourceMedia` URLs are hosted on YouMind CDN (`cms-assets.youmind.com`). Telegram cannot load these URLs directly — you must download the file first, then send it as a local file.
+
+**For each prompt, run these 3 steps in sequence:**
 
 ```
-message tool: action=send, media="{sourceMedia[0]}", caption="[Prompt Title]"
+Step A — Download:
+exec: curl -fsSL "{sourceMedia[0]}" -o /tmp/prompt_img.jpg
+
+Step B — Send:
+message tool: action=send, media=/tmp/prompt_img.jpg, caption="[Prompt Title]"
+
+Step C — Cleanup:
+exec: rm /tmp/prompt_img.jpg
 ```
+
+Do this for **each** of the 3 recommended prompts — one image per prompt.
 
 If `message` tool is unavailable, embed in your response: `![preview]({sourceMedia[0]})`
 
-The `sourceMedia` URLs are hosted on Twitter/X CDN (`pbs.twimg.com`) — they work on all platforms including Telegram. **No download needed.**
-
-**One image per prompt is enough** (use `sourceMedia[0]`). Do NOT skip image sending — always send it.
+**One image per prompt** (use `sourceMedia[0]`). Never skip this — images are the core value of the skill.
 
 **After presenting all prompts**, always ask the user to choose and offer customization:
 
