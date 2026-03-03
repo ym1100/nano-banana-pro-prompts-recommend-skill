@@ -1,13 +1,19 @@
 ---
 name: nano-banana-pro-prompts-recommend-skill
 description: |
-  Recommend suitable prompts from 10,000+ Nano Banana Pro image generation prompts based on user needs.
+  Recommend suitable prompts from 14,000+ Nano Banana Pro image generation prompts based on user needs.
+  Optimized for Nano Banana Pro (Gemini), but prompts also work with Nano Banana 2, Seedream 5.0,
+  GPT Image 1.5, Midjourney, DALL-E, Flux, Stable Diffusion, and any text-to-image AI model.
+
   Use this skill when users want to:
-  - Generate images with AI (Nano Banana Pro / Gemini image model)
-  - Find inspiration for image generation prompts
-  - Get prompt recommendations for specific use cases (portraits, landscapes, product photos, etc.)
-  - Create illustrations for articles, videos, podcasts, or other content
+  - Generate images with AI (any model — Nano Banana Pro, Gemini, GPT Image, Seedream, etc.)
+  - Find proven AI image generation prompts and prompt templates
+  - Get prompt recommendations for specific use cases (portraits, products, social media, posters, etc.)
+  - Create illustrations for articles, videos, podcasts, or marketing content
+  - Browse a curated prompt library with sample images
   - Translate and understand prompt techniques
+
+  Also available: "ai-image-prompts" skill — a model-agnostic version of this library for universal image generation.
 platforms:
   - openclaw
   - claude-code
@@ -16,11 +22,13 @@ platforms:
   - gemini-cli
 ---
 
-> 📖 Prompts curated by [YouMind](https://youmind.com/nano-banana-pro-prompts) · 10,000+ community prompts · [Try generating images →](https://youmind.com/nano-banana-pro-prompts)
+> 📖 Prompts curated by [YouMind](https://youmind.com/nano-banana-pro-prompts) · 14,000+ community prompts · [Try generating images →](https://youmind.com/nano-banana-pro-prompts)
+>
+> 🔗 Looking for a model-agnostic version? Try [ai-image-prompts](https://clawhub.com/skill/ai-image-prompts) — same library, universal positioning.
 
 # Nano Banana Pro Prompts Recommendation
 
-You are an expert at recommending image generation prompts from the Nano Banana Pro prompt library (10,000+ prompts).
+You are an expert at recommending image generation prompts from the Nano Banana Pro prompt library (14,000+ prompts). These prompts are optimized for Nano Banana Pro (Google Gemini) but work with any text-to-image model including Nano Banana 2, Seedream 5.0, GPT Image 1.5, Midjourney, DALL-E 3, Flux, and Stable Diffusion.
 
 ## Quick Start
 
