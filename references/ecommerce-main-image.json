@@ -1,5 +1,30 @@
 [
   {
+    "id": 11945,
+    "content": "Masterpiece, best quality, product photography, tech accessory showcase, split screen composition, clean design.\n\nComposition:\nSplit screen layout.\n(Left side: The full body illustration of the character from the input image. Maintain original details precisely:1.5).\n(Right side: A pair of True Wireless Stereo (TWS) earbuds and their open charging case floating in mid-air:1.5).\n\nProduct Design Details (Right Side):\nThe earbuds and case feature a premium finish (glossy or matte) matching the character's outfit colors.\nSmall LED indicators glowing.\nThe character's motif or fictional logo is printed on the case lid.\n\nText & Branding (Japanese Focus):\nClean, modern typography in JAPANESE describing features.\nExamples: \"{argument name=\"Feature 1\" default=\"Noise-canceling equipped\"}\", \"{argument name=\"Feature 2\" default=\"High-quality High-Res\"}\", \"Long playback time\", \"Collaboration model\".\nFictional brand name (e.g., \"AUDIO LAB\", \"SOUND WAVE\"). NO real-world logos (No Sony, No Apple).\n\nEnvironment:\nA clean, high-tech studio background with soft studio lighting. Abstract geometric shapes or sound waves in the background.\n\nTechnical Tags:\n(wireless earbuds:1.5), (charging case:1.4), (tech accessory:1.4), (product visualization:1.3), macro photography, sharp focus.\nNegative prompt: (character absent:1.5), (product absent:1.5), (wired headphones), (cheap plastic), (real world brand logos:1.5), (Sony:1.5), (Apple:1.5), (Airpods:1.5), low quality, blurry text.",
+    "title": "Character-Themed Wireless Earbuds Product Shot",
+    "description": "A detailed prompt for Nano Banana 2 to create a product photography visualization of wireless earbuds and their charging case, based on an input character image. The composition is a split screen, with the character on the left and the tech product on the right, featuring colors and motifs derived from the character's outfit. Includes specific technical and branding requirements in Japanese.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210668314_5y315z_HDCvHXfaIAA8GUI.jpg",
+      "https://cms-assets.youmind.com/media/1773210668313_le1ad1_HDCvE7zbMAACXlM.jpg",
+      "https://cms-assets.youmind.com/media/1773210668327_nwtpoz_HDCvDQ4bgAAg0x7.jpg",
+      "https://cms-assets.youmind.com/media/1773210668951_fcu1i3_HDCvJWObIAA1v32.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11936,
+    "content": "1️⃣ Milk Bottle Breakfast Scene \nUltra-realistic lifestyle product photography of a glass bottle of fresh farmhouse milk labeled \"Maww\" placed on a rustic wooden breakfast table, warm morning sunlight streaming through a large countryside window, plate of buttery croissants, bowls of fresh berries, honey jar with dipper, cozy farmhouse kitchen atmosphere, soft natural lighting, shallow depth of field, cinematic composition, warm tones, high-end food photography, 8K.\n2️⃣ Milk Bottle in Flower Field Farm Scene\nPrompt:\nUltra-realistic farm lifestyle product photography of a glass bottle of fresh milk labeled \"Maww\" placed on a rustic wooden crate in a wildflower meadow, cows grazing in the background, golden hour sunlight, daisies and yellow flowers surrounding the bottle, countryside landscape, soft cinematic lighting, shallow depth of field, natural colors, premium organic dairy advertisement style, 8K.\n3️⃣ Minimal Kitchen Milk Bottle Scene\nPrompt:\nMinimalist product photography of a glass bottle of fresh milk labeled \"Maww\" with a small glass of milk beside it on a marble kitchen counter, soft natural daylight coming from a window, modern Scandinavian kitchen interior, wooden shelves and indoor plants in the background, clean aesthetic, neutral color palette, shallow depth of field, premium dairy brand advertisement, ultra-realistic, 8K",
+    "title": "Triple Product Photography Prompt for Nano Banana Pro",
+    "description": "Three separate, ultra-realistic product photography prompts for Nano Banana Pro, focusing on a milk bottle labeled 'Maww' in three distinct scenes: a rustic farmhouse breakfast, a wildflower field at golden hour, and a minimalist Scandinavian kitchen.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210665751_5al9ou_HDCUbPna4AAVl80.jpg",
+      "https://cms-assets.youmind.com/media/1773210665710_38zjqg_HDCUbNcakAAas_Q.jpg",
+      "https://cms-assets.youmind.com/media/1773210665735_brfrye_HDCUbiQbUAA8PVC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11866,
     "content": "A luxury perfume bottle with an ornate glass faceted design, sitting on a reflective marble surface surrounded by soft, misty floral elements — rose petals, jasmine sprigs, and delicate blooms drifting in a golden haze. The bottle catches warm amber light, refracting prismatic glints across the scene. Wisps of mist curl gently around the base, blending into a soft bokeh floral backdrop. The composition is intimate and elegant, with the bottle as the commanding centerpiece., in a luxurious style, viewed from a 45-degree, soft-studio lighting, with a misty-floral vibe, accented by warm-golden, featuring warm-tones, amber-gold-cream, with reflective-surface, prismatic-glass effects, in the style of bang-olufsen-aesthetic,cosmetics-editorial",
     "title": "Luxury Perfume Bottle Editorial Image Prompt",

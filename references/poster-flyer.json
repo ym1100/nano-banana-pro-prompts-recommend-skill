@@ -20,6 +20,36 @@
     "needReferenceImages": false
   },
   {
+    "id": 11899,
+    "content": "[{argument name=\"Brand Name\" default=\"BRAND NAME\"}]\n\n[{argument name=\"Product Type\" default=\"PRODUCT TYPE\"}] (Clothing / Food / Automotive / Tech).\n\nGoal: Generate a professional \"scrapbook\" style collage poster for [{argument name=\"Brand Name\" default=\"BRAND NAME\"}] centered around a [{argument name=\"Product Type\" default=\"PRODUCT TYPE\"}].\n\n1. HERO PRODUCT (BOTTOM FOCUS)\n\n- Object: A high-definition, realistic 3D render of a [{argument name=\"Product Type\" default=\"PRODUCT TYPE\"}] by [{argument name=\"Brand Name\" default=\"BRAND NAME\"}] at the bottom center.\n\n- Placement: Slightly angled to show depth, with soft realistic contact shadows on a plain off-white floor.\n\n2. THE MULTI-LAYERED COLLAGE STACK\n\n- Photos: A vertical stack of overlapping photos with RAGGED, TORN paper edges rising above the product.\n\n- Content: Photos should show [{argument name=\"Product Type\" default=\"PRODUCT TYPE\"}] in use, lifestyle shots related to [{argument name=\"Brand Name\" default=\"BRAND NAME\"}], and close-ups of specific details.\n\n- Materials: Physical swatches of textures related to [{argument name=\"Product Type\" default=\"PRODUCT TYPE\"}] (e.g., leather/fabric for clothing, metal/carbon for cars, organic ingredients for food). Include visible raw edges and stitching.\n\n- Fasteners: Use strips of semi-transparent masking tape and black duct tape with the \"[{argument name=\"Brand Name\" default=\"BRAND NAME\"}]\" logo printed in white to \"hold\" the pieces together.\n\n3. GRAPHIC OVERLAYS & STAMPS\n\n- Stamp: A black, distressed ink stamp or seal near the hero product with text: \"AUTHENTIC QUALITY // SUSTAINABLE CHOICE\".\n\n- Typography: Small, clean sans-serif and typewriter-style text blocks describing the heritage of [{argument name=\"Brand Name\" default=\"BRAND NAME\"}] placed at the bottom.\n\n- Logo: The primary \"[{argument name=\"Brand Name\" default=\"BRAND NAME\"}]\" logo centered at the very bottom in a minimalist font.\n\n4. STYLE & ATMOSPHERE\n\n- Aesthetic: Industrial DIY, workshop moodboard, high-end editorial collage.\n\n- Lighting: Bright, studio high-key lighting with soft, multi-layered shadows between the paper scraps and textures.\n\n- Quality: 8K resolution, macro detail on paper grain, fabric fibers, and tape adhesive.",
+    "title": "Scrapbook style collage poster for product branding",
+    "description": "A detailed, structured prompt designed for Nano Banana 2 to generate a professional, high-end editorial 'scrapbook' style collage poster for a specific brand and product type, incorporating layered photos, physical swatches, masking tape fasteners, and distressed graphic overlays.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210651812_0sf8lr_HDElmKFWQAAs_3E.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11930,
+    "content": "Create a hyper-realistic 8K UHD cinematic poster portrait of a man inspired by the reference image, with a similar hairstyle, facial structure, and body build while maintaining a natural realistic look. Shot as if captured on a 35mm lens, f/1.8, with sharp focus, creamy bokeh, cinematic color grading, and detailed DSLR skin texture.\n\nDesign a modern graphic poster titled “Chill-out.” The man wears a red hoodie, black cuffed joggers, red and white Air Jordan high-top sneakers, dark sunglasses, and silver rings. He sits in a relaxed reclined pose leaning against oversized typography, one leg bent and the other slightly extended toward the viewer. His body angles right while his face turns toward the camera in a confident three-quarter view.\n\nBackground is matte textured black. Large bold white sans-serif text “chill” and “out” forms a bench-like structure, with “chill” underlined. Add orange circles, squares, thin white grid lines, and phrases: “Life is so much easier when you just chill-out” and “Less stress, more chill.”\n\nBottom-right watermark: K(@ ChillaiKalan) ,",
+    "title": "Hyper-Realistic Cinematic Poster Prompt for Nano Banana Pro",
+    "description": "A multi-part prompt for Nano Banana Pro to create a hyper-realistic 8K cinematic poster portrait titled 'Chill-out,' based on a reference image for the subject's features, and incorporating modern graphic design elements like oversized typography and specific clothing details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210663518_v5fwtg_HDELlDFbYAAm1N3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11894,
+    "content": "High-contrast digital portrait of a young man looking upward with determination and confidence. Hyper-realistic monochrome face with strong cheekbones and detailed skin pores. Background divided into bold textured blocks of red and black with rough paint strokes and distressed paper textures. Dramatic lighting highlighting facial contours and expression. Inspired by vintage propaganda poster aesthetics with modern cinematic polish. Sharp focus, powerful mood, editorial artwork, 4K.",
+    "title": "Monochrome propaganda-style portrait prompt for Nano Banana Pro",
+    "description": "A prompt for Nano Banana Pro to create a high-contrast digital portrait of a young man in a hyper-realistic monochrome style, inspired by vintage propaganda posters but with a modern cinematic polish. It specifies detailed textures (skin pores, paint strokes, distressed paper), dramatic lighting, and a powerful, determined mood.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210649874_r3zxwg_HDAnwpVbYAAEiqA.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11878,
     "content": "Luxury fashion advertisement poster, deep green background with a soft circular gradient behind the model, two stylish female models standing full body. First model wearing a long elegant green dress with waist belt, white sneakers, sunglasses, holding a red handbag, confident pose with one hand on waist looking sideways. Second female model standing beside her in a different pose, slightly angled stance with relaxed arms, wearing a similar elegant fashion outfit matching the luxury theme. Studio lighting, minimal shadows, ultra-clean composition, premium fashion campaign style.\n\nAt the top place large bold luxury serif text “BRAND NAME” (same placement and style as luxury fashion brands).\n\nAt the bottom add text:\n“LUXURY THAT DEFINES YOU”\nBelow it smaller text:\n\nAdd a small side section titled “AVAILABLE COLORS” with three small circular color indicators: Green, Black, Red.\n\nHighly detailed, fashion catalog quality, DSLR photography style, 8k resolution, symmetrical layout, luxury branding aesthetic, professional advertising poster.",
     "title": "Luxury Fashion Advertisement Poster",

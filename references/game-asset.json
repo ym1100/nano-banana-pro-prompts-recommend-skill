@@ -1,5 +1,37 @@
 [
   {
+    "id": 11935,
+    "content": "A wooden tiki statue with a carved, smiling face and intricate details is depicted against a tropical background. The tiki is wearing a vibrant orange and pink Hawaiian shirt adorned with white hibiscus flowers. In its right hand, it holds a red cocktail garnished with a slice of orange, a cherry, and a small umbrella. The tiki's left hand is raised in a thumbs-up gesture. The overall style is illustrative and cartoonish, with a textured appearance suggesting wood grain.",
+    "title": "Cartoon Tiki Statue Prompt for Nano Banana 2",
+    "description": "A prompt for Nano Banana 2 to generate an illustrative and cartoonish image of a wooden tiki statue wearing a vibrant Hawaiian shirt, holding a cocktail, and giving a thumbs-up gesture against a tropical background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210664841_stezey_HDFV4kEXwAAzen3.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11940,
+    "content": "Massive adorable plush kaiju cat (soft velvety fur, huge round glowing eyes) towering over nighttime Tokyo, one giant paw smashing through Shibuya crossing, tiny humans fleeing, broken neon signs raining down, dramatic red emergency lighting + blue moonlight, cinematic destruction with soft toy-like fur texture contrasting hard metal & concrete debris, ultra-detailed 8k, epic scale -",
+    "title": "Plush Kaiju Cat Smashing Tokyo",
+    "description": "A prompt for generating an epic-scale image of a massive, adorable plush kaiju cat (with soft velvety fur and glowing eyes) towering over nighttime Tokyo. The scene depicts cinematic destruction with the cat's paw smashing through Shibuya crossing, contrasting the soft toy texture with hard debris, under dramatic red emergency lighting and blue moonlight.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210667192_z81lfw_HDD8CYwXEAA74vz.jpg",
+      "https://cms-assets.youmind.com/media/1773210667179_byncb7_HDD8CYzWwAAu8Ne.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11895,
+    "content": "{\n  \"aspect_ratio\": \"4:5\",\n  \"style\": [\n    \"ultra-realistic 3D chibi\",\n    \"Pixar/Disney 3D style\",\n    \"ultra-detailed 8K\",\n    \"soft studio lighting\",\n    \"premium collectible toy finish\"\n  ],\n  \"character_details\": {\n    \"facial_fidelity\": \"103%\",\n    \"features\": \"exact face, features, expression, identity (from reference image)\",\n    \"proportions\": \"cute\",\n    \"head\": \"slightly large\",\n    \"body\": \"small\",\n    \"face_shape\": \"rounded\",\n    \"skin\": \"smooth\",\n    \"eyes\": \"big, shiny, expressive\",\n    \"clothing\": \"blue leather jacket over white tee\"\n  },\n  \"content\": {\n    \"type\": \"sticker set\",\n    \"poses_and_emotions\": [\n      \"{argument name=\\\"emotion 1\\\" default=\\\"surprised\\\"}\",\n      \"{argument name=\\\"emotion 2\\\" default=\\\"sad\\\"}\",\n      \"confused\",\n      \"happy\",\n      \"thinking\",\n      \"winking\",\n      \"peace\",\n      \"shrug\",\n      \"playing guitar\"\n    ]\n  },\n  \"presentation\": {\n    \"cut\": \"clean sticker cut\",\n    \"background\": \"pastel cream\"\n  }\n}",
+    "title": "Chibi sticker set prompt for Nano Banana Pro",
+    "description": "A JSON prompt for Nano Banana Pro to generate an ultra-realistic 3D chibi sticker set of a character (based on a reference image) in the Pixar/Disney style. The prompt specifies the character's features, clothing (blue leather jacket), and a list of nine different emotions/poses for the stickers, all presented with a clean sticker cut on a pastel cream background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210650472_kmsba4_HDCAspwaMAI56ge.jpg",
+      "https://cms-assets.youmind.com/media/1773210650479_n46x06_HDCAsmKaEAAmu1t.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 11868,
     "content": "WHIMSICAL MONO-PUNK FLOATING MINIATURE DIORAMA PROMPT\n(Automatic Background Optimization, Smart Micro-Detail System, Procedural Activity Layer, Natural Irregularity Layer, Atmospheric Depth Layer, Procedural Scene Generator, Procedural Prop Generator, Procedural Architecture Generator, Procedural Lighting & Atmosphere Generator, Procedural Character & Population Generator, Procedural Diorama Base Generator)\n\nVARIABLE GUIDE\nGLOBAL_COMPLEXITY = Possible values: 'low','medium','high','ultra'. Controls density of buildings, props, characters, and environmental detail. If blank choose randomly between 'medium' and 'high'.\nPUNK_STYLE = \nIf PUNK_STYLE is empty, then one style is randomly selected from LIST_OF_PUNK_STYLES, otherwise what is in the PUNK_STYLE variable is chosen\nLIST_OF_PUNK_STYLES = Steampunk, Dieselpunk, Atompunk, Cyberpunk, Biopunk, Nanopunk, Solarpunk, Decopunk, Clockpunk, Coalpunk, Raypunk, Stonepunk, Sailpunk, Cassettepunk, Teslapunk, Mythpunk, Sandalpunk, Oceanpunk, Frostpunk, Junglepunk, Desertpunk, Gothicpunk, Ironpunk, Crystalpunk, Rustpunk, Vaporwavepunk, Neonpunk, Skypunk, Aquapunk, Arborpunk, Astropunk, QuantumPunk, Mechanopunk, Technopunk, Retrocomputingpunk, Cattlepunk, Hopepunk\nSUBSTYLE = If specified use exactly. If set to none disable. If blank infer logically from PUNK_STYLE.\nTECHNOLOGY_LEVEL = If specified use exactly. If set to none disable. If blank infer from PUNK_STYLE.\nENVIRONMENT = If specified use exactly. If set to none disable. If blank infer logically from active layers.\nCULTURE = If specified use exactly. If set to none disable. If blank infer culturally appropriate framework.\nPROCEDURAL_SCENE_GENERATOR = 'on'\nPROCEDURAL_PROP_GENERATOR = 'on'\nPROCEDURAL_ARCHITECTURE_GENERATOR = 'on'\nPROCEDURAL_LIGHTING_ATMOSPHERE_GENERATOR = 'on'\nPROCEDURAL_CHARACTER_POPULATION_GENERATOR = 'on'\nPROCEDURAL_DIORAMA_BASE_GENERATOR = 'on'\nFOCAL_INTEREST_LAYER = off\nMATERIAL_COHESION_LAYER = 'on'\nVISUAL_CLARITY_OPTIMIZER = 'on'\nMICRO_LIFE_LAYER = 'on'\nCOMPOSITION_ENGINE = 'on'\nEDGE_DEFINITION_LAYER = 'on'\nCOLOR_HARMONY_LAYER = 'on'\nDIORAMA_CRAFTSMANSHIP_LAYER = 'on'\n\nPSG LAYER\nImplement only if PROCEDURAL_SCENE_GENERATOR='on'. Generate core scene structure using:\nLANDSCAPE_STRUCTURE (floating island, cliff terraces, canyon basin, harbor cove, forest clearing, mountain ridge, giant tree canopy, desert oasis, ice shelf, volcanic ridge)\nSETTLEMENT_TYPE (village, harbor town, trading port, monastery complex, research outpost, fortress town, sky dock, industrial district, hidden enclave)\nINFRASTRUCTURE_ELEMENTS (bridges, windmills, rail lines, cable lifts, aqueducts, airship docks, solar arrays, reactor towers, waterwheels)\nCIVILIAN_ACTIVITY (market trading, fishing, cargo loading, harvesting, machine repair, patrol movement, festival gathering, workshop crafting)\nMICRO_NARRATIVE (delivery arrival, festival beginning, storm approaching, caravan arrival, wildlife encoun",
     "title": "Whimsical Mono-Punk Floating Miniature Diorama Generator",

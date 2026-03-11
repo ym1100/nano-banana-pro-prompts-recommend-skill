@@ -13,6 +13,100 @@
     "needReferenceImages": true
   },
   {
+    "id": 11946,
+    "content": "Harry Potter style\nSlander\n\nViking\nCompletely in English (I didn't ask for that, lol)\n\nEiji Voldemort\nMizuki Sirius Black\n\n'In the style of XX' is important, lol",
+    "title": "Nano Banana Pro Prompt: Harry Potter Style Slander",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) generating an image in the style of Harry Potter, focusing on slander, and featuring characters named Eiji Voldemort and Mizuki Sirius Black. The model unexpectedly translated the request into English.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210669911_d39v4p_HDFgd1aakAAI44A.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11911,
+    "content": "A whimsical, close-up high-detail scene featuring a classic pair of glossy red, wind-up chattering teeth with perfectly white, reflective teeth, the jaws wide open as if mid-sentence, captured in sharp focus. A polished silver winding key protrudes from the side of the upper jaw, catching soft, warm light. Attached beneath the teeth is a pair of cartoonish, slightly oversized tan feet with smooth skin and bright red, glossy polish on all ten toes, posed as if taking a playful step forward, suggesting motion. The chattering teeth stand inside an overflowing toy box made of painted wood, its interior cluttered with colorful toys—tiny cars, sparkling plastic jewelry, wrapped candies, rubber balls, and scattered trinkets—some spilling over the edge. Soft, diffused lighting creates gentle shadows and a cozy, nostalgic atmosphere, with a shallow depth of field subtly blurring the background toys to keep the focus on the animated chattering teeth and feet.",
+    "title": "Whimsical Chattering Teeth Scene Prompt",
+    "description": "A detailed prompt for generating a whimsical, high-detail scene featuring glossy red chattering teeth with a winding key and cartoonish feet, standing inside an overflowing toy box, generated using Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210656155_bqev3b_HDDpJc_XcAE1iag.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11905,
+    "content": "highly detailed pebble mosaic portrait of a beautiful woman, where the entire image is constructed from thousands of smooth natural stones and pebbles. The pebbles vary in size and color to form realistic facial features, hair, skin tones, and clothing patterns. The woman has long flowing hair and is wearing a richly patterned red traditional dress. The background is also composed of carefully arranged river stones creating a textured mosaic wall. Ultra-detailed stone texture, natural earthy colors, soft lighting, artistic stone mosaic craftsmanship, gemini photorealistic composition, 8k resolution, intricate pebble placement, handcrafted mosaic art style.",
+    "title": "Pebble mosaic portrait of a beautiful woman",
+    "description": "A prompt for Nano Banana on Yapper to generate a highly detailed portrait of a beautiful woman constructed entirely from thousands of smooth natural stones and pebbles, creating a realistic facial features, hair, and clothing patterns in an intricate mosaic art style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210653806_9t0qvg_HDD4t-haMAACmaf.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11949,
+    "content": "Viking\nKotogemoto\nMizukimoto\n\nEnd of the Ministry of Magic\n\nEiji Voldemort\nMizuki Sirius Black\n\nLand Cruiser, Ran Kuru, Ran Ku~ru",
+    "title": "Nano Banana Pro Prompt: Magical Ministry and Viking",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) generating an image related to the comedy duo Viking, featuring characters named Kotogemoto and Mizukimoto, and the 'End of the Ministry of Magic.'",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210670510_e6mb6t_HDDOuvWaMAEDl6J.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11942,
+    "content": "Viking\nKotogemoto\nMizukimoto\n\nRenamed\nEiji Voldemort\nMizuki Sirius Black",
+    "title": "Harry Potter/Viking Crossover Prompt",
+    "description": "A prompt used with Nano Banana Pro (Gemini 3 Pro Image) that combines the names of the Japanese comedy duo 'Viking' (バイきんぐ) with characters from the Harry Potter series (Voldemort and Sirius Black), resulting in a humorous name transformation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210668550_ynsvvl_HDDMKRnbkAAIrp8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11900,
+    "content": "Ultra wide-angle lens cinematic photo captured from the perspective of a rabbit that is about to be caught in the talons of a Golden Eagle",
+    "title": "Ultra wide-angle cinematic photo of a rabbit and eagle",
+    "description": "A prompt for Gemini Nano Banana 2 to generate a dramatic, ultra wide-angle cinematic photo captured from the perspective of a rabbit about to be caught by a Golden Eagle.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210652420_57kkan_HDDENdSaMAAvYRt.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11943,
+    "content": "Masterpiece, best quality, (3D cartoon render:1.5), (chibi mascot character:1.5), cute creature design, light novel cover composition.\n\n(Main Subject: Dinosaur Transformation):\nCenter frame. The character is transformed into a cute, chubby dinosaur mascot (like a cartoon T-Rex or Yoshi).\nBody features: Round body, short stubby limbs, thick tail, smooth scales texture. Big sparkling anime eyes (matching input color).\nCostume: Wearing a wig matching input hair and ONLY the top/shirt/jacket from the input outfit. (No pants:1.5).\n\n(Floating Spirit & Halo):\nFloating beside the dinosaur's head is a (semi-transparent, ghostly spirit form:1.4) of The EXACT human character's face from the input image.\nA glowing golden angel halo floats above this transparent head.\nThe expression on the spirit face is slightly bewildered or comical.\n\n(Title Logo - Narou-Style):\nAt the top of the frame, a large, prominent, stylized JAPANESE title logo reads: \"{argument name=\"Title Logo\" default=\"I was reincarnated as a dinosaur in another world\"}\".\nTypography style: Fantasy light novel design, bold outlines, magical flourishes, long title format, colorful.\n\n(Style & Environment):\nBlender 3D style, clay render texture, soft studio lighting, pastel colors.\nBackground: Simple, clean fantasy world element (e.g., stylized floating island or magic circle) but blurred to keep focus on subjects.\n\n(Technical Tags): (3D render:1.4), (mascot:1.4), (chibi:1.3), (cute:1.4), (typography design:1.4), (ghost:1.3), (halo:1.3), sharp focus.\n(Negative prompt): (human body on dinosaur:1.6), (human legs on dinosaur:1.5), (realistic dinosaur:1.5), (scary), (monster), (opaque spirit), (missing text), (missing halo), low quality, blurry, bad anatomy.",
+    "title": "Isekai Dinosaur Transformation Prompt",
+    "description": "A detailed prompt for Nano Banana 2 designed to transform a character from an input image into a cute, 3D-rendered dinosaur mascot, while retaining elements of the original character's face as a floating spirit. This is intended for anime or cartoon-style input images and includes specific instructions for typography and composition, simulating a light novel cover.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210667983_zqv7oj_HDC2s56bsAAYwO0.jpg",
+      "https://cms-assets.youmind.com/media/1773210668018_z4n2ur_HDC2tZda8AAUCsI.jpg",
+      "https://cms-assets.youmind.com/media/1773210667992_ta7trw_HDC2yOObgAAvWZf.jpg",
+      "https://cms-assets.youmind.com/media/1773210668716_kbiju3_HDC21qjaoAA1pYo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11941,
+    "content": "Core Requirement: Convert all elements in the reference image—including characters, scenes, props, and environment—into ultra-realistic, live-action settings, resembling actual on-set movie stills.\nCharacter Conversion: Strictly retain the original character's hairstyle, clothing, expression, facial features, body movements, and overall temperament, converting them into a real actor's image.\nScene Conversion:\n• Restore the comic/illustration scene to a real, physically shootable space\n• All props, furniture, and architecture must be real set construction or real location shooting\n• Realistic material texture: fabric folds, wood grain texture, metal reflections, wall texture\n• Rich environmental details: dust, signs of wear, everyday life details\n• Spatial perspective and light/shadow must conform to physical laws\nPhotography Style: Cinematic live-action photography\n• Deep depth of field composition, with everything clear from foreground to background\n• Film texture, soft grain, and rich color layering\n• Dramatic light and shadow contrast: warm tungsten working lights vs. cool natural twilight\n• Subject prominence while retaining environmental narrative\n• Scene art and photography comparable to 'Blade Runner' or 'The Grand Budapest Hotel'\nTechnical Specifications:\n• Film Stock: Kodak Vision3 500T (cinematic photography standard)\n• Applicable Scenes: Night scenes, low light environments, indoor tungsten lighting\n• Aperture: f/8–f/11 (deep depth of field, entire frame clear)\n• Focal Length: 35mm–50mm (standard cinematic perspective)\n• Resolution: 4K cinema or higher\n• Color: Warm, saturated tungsten color temperature, retaining detail in shadows\n• Lighting Design: Three-point lighting or natural light combined to create cinematic light and shadow layers\nScene Art Requirements:\n• Real set construction or location shooting, avoiding the feel of CG synthesis\n• Prop placement conforms to the character's background and era setting\n• Spatial design with depth and a sense of life\n• Environmental elements like walls, floors, and ceilings must have realistic texture\n• Background characters (if any) must also be real actors, avoiding blurring\nNegative Prompts (Strictly Avoid):\n• Blurred background, shallow depth of field, bokeh, out-of-focus\n• Cartoon, anime, illustration style, hand-drawn texture, CG rendering feel\n• Flat composition, lack of spatial depth\n• Fake sets, green screen artifacts, digital backgrounds\n• Facial deformation, disproportionate scaling, AI generation artifacts\n• Low quality, digital noise, pixelation, excessive sharpening\n• Overexposed strong light, plastic texture, excessive digital post-processing\n• Floating props, physical implausibility, material texture mapping feel\n• Empty background, lack of detail, monotonous environment\nReference Style: Masterpieces of cinematic photography - the live-action aesthetic of Roger Deakins, Emmanuel Lubezki, Hoyte van Hoytema.",
+    "title": "Hyper-realistic cinematic conversion prompt for nano-banana-pro",
+    "description": "This is a detailed image generation prompt specifically designed for nano-banana-pro to convert existing reference images (like MJ generations) into ultra-realistic, live-action cinematic stills. It focuses on transforming every element—characters, scene, props, and environment—into a deeply detailed, physically plausible, movie-grade photograph, emphasizing deep depth of field, film grain, dramatic lighting, and specific technical film specifications like Kodak Vision3 500T film stock.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210667545_t9mobp_HDBZls9aMAA6JD7.jpg",
+      "https://cms-assets.youmind.com/media/1773210667533_iixszz_HDBaWNgaMAEw01b.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11904,
+    "content": "an anthropomorphic pangolin, standing upright in a well-fitted tailored suit and tie, holding a neatly arranged bouquet of fresh flowers, captured mid-motion as he reaches out to ring the ornate doorbell of a cozy suburban house, early evening soft golden light, warm welcoming atmosphere, detailed scales and fabric textures, cinematic composition",
+    "title": "Anthropomorphic pangolin on a date night",
+    "description": "A prompt for Nano Banana 2 to generate a cinematic image of an anthropomorphic pangolin, dressed in a suit and tie, holding flowers, and reaching out to ring a doorbell in a suburban setting under soft golden light.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773210653665_75nyxm_HC9h3KxWEAAFHrp.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11861,
     "content": "ultra creative, vivid and surprising image of pastel painted sour patch kids in a whimsical, fantastical candyland environment, soft dreamy lighting, intricate sugary textures, floating sweets and swirling pastel clouds, high detail, vibrant yet gentle color palette, ultra sharp focus",
     "title": "Pastel Painted Sour Patch Kids in Whimsical Candyland",
