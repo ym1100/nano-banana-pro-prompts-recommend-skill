@@ -1,5 +1,25 @@
 [
   {
+    "id": 11973,
+    "content": "Draw an illustration that captures the essence of the war between Iran and the United States & Israel as if the name of the operation was 'Operation Epic Furry.'",
+    "title": "Operation Epic Furry Illustration Prompt",
+    "description": "A prompt given to Gemini Nano Banana to generate an illustration capturing the essence of a geopolitical conflict, specifically the war between Iran and the United States & Israel, framed under the fictional name 'Operation Epic Furry.'",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773297036326_vp4qkg_HDKS-iXWYAAtuqY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11966,
+    "content": "Lego racer minifigure driving at full speed down a jungle volcano slope, lava explosion behind lighting the kart in orange glow, hot rocks raining down, cartoonish panic face and comic urgency, stylized as action blockbuster LEGO scene.",
+    "title": "Lego Racer on Exploding Volcano Slope",
+    "description": "A prompt for Nano Banana Pro and Kling 3.0 to generate an image of a Lego racer minifigure driving down a jungle volcano slope, with a lava explosion lighting the scene and the minifigure showing cartoonish panic, stylized as an action blockbuster LEGO scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773297033857_77fqak_HDHitG1aMAE6nz1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11590,
     "content": "{\n  \"image_prompt\": {\n    \"style\": \"Highly detailed, realistic photograph\",\n    \"lighting\": \"Soft, natural light\",\n    \"setting\": {\n      \"surface\": \"Rustic wooden workshop bench\",\n      \"background\": \"Blurred bookshelf and window\"\n    },\n    \"focal_point\": {\n      \"object\": \"Open, spiral-bound notebook\",\n      \"paper_type\": \"Lined paper\",\n      \"page_content\": \"Detailed hand-drawn pencil sketch of a character\"\n    },\n    \"character\": {\n      \"action\": \"Physically stepping off the page and out onto the desk\",\n      \"appearance\": \"Dynamic, fully-realized figure matching the pose and form of the sketch\",\n      \"character_details\": \"{argument name=\\\"character details\\\" default=\\\"[Placeholder: insert character details replacing 'or or']\\\"}\",\n      \"facial_features\": \"[Instruction: use facial description from the uploaded photo]\"\n    },\n    \"text_elements\": {\n      \"style\": \"Handwritten pencil notes\",\n      \"top_left\": \"PROJECT:\",\n      \"top_right\": \"Date:\",\n      \"body\": \"Idea: Create a character with her own mind.\"\n    },\n    \"props\": {\n      \"placement\": \"Scattered realistically across the wooden desk\",\n      \"items\": \"{argument name=\\\"craft tools and props\\\" default=\\\"[Placeholder: various craft tools and props specific to the character and project (e.g., for the artist, sculptor, or architect)]\\\"}\"\n    },\n    \"raw_prompt\": \"A highly detailed, realistic photograph of an open, spiral-bound notebook resting on a rustic wooden workshop bench, with a blurred bookshelf and window in the background, all illuminated by soft, natural light. On the lined paper page, a detailed hand-drawn pencil sketch of a character is visible, matching the pose and form of a dynamic, fully-realized figure that is physically stepping off the page and out onto the desk. The figure is [insert character description]. The open notebook page contains handwritten pencil notes, including the title: 'PROJECT:' (top-left) and 'Date:' (top-right), with the recurring sentence: 'Idea: Create a character with her own mind.' written below it. Scattered realistically across the wooden desk are various craft tools and props specific to the character and project, such as [insert specific tools]. Note: use facial description from the uploaded photo.\"\n  }\n}",
     "title": "Character Stepping Out of a Sketchbook (Surreal Photo)",

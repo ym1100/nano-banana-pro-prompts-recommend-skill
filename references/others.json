@@ -13,6 +13,19 @@
     "needReferenceImages": true
   },
   {
+    "id": 11952,
+    "content": "{\n  \"image_generation_prompt\": {\n    \"subject_settings\": {\n      \"placeholder\": \"{argument name=\"subject\" default=\"[SUBJECT GOES HERE]\"}\",\n      \"positioning\": \"absolute dead-center composition, full subject visibility, no clipping, no cutoff edges\",\n      \"presentation\": \"floating mid-air, isolated, no pedestals, no stands, no display boxes, no mannequins\"\n    },\n    \"aesthetic_style\": {\n      \"visual_theme\": \"dreamy ethereal surrealism, vintage luxury editorial, 1990s high-fashion film photography\",\n      \"texture\": \"heavy analog film grain, noisy texture, slight motion blur, soft focus dream-haze, chromatic aberration\",\n      \"lighting\": \"starburst lens flare on metallic highlights, soft glowing aura, backlit silhouette depth, no studio lights, no softboxes\"\n    },\n    \"color_palette\": {\n      \"primary_gradient\": {\n        \"top_color\": \"#1A3A5F\",\n        \"middle_color\": \"#7B9BB9\",\n        \"bottom_color\": \"#D4823B\"\n      },\n      \"description\": \"A seamless dusk-to-dawn transition from deep midnight blue to a warm, hazy amber sunset glow\"\n    },\n    \"negative_constraints\": [\n      \"text\",\n      \"watermarks\",\n      \"studio equipment\",\n      \"lighting stands\",\n      \"reflectors\",\n      \"frames\",\n      \"borders\",\n      \"cut off subject\",\n      \"out of frame\",\n      \"multiple subjects\",\n      \"cluttered background\",\n      \"plastic textures\",\n      \"hyper-realistic digital sharpness\",\n      \"clean 4k render\"\n    ],\n    \"technical_parameters\": {\n      \"aspect_ratio\": \"4:5\",\n      \"style_strength\": \"high\",\n      \"diffusion_iteration\": \"film_emulsion_simulation\"\n    }\n  }\n}",
+    "title": "Dusk Ascension JSON Prompt for Nano Banana Pro",
+    "description": "A highly structured JSON prompt for Nano Banana Pro, defining subject positioning, a dreamy ethereal surrealism aesthetic with vintage luxury editorial style, specific lighting effects like starburst lens flare, a detailed color gradient palette, and extensive negative constraints for image generation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773297027656_ivf33m_HDIl8OOa8AA3RcZ.jpg",
+      "https://cms-assets.youmind.com/media/1773297028228_wmox9t_HDIl8OaaYAAwblH.jpg",
+      "https://cms-assets.youmind.com/media/1773297028057_jiasi4_HDIl6IebkAACtuO.jpg",
+      "https://cms-assets.youmind.com/media/1773297029012_wae8ri_HDIl8OAXoAAjQtE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11946,
     "content": "Harry Potter style\nSlander\n\nViking\nCompletely in English (I didn't ask for that, lol)\n\nEiji Voldemort\nMizuki Sirius Black\n\n'In the style of XX' is important, lol",
     "title": "Nano Banana Pro Prompt: Harry Potter Style Slander",

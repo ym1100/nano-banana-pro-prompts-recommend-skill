@@ -1,5 +1,18 @@
 [
   {
+    "id": 11976,
+    "content": "Surreal baroque still life perfume advertisement, a turquoise bottle of floral perfume with ornate botanical label and gold cap floating above a rustic wooden table, surrounded by symbolic objects suspended in midair: a silver chalice with white jasmine flowers, a halved fig, a split pomegranate with falling seeds, dried roses, an antique hourglass tipped on its side, and a realistic human skull. Dramatic dark stormy clouds background, moody renaissance lighting, Dutch golden age still life composition, hyper-real textures, cinematic shadows, soft volumetric light, luxury fragrance campaign photography, extremely detailed, 8k, shallow depth of field, editorial product photography.",
+    "title": "Surreal Baroque Still Life Perfume Ad Prompt",
+    "description": "A detailed prompt for Nano Banana Pro to generate a hyper-realistic, surreal baroque still life advertisement for a perfume, featuring symbolic objects like a chalice, fruit, hourglass, and skull, rendered with dramatic Renaissance lighting and textures.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773297037145_qdu5i4_HDIwdcMbcAA6kOA.jpg",
+      "https://cms-assets.youmind.com/media/1773297037189_go1lns_HDIwddfagAAB4PB.jpg",
+      "https://cms-assets.youmind.com/media/1773297037209_rttluh_HDIwdcQacAA9rGy.jpg",
+      "https://cms-assets.youmind.com/media/1773297037793_l42g6e_HDIwddibMAAvvOn.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11945,
     "content": "Masterpiece, best quality, product photography, tech accessory showcase, split screen composition, clean design.\n\nComposition:\nSplit screen layout.\n(Left side: The full body illustration of the character from the input image. Maintain original details precisely:1.5).\n(Right side: A pair of True Wireless Stereo (TWS) earbuds and their open charging case floating in mid-air:1.5).\n\nProduct Design Details (Right Side):\nThe earbuds and case feature a premium finish (glossy or matte) matching the character's outfit colors.\nSmall LED indicators glowing.\nThe character's motif or fictional logo is printed on the case lid.\n\nText & Branding (Japanese Focus):\nClean, modern typography in JAPANESE describing features.\nExamples: \"{argument name=\"Feature 1\" default=\"Noise-canceling equipped\"}\", \"{argument name=\"Feature 2\" default=\"High-quality High-Res\"}\", \"Long playback time\", \"Collaboration model\".\nFictional brand name (e.g., \"AUDIO LAB\", \"SOUND WAVE\"). NO real-world logos (No Sony, No Apple).\n\nEnvironment:\nA clean, high-tech studio background with soft studio lighting. Abstract geometric shapes or sound waves in the background.\n\nTechnical Tags:\n(wireless earbuds:1.5), (charging case:1.4), (tech accessory:1.4), (product visualization:1.3), macro photography, sharp focus.\nNegative prompt: (character absent:1.5), (product absent:1.5), (wired headphones), (cheap plastic), (real world brand logos:1.5), (Sony:1.5), (Apple:1.5), (Airpods:1.5), low quality, blurry text.",
     "title": "Character-Themed Wireless Earbuds Product Shot",

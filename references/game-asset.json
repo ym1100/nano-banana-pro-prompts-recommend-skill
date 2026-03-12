@@ -1,5 +1,38 @@
 [
   {
+    "id": 11966,
+    "content": "Lego racer minifigure driving at full speed down a jungle volcano slope, lava explosion behind lighting the kart in orange glow, hot rocks raining down, cartoonish panic face and comic urgency, stylized as action blockbuster LEGO scene.",
+    "title": "Lego Racer on Exploding Volcano Slope",
+    "description": "A prompt for Nano Banana Pro and Kling 3.0 to generate an image of a Lego racer minifigure driving down a jungle volcano slope, with a lava explosion lighting the scene and the minifigure showing cartoonish panic, stylized as an action blockbuster LEGO scene.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773297033857_77fqak_HDHitG1aMAE6nz1.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 11992,
+    "content": "(masterpiece, best quality, official art, character design sheet, reference sheet, settai-ga, production materials), (cel shading, flat colors, clean lines),\n(central anchor:1.5): (full-body standing pose:1.4) of the character from image_8.png, positioned prominently in the center of the sheet, large scale.\n(Maintain original art style and character details from image_8.png exactly:1.6), including hair color, eye color, skin tone, and outfit.\n(No back view:1.5).\n\n(Surrounding elements), arranged neatly with annotated leader lines:\n[Facial Expressions]: A row of 5 distinct headshots showing different emotions (e.g., joyful, angry, sorrowful, surprised, blushing).\n[Outfit Layering]: Exploded view of the main outfit showing outer layers removed to reveal inner clothing structure.\n(Do not include \"innerwear specification\" or any other innerwear section:1.5).\n[Accessories & Props]: Close-up details of shoes, jewelry, or weapons held by the character.\n\n(Text & Annotations): All text annotations are in JAPANESE kanji and kana (e.g., \"Expression Collection\", \"Outfit Composition\", \"Material Specification\", \"Color Palette\"). Hand-drawn notes style.\n\n(Technical Tags): (anime coloring:1.4), (line art:1.3), (flat colors:1.2), clean lines, precise details, white background.\n(Negative prompt): (3d, realistic, photorealistic, cgi:1.5), (altering character features:1.5), (changing hairstyle:1.5), (western comic style), shading, complex background, (real world brand logos:1.5), messy layout, (multiple full body views:1.5), (back view:1.5), (conflicting innerwear sections:1.5).",
+    "title": "Anime Character Reference Sheet Prompt (Nano Banana 2)",
+    "description": "A detailed prompt for Nano Banana 2 designed to generate a character reference sheet (SFW version, no underwear) based on an input image. It specifies the layout, required elements like facial expressions and outfit layering, and technical tags for an anime style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773297042433_cx7mdd_HDHLiIZbEAAVUD8.jpg",
+      "https://cms-assets.youmind.com/media/1773297042534_hf86my_HDHLlULb0AAGGIR.jpg",
+      "https://cms-assets.youmind.com/media/1773297042535_pyl544_HDHLjZbaIAA0P-3.jpg",
+      "https://cms-assets.youmind.com/media/1773297043305_vdvgpg_HDHLnVVaMAAuNNx.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 11975,
+    "content": "an adorable kawaii cartoon great white shark with big sparkling eyes holding a shiny red balloon on a delicate string, flat vector style with clean bold outlines, retro muted pastel colors, centered composition, deep warm tan colored background with evenly spaced navy horizontal stripes, soft subtle shadow beneath the shark for depth",
+    "title": "Kawaii Great White Shark Vector Prompt",
+    "description": "A prompt for Nano Banana 2 to generate a flat vector style illustration of an adorable kawaii great white shark holding a shiny red balloon, featuring retro muted pastel colors and a striped background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773297036913_yllx33_HDFV1wzaYAAkJqC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11935,
     "content": "A wooden tiki statue with a carved, smiling face and intricate details is depicted against a tropical background. The tiki is wearing a vibrant orange and pink Hawaiian shirt adorned with white hibiscus flowers. In its right hand, it holds a red cocktail garnished with a slice of orange, a cherry, and a small umbrella. The tiki's left hand is raised in a thumbs-up gesture. The overall style is illustrative and cartoonish, with a textured appearance suggesting wood grain.",
     "title": "Cartoon Tiki Statue Prompt for Nano Banana 2",

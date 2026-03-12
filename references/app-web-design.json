@@ -1,5 +1,15 @@
 [
   {
+    "id": 11993,
+    "content": "I am creating a WordPress site. I would like you to create a horizontal header image. The site is called 'Comfortable Memo for Living'.",
+    "title": "WordPress Header Image Generation Prompt (Nano Banana)",
+    "description": "A simple prompt used with Nano Banana to generate a horizontal header image for a WordPress site titled 'Comfortable Memo for Living' ('暮らしの快適メモ').",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773297043698_pw1bg6_HDHn5YrboAA0bll.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 11603,
     "content": "Use the uploaded image as reference, Create photorealistic 3D render of the entire floor plan, seen from afar, to the render, with furniture inside, Keep the exact same rooms at their location, with the right equipment, but remove the text from the final image. High resolution, pro quality.",
     "title": "Photorealistic 3D Floor Plan Render with Furniture",
