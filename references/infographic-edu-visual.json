@@ -56,6 +56,17 @@
     "needReferenceImages": false
   },
   {
+    "id": 12070,
+    "content": "2x2 grid of famous quantum mechanics concepts:\n\nRender =\n( Micro_Diorama_Platform * 1.0 ) +\n( Sculpted_Miniature_Backdrop_[TOPIC] * 1.5 ) +\n( 3D_Miniature_Scene_Sculpt_[TOPIC] * 2.0 ) +\n( Resin_and_Clay_Materials * 2.0 ) +\n( Cinematic_Miniature_Lighting * 2.0 ) +\n( Tiny_Mascot_Character * 1.0 ) +\n( Clean_Studio_Void * 1.0 )\n-\n( Photorealism / 2.0 ) -\n( Human_Proportions )",
+    "title": "Visualizing Quantum Mechanics with Diorama Style",
+    "description": "A complex, formulaic prompt for Nano Banana Pro designed to visualize quantum mechanics concepts using a micro-diorama style. It combines elements like sculpted miniatures, resin materials, cinematic lighting, and a tiny mascot character, while explicitly subtracting photorealism and human proportions.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773469778324_ttp0no_HDKuCiJW8AII5Bt.jpg",
+      "https://cms-assets.youmind.com/media/1773469778525_cfgtq0_HDKuCirbQAMMYPY.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12021,
     "content": "A 3x3 grid of ultra-detailed 12K 3D-rendered tiny scenes depicting grocery shops through ages, scaled at 1:12. Placed on AI inferred material pedestal with engraved motifs. Warm afternoon rays from right create intimate, sharp castings. Panels cover 300 BC, 1000 AD, 1500 AD, 1700 AD, 1900 AD, 1950 AD, 2000 AD, 2100 AD, and future 2500 AD variants.",
     "title": "Evolution of Grocery Shops 3D Grid Prompt",

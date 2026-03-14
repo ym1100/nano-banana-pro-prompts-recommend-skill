@@ -13,6 +13,38 @@
     "needReferenceImages": true
   },
   {
+    "id": 12095,
+    "content": "CHARACTER DESCRIPTION: Main subject: Nigerian adult, mid-20s to early 30s. Natural hair (low cut, locs, or twist-out). Wearing casual daytime clothing, simple t-shirt or fitted top, comfortable. Relatable, everyday person. Someone who's active, works hard, moves through Lagos heat. Not an athlete, just a regular person dealing with daily dehydration without knowing why.",
+    "title": "Nigerian Adult in Casual Daytime Clothing",
+    "description": "A prompt for generating an image of a Nigerian adult in their mid-20s to early 30s, wearing casual daytime clothing (t-shirt or fitted top). The description emphasizes natural hair and a relatable, everyday person dealing with daily dehydration in the Lagos heat.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773469792059_72s4y7_HDSP5jMWcAAUlpQ.jpg",
+      "https://cms-assets.youmind.com/media/1773469792126_ce45p1_HDSP5jWXwAA1CjH.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12090,
+    "content": "Convert your age-worn, damaged keepsakes into ultra-sharp, DSLR-quality digital heirlooms.",
+    "title": "Vintage Keepsake Photo Restoration",
+    "description": "A general prompt for converting age-worn, damaged keepsakes into ultra-sharp, DSLR-quality digital heirlooms, implying a photo restoration task.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773469789555_gdujyz_HDTnGTLbMAArE5f.jpg",
+      "https://cms-assets.youmind.com/media/1773469789816_vx2z6x_HDTnGTcbsAA3wgW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12092,
+    "content": "Scene \nA forest clearing with a stream passing across \n\nStyle Delicate, translucent watercolor with ultra detailed shapes preserving natural irregularities and clear edges but no outlines and no lines at the edges. Soft, wet-into-wet technique. \n\nLighting \nDaylight Volumetric lighting \n\nNegative Prompt Lines Line Drawing Line Illustration Ink Sketch",
+    "title": "Watercolor Forest Clearing with Stream",
+    "description": "A prompt for generating an image of a forest clearing with a stream using a delicate, translucent watercolor style. It specifies volumetric lighting, ultra-detailed shapes, and a wet-into-wet technique without outlines.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773469790663_gx65ph_HDTCKOtbwAEr9Ve.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12045,
     "content": "Restore and colorize the uploaded old photograph into a crystal-clear, photorealistic, high-detail image while preserving 100% of the original composition. Keep the exact same pose, expression, facial structure, proportions, framing, clothing, hairstyle, background, objects, and all details unchanged. Do not add, remove, move, or restyle anything. Remove blur, noise, scratches, fading, stains, and age-related damage. Recover natural sharpness, fine skin texture, realistic textures, true-to-life colors, and lifelike skin tones. No identity change, no stylization, no cartoon or CGI look, no plastic skin.",
     "title": "Old Photo Restoration Prompt for Nano Banana Pro 2.0",

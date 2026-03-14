@@ -1,5 +1,62 @@
 [
   {
+    "id": 12116,
+    "content": "hyper-realistic close-up of a sleek modern robot with a large rectangular LCD screen as its face, high-resolution display showing **{argument name=\"display content\" default=\"display content\"}**, sharp crisp pixels and subtle backlight glow, matte black metallic body with subtle panel lines and brushed aluminum accents, glowing blue LED trim around the screen edges, articulated neck and shoulders with visible cables and servos, cool industrial design with faint reflections on the screen glass, dramatic cinematic studio lighting with strong rim light and soft volumetric highlights, ultra detailed screen texture, realistic LCD bloom and slight scan lines, futuristic yet grounded aesthetic, masterpiece, sharp focus",
+    "title": "Sleek LCD-Face Robot Prompt",
+    "description": "A reusable prompt template for generating hyper-realistic, sleek modern robots with a large rectangular LCD screen as a face, emphasizing industrial design, dramatic lighting, and high detail. The prompt is designed for Nano Banana (used in Adobe Firefly).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773469803937_0nqg4l_HDTUXjcWwAETfkO.jpg",
+      "https://cms-assets.youmind.com/media/1773469803962_nrjn1r_HDTUXjybwAA5aoT.jpg",
+      "https://cms-assets.youmind.com/media/1773469804654_w7n12r_HDTUXjZXYAA7kky.jpg",
+      "https://cms-assets.youmind.com/media/1773469805452_t1rz38_HDTUXjVXcAA1RvU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12088,
+    "content": "A superhero in a red and blue spider suit sits on the edge of a skyscraper rooftop, frontal view, camera at eye level, waist-length medium shot. The pose is identical to the first shot: the body is slightly leaning forward, one hand resting on the knee, a static, cinematic composition.\n\nThe mask is removed and held in the hand or lowered downwards. Face: Use the face from the uploaded reference photo 2 (identity reference 2), as photorealistic as possible, without stylization, with natural skin texture and natural shadows. Expression: calm, pensive, slightly tired, with a dramatic mood.\n\nThe suit is completely identical to the first shot: \nred and blue, micro-mesh texture, 3D webbing, realistic fabric, and retains a small torn detail on the shoulder. Physically correct fit.\n\nThe background corresponds to the camera's 180-degree rotation around the hero: \nanother part of the roof features industrial elements—ventilation units, metal structures, and technical equipment. Beyond the roof are lower city buildings, an urban landscape, concrete facades, and a subtle industrial atmosphere. The city is slightly blurred (shallow depth of field). Atmospheric haze.\n\nThe lighting is identical to the first shot: \nan overcast day, soft, diffused light, and a cloudy sky, without harsh shadows. The light falls as naturally as in the first scene.\n\nThe color correction is exactly the same as in photo 1: \na cool bluish-teal tone, muted colors, reduced saturation, soft contrast, a slight gray-green tint in the shadows, and a darkened, not bright, red suit. A dramatic, calm, cinematic tone.\n\nCamera: \n70–100mm lens, cinematic framing, shallow depth of field, hero in focus, background slightly blurred. Ultra-realistic, film still, subtle film grain, physically accurate lighting, cinematic superhero movie 2010s style.\n\nMaximum realism, the feeling of a real film frame, without CGI stylization.",
+    "title": "Photorealistic Superhero on Skyscraper Rooftop",
+    "description": "A highly detailed prompt for generating a photorealistic image of a superhero (Spider-Man suit) sitting on a skyscraper rooftop, with the mask removed to reveal the face of Caleb McLaughlin (using reference image 2). It specifies the pose, suit details (torn shoulder), background (industrial rooftop), overcast lighting, and a cool bluish-teal cinematic color correction.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773469788176_iq5xhb_HDS77mfa0AAp6dz.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12108,
+    "content": "A superhero in a {argument name=\"suit color\" default=\"red and blue\"} spider suit sits on the edge of a skyscraper rooftop, viewed from the back, in a close-up medium shot, with the hero in the center of the frame. He is leaning slightly forward, one hand resting on his knee. On his back is a large red spider logo. At the top of the suit, there is a small torn hole on the right shoulder, revealing the texture of the fabric. The background is a densely built-up metropolis with beige and gray high-rises in the New York style, the windows repeating in a geometric pattern. The city is slightly blurred (slight depth of field), the hero is in sharp focus. The weather is overcast, soft diffused daylight, a cloudy sky without bright sun. The cinematic style of a 2010s superhero film, realistic texture of the suit fabric (micromesh, volumetric pattern), physically correct lighting, natural shadows, light atmospheric haze between the buildings. Color grading: cool bluish-teal tone, muted colors, reduced saturation, soft contrast, slight gray-green tint in the shadows, slightly darkened and not acidic red suit. Overall tone is dramatic, calm, slightly melancholic. Camera: 70-100mm lens, eye level, waist-length framing, cinematic framing. No action, static scene. High detail, realism, film still, ultra realistic, soft natural lighting, shallow depth of field, subtle film grain.",
+    "title": "Cinematic Superhero Rooftop Prompt",
+    "description": "A detailed prompt for generating a cinematic film still of a superhero (in a red and blue spider suit) sitting on a skyscraper rooftop, focusing on specific camera angles, lighting (overcast/diffused daylight), texture realism (torn suit fabric), and cool color grading.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773469800105_9a4qpi_HDS6dfibkAAIIV0.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12086,
+    "content": "Convert character into a modern cinematic 3D render with a high-fashion grade, punchy yet natural contrast, filmic color science, subtle halation/bloom, controlled highlights, realistic materials, preserve the original camera framing, no text, no logo",
+    "title": "Cinematic 3D Render Conversion",
+    "description": "A prompt instructing the AI to convert a character (presumably from a reference image) into a modern cinematic 3D render with high-fashion grading, natural contrast, filmic color science, and realistic materials, while preserving the original camera framing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773469787652_l5z2yp_HDSl-hjaQAAuWYb.jpg",
+      "https://cms-assets.youmind.com/media/1773469787652_68zawf_HDSmCW3bEAEcEow.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12107,
+    "content": "Create an exaggerated stylized 3D caricature character portrait with strong intentional deformation and a clean, controlled surface finish. Use the person from the ATTACHED REFERENCE PHOTO. Preserve the subject’s identity, facial likeness, skin tone, and defining features, but reinterpret them into a bold caricatured 3D form with an elongated neck, oversized head-to-neck ratio, droopy eyelids, heavy lips, and slightly asymmetrical facial structure.Render as a human-like 3D character with smooth, studio-clean skin and intentionally designed detail, avoiding random texture or noise. Style with bold accessories such as {argument name=\"accessories\" default=\"round or oval glasses, hoop earrings, gold chains\"}, headscarves or bandanas, and street-luxury clothing.\n\nUse neutral studio lighting with soft shadows and even illumination, no dramatic contrast, against a plain neutral grey or off-white background. The overall aesthetic should feel weird, fashion-forward, collectible, and character-driven rather than cute or realistic.\n\nUltra high definition, premium cinematic 3D render quality, hyper-realistic hyper realism, clean materials, no freckles, no dirt, no grain, no noise, no speckling, no text, no logos, no watermarks.\n\nAspect ratio 4:5.",
+    "title": "Stylized 3D Caricature Portrait Prompt",
+    "description": "A detailed prompt for creating an exaggerated, stylized 3D caricature portrait based on a reference photo, requiring intentional deformation (oversized head, heavy lips) while preserving facial likeness, rendered with clean materials and neutral studio lighting for a weird, fashion-forward aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773469797685_cpra1a_HDQGTz1bQAQd84-.jpg",
+      "https://cms-assets.youmind.com/media/1773469797724_dzuofw_HDQGTySbQAEZPT6.jpg",
+      "https://cms-assets.youmind.com/media/1773469797647_7zbz55_HDQGTwqbQAAOS2X.jpg",
+      "https://cms-assets.youmind.com/media/1773469798592_374se8_HDQGT3cbQAAArUu.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12034,
     "content": "In a 3×3 grid, each cell should have an aspect ratio of 2:3. Show the same character from different angles while keeping the scene consistent, with randomized poses in each cell.",
     "title": "3x3 Grid Character Consistency Prompt",
