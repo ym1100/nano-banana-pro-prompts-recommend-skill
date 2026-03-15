@@ -1,5 +1,35 @@
 [
   {
+    "id": 12155,
+    "content": "Cinematic dramatic portrait of [{argument name=\"subject description\" default=\"your description\"}], low camera angle looking up heroically, intense volumetric god rays piercing through shattered stained-glass windows and collapsed roof in an abandoned gothic cathedral at twilight, cool blue-purple volumetric light beams cutting through thick dust, incense-like haze, and floating particles, strong rim lighting and subtle warm backlight halo around the face and hair, sharp chiaroscuro shadows sculpting facial features, towering ruined stone arches, broken pews and debris softly blurred in background, dynamic contemplative pose - head tilted slightly upward toward the divine light, eyes gazing intensely into the beams, subtle wind moving hair and clothing, moody ethereal atmosphere blending dystopian ruin with sacred majesty, film still from dark fantasy epic, volumetric fog everywhere, god rays dominating composition, ultra-realistic skin texture with pores and subtle highlights, anamorphic lens flares, cinematic color grade with deep teal shadows and faint golden rim, shot on 35mm Arri Alexa, directed by Ridley Scott or Guillermo del Toro, atmospheric depth, masterpiece.",
+    "title": "Cinematic Portrait in Ruined Gothic Cathedral",
+    "description": "A dramatic, cinematic portrait prompt for Gemini Nano Banana 2, featuring a subject in an abandoned gothic cathedral at twilight, emphasizing low-angle perspective, intense volumetric god rays, chiaroscuro shadows, and a dark fantasy epic film aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556648526_v783m8_HDX5akwaMAAa-uL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12164,
+    "content": "4-panel manga title:\nAcademic Silence (Shijima)\n\nUniversity of Tokyo, Kyoto University\n6 major universities\nMARCH NG\nNittokoma-sen\n\nI don't even know the names of the universities anymore... lol",
+    "title": "AI Image Generation Prompt for 4-Panel Manga: Academic Silence",
+    "description": "A user shares the prompt used with Nano Banana Pro (Gemini 3 Pro Image) to generate a 4-panel manga titled 'Academic Silence,' focusing on university names and academic hierarchy.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556653400_b89ub8_HDXi1KVaMAAi1XE.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12160,
+    "content": "World Baseball\nSouth Korea Dominican Republic\nSouth Korea tattered\nLike a bee on a crying face\nSet up a Gorenja Rugby Ball\nUntil the kick and boom",
+    "title": "World Baseball Classic Scene Generation",
+    "description": "A prompt for Nano Banana Pro (Gemini 3 Pro Image) to generate a chaotic scene related to the World Baseball Classic, involving South Korea, the Dominican Republic, and a Gorenja Rugby Ball.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556651973_vbn4m2_HDVj5H-bUAA19ZP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12088,
     "content": "A superhero in a red and blue spider suit sits on the edge of a skyscraper rooftop, frontal view, camera at eye level, waist-length medium shot. The pose is identical to the first shot: the body is slightly leaning forward, one hand resting on the knee, a static, cinematic composition.\n\nThe mask is removed and held in the hand or lowered downwards. Face: Use the face from the uploaded reference photo 2 (identity reference 2), as photorealistic as possible, without stylization, with natural skin texture and natural shadows. Expression: calm, pensive, slightly tired, with a dramatic mood.\n\nThe suit is completely identical to the first shot: \nred and blue, micro-mesh texture, 3D webbing, realistic fabric, and retains a small torn detail on the shoulder. Physically correct fit.\n\nThe background corresponds to the camera's 180-degree rotation around the hero: \nanother part of the roof features industrial elements—ventilation units, metal structures, and technical equipment. Beyond the roof are lower city buildings, an urban landscape, concrete facades, and a subtle industrial atmosphere. The city is slightly blurred (shallow depth of field). Atmospheric haze.\n\nThe lighting is identical to the first shot: \nan overcast day, soft, diffused light, and a cloudy sky, without harsh shadows. The light falls as naturally as in the first scene.\n\nThe color correction is exactly the same as in photo 1: \na cool bluish-teal tone, muted colors, reduced saturation, soft contrast, a slight gray-green tint in the shadows, and a darkened, not bright, red suit. A dramatic, calm, cinematic tone.\n\nCamera: \n70–100mm lens, cinematic framing, shallow depth of field, hero in focus, background slightly blurred. Ultra-realistic, film still, subtle film grain, physically accurate lighting, cinematic superhero movie 2010s style.\n\nMaximum realism, the feeling of a real film frame, without CGI stylization.",
     "title": "Photorealistic Superhero on Skyscraper Rooftop",

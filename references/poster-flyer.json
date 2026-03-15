@@ -20,6 +20,53 @@
     "needReferenceImages": false
   },
   {
+    "id": 12167,
+    "content": "Create a breathtaking ultra-premium cinematic 3D brand advertisement masterpiece in Nano Banana Pro style, hyper-detailed and perfectly polished.\n\nOne charismatic stylized heroic main character as the absolute star of the image, confidently standing or dramatically posed on top of one gigantic oversized hero product object inspired by {argument name=\"brand name\" default=\"TYPE BRAND NAME\"}. The hero product must be massively scaled, extremely dominant in the frame, instantly readable as the powerful central visual statement, with intricate surface details and premium material realism.\n\nExtreme minimalism with massive negative space, perfect visual hierarchy, and clean centered composition. Dramatic low-angle hero perspective that makes everything feel epic and aspirational.\n\nSophisticated clean background using the exact official {argument name=\"brand color palette\" default=\"BRAND\"} color palette, identity, and aesthetic.\n\nShow the official {argument name=\"brand logo\" default=\"BRAND\"} logo only once, perfectly integrated in an elegant position (never repeated). If no logo file is provided, generate the latest accurate official logo version. Place one powerful elegant 3-word slogan right next to the logo, rendered with flawless brand-authentic typography, perfect kerning, spacing, proportion, and premium visual treatment.\n\nUltra-premium 3D animation render style mixed with Unreal Engine 5 and Octane quality, dramatic cinematic commercial lighting with beautiful rim lights, soft volumetric god rays, subtle lens flare, and high-contrast mood. Razor-sharp 8K details, perfect focus, luxurious aspirational atmosphere, strong negative space, no clutter whatsoever, no extra text, no watermark.\n\nMasterpiece, best quality, commercial campaign level, award-winning visual.",
+    "title": "Ultra-Premium Cinematic 3D Brand Advertisement Prompt for Nano Banana Pro",
+    "description": "A detailed, high-quality prompt specifically tagged for #nanobanana, instructing the model to create a breathtaking ultra-premium cinematic 3D brand advertisement masterpiece in the Nano Banana Pro style. It focuses on a charismatic heroic main character confidently posed on a gigantic, oversized hero product object, emphasizing extreme minimalism, dramatic low-angle perspective, sophisticated branding, and high-end rendering techniques like Unreal Engine 5 and Octane quality.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556654403_qwx7tj_HDabI5paMAEcY2C.jpg",
+      "https://cms-assets.youmind.com/media/1773556654449_ygbfps_HDabI5pbQAAljoT.jpg",
+      "https://cms-assets.youmind.com/media/1773556654579_vlqjow_HDabI5yaMAMTSzU.jpg",
+      "https://cms-assets.youmind.com/media/1773556655075_rqt4cv_HDabI5yboAAxXSb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12135,
+    "content": "Use the provided reference image strictly for the subject’s face and identity. Only translate the face into the new illustration style while maintaining accurate facial features.\nCreate a stylized low-angle chest-up urban portrait. The subject’s head is slightly raised, giving a confident, street-inspired attitude.\nAppearance & StylingOrange-tinted sunglasses\nGold chain necklace\nPatterned orange streetwear jacket\nProminent neck and face tattoos\nArt Style\n\nBold graphic digital illustration style with sharp shading, clean edges, and strong contrast, similar to a modern urban poster or street-art inspired artwork.\nBackground\n\nA large, orange-filled circle, made with brush strokes, is placed behind the subject, with grunge paint splashes on a dark grey, textured background, creating a strong graphic composition.\nLighting & Mood\n\nWarm reflections on the sunglasses and skin tones, high-contrast poster lighting, dramatic urban aesthetic, crisp illustration details, 4:5 aspect ratio.\nMaintain strong facial identity fidelity from the reference image while changing only the artistic style of the portrait.",
+    "title": "Prompt for stylized urban portrait with reference image fidelity",
+    "description": "A detailed prompt for Gemini Nano Banana 2 requesting a stylized low-angle chest-up urban portrait, emphasizing the strict use of a reference image for the subject's face and identity while translating the style to a bold graphic digital illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556637820_jf2hf2_HDaPBkMaEAA4vNA.jpg",
+      "https://cms-assets.youmind.com/media/1773556637750_mbq060_HDaPBiEaMAAivcr.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12154,
+    "content": "ultra realistic cinematic portrait poster of a confident man using the attached face image as reference, centered headshot with shoulders visible and a calm powerful expression. Use dramatic studio lighting with a soft key light and subtle rim lighting for depth and contrast. The background should be dark matte black or charcoal with a luxury cinematic feel. Place very large tall condensed vertical typography behind the subject in the same stretched style as the reference image, partially hidden by the subject, with the text placeholder “[{argument name=\"title text\" default=\"INSERT TITLE TEXT HERE\"}]”. The typography should be metallic gold with a subtle foil shine. Dress the subject in a refined masculine outfit such as a black tailored suit or elegant modern sherwani. Style the image as a classy luxury editorial poster with deep black and gold tones, ultra realistic skin detail, shallow depth of field, cinematic color grading, and high resolution professional photography",
+    "title": "Noir Gold Cinematic Portrait Poster",
+    "description": "A prompt for Google Nano Banana Pro to create an ultra-realistic cinematic portrait poster in a noir gold style, featuring a confident man with dramatic studio lighting and large metallic gold typography in the background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556648326_pq5o4s_HDYGL9waoAA_Ui5.jpg",
+      "https://cms-assets.youmind.com/media/1773556648328_ca81xp_HDYGMhdaUAANIx9.jpg",
+      "https://cms-assets.youmind.com/media/1773556648432_qm8lip_HDYGM8sasAAM_oJ.jpg",
+      "https://cms-assets.youmind.com/media/1773556648853_9o3yds_HDYGNZkaEAAjaa9.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12140,
+    "content": "cinematic portrait of a young woman standing perfectly still as the city around her spirals in circular motion blur, streaks of headlights and neon lights orbiting her body like gravity pulling the world inward, dramatic teal and orange cinematic color grading, wind moving strands of hair, calm expression contrasting chaotic motion, shallow depth of field, shot on a 50mm lens, realistic skin texture, atmospheric night lighting, vertical composition",
+    "title": "Cinematic Portrait with Motion Blur Cityscape",
+    "description": "A prompt for Nano Banana 2 to generate a cinematic portrait of a young woman standing still while the city around her is rendered with circular motion blur, creating a dramatic contrast with teal and orange color grading.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556640786_n5lw5a_HDWVSaVaIAAp-EN.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12076,
     "content": "Change the text on the image reference from \"Children's Day Fest\" to \"Colour Pop Day\". Put the \"Pop\" on the next line with \"Day\". Ensure the style is maintained.",
     "title": "Text Replacement Prompt for Image Editing",

@@ -1,5 +1,39 @@
 [
   {
+    "id": 12157,
+    "content": "A cinematic macro toy-photography scene.\nA bean-sized version of the uploaded reference character is sprinting dramatically across the surface of a giant open comic book featuring panels of the same character.\n\nLikeness Preservation (CRITICAL)\nThe identity of the character must remain exactly the same as the reference in both:\n• the miniature physical character\n\n• the comic panels printed on the page\nMaintain the exact:\n• head shape\n\n• eye shape and spacing\n\n• stylization\n\n• silhouette\n\n• materials and clothing design\nIf the character wears a balaclava, mask, helmet, or covered face, the comic panels must not invent facial anatomy.\nNo added nose.\n\nNo added mouth.\n\nNo visible skin where the reference does not show it.\nThe comic panels must depict the same exact design language of the character, only rendered as printed comic artwork.\nDo not humanize the character.\n\nDo not reinterpret anatomy.\nSubject & Action\nThe miniature character runs across the page as if traversing its own story.\nOversized comic panels surround the character, each showing dynamic action poses of the same character, rendered in bold comic-book style.\n\nCamera & Perspective\nLow-angle macro close-up shot, camera positioned almost at page level.\nShot with a 90–100mm macro lens, giving the tiny character a heroic sense of scale.\nThe character sits slightly off-center, leaning forward in motion.\n\nDepth of Field\nExtremely shallow depth of field.\nThe running miniature character and the immediate section of the comic page are razor sharp.\nThe surrounding panels and distant page edges fall into soft blur.\n\nLighting\nSharp cinematic directional light from the top left, casting dramatic shadows across the comic page and creating small glints on the glossy print surface.\n\nEnvironment & Surface Detail\nMacro-level detail of the printed comic page:\nink texture\n\npaper fibers\n\nsubtle gloss reflections\nColor Grade\nRich saturated comic-book colors with warm cinematic highlights and soft ambient glow.\nMoody macro photography atmosphere.\n\nRendering Style\nPhotorealistic macro toy photography aesthetic, emphasizing scale illusion between the tiny character and the giant comic book world.\nar 5:4",
+    "title": "Macro Toy Photography: Beast Escaping Comic Panel",
+    "description": "A highly specific macro toy-photography prompt for Nano Banana 2 (Gemini – Thinking Mode) to generate a scene where a miniature character (based on a reference image) sprints across a giant open comic book, emphasizing scale, shallow depth of field, and strict likeness preservation.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556649959_3hbx3z_HDWeXPOWoAA8toW.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12153,
+    "content": "Ninjago characters and scenes remastered in UE5 animation style",
+    "title": "Ninjago Characters Remastered in UE5 Style",
+    "description": "A prompt for Nano Banana Pro used to reimagine Ninjago characters and scenes in the modern, high-fidelity Unreal Engine 5 (UE5) animation style seen in the 'Dragons Rising' show.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556647081_8qswj1_HDVNruFXoAAGQ-j.jpg",
+      "https://cms-assets.youmind.com/media/1773556647057_71404l_HDVNrtAWQAET4X8.jpg",
+      "https://cms-assets.youmind.com/media/1773556647201_qncuc5_HDVNrrxXsAA5ZWx.jpg",
+      "https://cms-assets.youmind.com/media/1773556648023_qm9d6n_HDVNrwVWgAAkR-m.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12137,
+    "content": "Create an exaggerated stylized 3D caricature character portrait with strong intentional deformation and a clean, controlled surface finish. Use the person from reference photo.Preserve the subject’s identity, facial likeness, skin tone, and defining features, but reinterpret them into a bold caricatured 3D form with an elongated neck, oversized head-to-neck ratio, droopy eyelids, heavy lips, and slightly asymmetrical facial structure.Render as a human-like 3D character with smooth, studio-clean skin and intentionally designed detail, avoiding random texture or noise. Style with bold accessories such as round or oval glasses, hoop earrings, gold chains, headscarves or bandanas, and street-luxury clothing.\n\nUse neutral studio lighting with soft shadows and even illumination, no dramatic contrast, against a plain neutral grey or off-white background. The overall aesthetic should feel weird, fashion-forward, collectible, and character-driven rather than cute or realistic.\n\nUltra high definition, premium cinematic 3D render quality, hyper-realistic hyper realism, clean materials, no freckles, no dirt, no grain, no noise, no speckling, no text, no logos, no watermarks.\n\nAspect ratio 4:5.",
+    "title": "Exaggerated 3D Caricature Character Portrait",
+    "description": "A detailed prompt for Gemini Nano Banana 2 to create an exaggerated, stylized 3D caricature portrait based on a reference photo, focusing on intentional deformation, clean studio finish, and specific luxury street-wear accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556639206_85yz7b_HDVHw2taMAA-Nvi.jpg",
+      "https://cms-assets.youmind.com/media/1773556639225_bbnvga_HDVHw2FbwAAKlUC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12116,
     "content": "hyper-realistic close-up of a sleek modern robot with a large rectangular LCD screen as its face, high-resolution display showing **{argument name=\"display content\" default=\"display content\"}**, sharp crisp pixels and subtle backlight glow, matte black metallic body with subtle panel lines and brushed aluminum accents, glowing blue LED trim around the screen edges, articulated neck and shoulders with visible cables and servos, cool industrial design with faint reflections on the screen glass, dramatic cinematic studio lighting with strong rim light and soft volumetric highlights, ultra detailed screen texture, realistic LCD bloom and slight scan lines, futuristic yet grounded aesthetic, masterpiece, sharp focus",
     "title": "Sleek LCD-Face Robot Prompt",

@@ -1,5 +1,27 @@
 [
   {
+    "id": 12165,
+    "content": "{\n  \"image_generation_controls\": {\n    \"product_focus\": \"{argument name=\"product focus\" default=\"[INSERT PRODUCT HERE]\"}\",\n    \"composition\": {\n      \"placement\": \"strictly centered\",\n      \"orientation\": \"eye-level, front-facing\",\n      \"spatial_style\": \"levitating, floating in a void\",\n      \"frame_padding\": \"ensure no edges of the product are cut off\"\n    },\n    \"visual_style\": {\n      \"background_color\": \"#000000\",\n      \"lighting_effects\": [\n        \"prismatic light refraction\",\n        \"caustic light leaks\",\n        \"soft amber and cyan gradients\",\n        \"anisotropic highlights\"\n      ],\n      \"textures\": [\n        \"brushed matte metallic\",\n        \"frosted translucent glass layers\",\n        \"fine-grain satin finish\"\n      ],\n      \"color_palette\": {\n        \"primary_background\": \"#000000\",\n        \"highlight_amber\": \"#FFB347\",\n        \"highlight_cyan\": \"#4DB6AC\",\n        \"accent_warm_white\": \"#F5F5DC\"\n      }\n    },\n    \"negative_constraints\": {\n      \"environmental_elements\": [\n        \"no platforms\",\n        \"no pedestals\",\n        \"no stands\",\n        \"no light boxes\",\n        \"no photography umbrellas\",\n        \"no studio props\",\n        \"no shadows on floor\",\n        \"no horizon line\"\n      ],\n      \"composition_errors\": [\n        \"product cut off by frame\",\n        \"product off-center\",\n        \"cropped edges\",\n        \"multiple instances of product\"\n      ],\n      \"clutter\": [\n        \"no text\",\n        \"no watermarks\",\n        \"no UI elements\",\n        \"no buttons\",\n        \"no wires\"\n      ]\n    },\n    \"rendering_engine_directives\": {\n      \"detail_level\": \"ultra-high fidelity\",\n      \"surface_interaction\": \"photorealistic light dispersion on product surfaces\",\n      \"edge_quality\": \"sharp, clean silhouettes with soft glow\"\n    }\n  }\n}",
+    "title": "Detailed JSON prompt for Nano Banana Pro product photography",
+    "description": "A highly structured JSON prompt designed for Nano Banana Pro, specifying detailed image generation controls for product photography. It dictates composition (centered, eye-level, levitating), visual style (prismatic light, specific color palette, textures), and extensive negative constraints to ensure a clean, high-fidelity, studio-quality image of a product.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556654118_6xf9ne_HDakAx8bkAABKLC.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12156,
+    "content": "Luxury product photography of a matte black shaving gel tube labeled “{argument name=\"product name\" default=\"SAUVAGE\"}” and “{argument name=\"brand name\" default=\"Dior\"}”, placed diagonally on two aged copper plates engraved with vintage anatomical frog illustrations (one frog skeleton, one frog outline). The background is a dark navy technical blueprint with white engineering drawings of a straight razor and razor blade, including measurements and schematic lines. Dramatic studio lighting, high contrast, moody luxury aesthetic, glossy reflections on the tube, rich copper texture with patina, ultra-sharp focus, premium fragrance advertising style, cinematic composition, top-down flat lay, 8k photorealistic detail, dark elegant color palette.",
+    "title": "Luxury Product Photography of Dior Sauvage Shaving Gel",
+    "description": "A prompt for Gemini Nano Banana Pro to generate high-contrast, luxury product photography of a matte black Dior Sauvage shaving gel tube, placed on aged copper plates with anatomical frog illustrations, against a dark navy blueprint background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556649032_s45i87_HDW3N0MaMAImPxW.jpg",
+      "https://cms-assets.youmind.com/media/1773556649021_2ctko2_HDW3Ny5bsAAI7rV.jpg",
+      "https://cms-assets.youmind.com/media/1773556649260_8gooxo_HDW3Ny_aMAMIB7n.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12066,
     "content": "Ultra-realistic skincare advertising photography featuring a frosted citrus glass bottle labeled “{argument name=\"product name\" default=\"Glow Recipe – Lemon Brightening Glow Serum (30 ml)\"}” floating mid-air.",
     "title": "Ultra-Realistic Skincare Product Photography Prompt",

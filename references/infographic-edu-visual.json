@@ -56,6 +56,16 @@
     "needReferenceImages": false
   },
   {
+    "id": 12134,
+    "content": "Create an image layout of a modern villa with sketchy analysis renders",
+    "title": "Prompt for a modern villa layout",
+    "description": "A prompt used with Google Nano Banana to create an image layout of a modern villa, including sketchy analysis renders.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556637589_3fog8t_HDYqwSUXwAAyZ4j.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12070,
     "content": "2x2 grid of famous quantum mechanics concepts:\n\nRender =\n( Micro_Diorama_Platform * 1.0 ) +\n( Sculpted_Miniature_Backdrop_[TOPIC] * 1.5 ) +\n( 3D_Miniature_Scene_Sculpt_[TOPIC] * 2.0 ) +\n( Resin_and_Clay_Materials * 2.0 ) +\n( Cinematic_Miniature_Lighting * 2.0 ) +\n( Tiny_Mascot_Character * 1.0 ) +\n( Clean_Studio_Void * 1.0 )\n-\n( Photorealism / 2.0 ) -\n( Human_Proportions )",
     "title": "Visualizing Quantum Mechanics with Diorama Style",

@@ -10,6 +10,59 @@
     "needReferenceImages": false
   },
   {
+    "id": 12144,
+    "content": "Pixar-style 3D avatar of [ reference person ], confident, warm smile. Tailored outfit, subtle catchlights in eyes, soft corporate studio lighting, clean white background, executive headshot",
+    "title": "Pixar-Style 3D Avatar Prompt for Nano Banana",
+    "description": "A prompt for Nano Banana to generate a Pixar-style 3D avatar headshot of a reference person, emphasizing a confident expression, tailored outfit, and professional studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556643004_u2ntez_HDYvZoEbcAA_4bh.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12145,
+    "content": "{\n  \"scene\": \"cinematic studio portrait\",\n  \"reference\": {\n    \"identity_match\": \"match the uploaded reference face precisely\",\n    \"facial_accuracy\": [\n      \"bone structure\",\n      \"eye shape\",\n      \"nose proportions\",\n      \"jawline\",\n      \"facial symmetry\",\n      \"hairline\"\n    ],\n    \"skin_texture\": \"natural pores and realistic skin detail\"\n  },\n  \"subject\": {\n    \"type\": \"man\",\n    \"age\": \"around 25–30\",\n    \"expression\": \"calm, confident, relaxed\",\n    \"gaze\": \"direct eye contact with camera\"\n  },\n  \"pose\": {\n    \"style\": \"relaxed studio pose\",\n    \"description\": \"leaning slightly forward with one elbow resting on a wooden table, one hand gently touching the side of the head\"\n  },\n  \"hair\": {\n    \"style\": \"short natural hairstyle with soft volume and visible strands\"\n  },\n  \"clothing\": {\n    \"outfit\": \"soft neutral button-up shirt or lightweight sweater\",\n    \"style\": \"clean, modern, minimal\"\n  },\n  \"lighting\": {\n    \"style\": \"soft cinematic studio lighting\",\n    \"key_light\": \"above eye level from viewer's left\",\n    \"effect\": \"soft highlights",
+    "title": "Cinematic Studio Portrait with Precise Facial Matching",
+    "description": "A highly detailed structured prompt for generating a cinematic studio portrait of a man, emphasizing precise facial identity matching from a reference image, specific lighting, pose, and clothing details, created using Google Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556643927_zjgcxw_HDXCapyaMAY8qMq.jpg",
+      "https://cms-assets.youmind.com/media/1773556644010_ce40vx_HDXCaouaMAAtPnp.jpg",
+      "https://cms-assets.youmind.com/media/1773556643956_a779mj_HDXCaqlbYAA5sJO.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12161,
+    "content": "I focused entirely on texture, material feel, and fine details 🥳\nI kept the usual Roxy feel by retaining the hair quality and makeup.\nI carefully considered the prompt, focusing on accessories and small item accents ✨",
+    "title": "Detailed Texture and Accessory Generation",
+    "description": "A detailed prompt used with Nano Banana Pro focused heavily on texture, material feel, and fine details, while maintaining the character Roxy's hair quality and makeup, and emphasizing accessories and small items.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556652049_n149ne_HDV3Oj4aMAEaGZV.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12139,
+    "content": "Ultra-realistic black and white cinematic portrait of a handsome young man, moody lighting, dramatic shadows across the face from window blinds, deep contrast, looking down thoughtfully, textured hair falling slightly over forehead, short beard, wearing a dark knit sweater, studio photography, dark background, high detail skin texture, soft rim lighting, shallow depth of field, 85mm lens, f/1.8, professional fashion editorial style, film noir atmosphere, ultra sharp focus, 8k",
+    "title": "Film Noir Cinematic Black and White Portrait",
+    "description": "A prompt for Nano Banana Pro to generate an ultra-realistic black and white cinematic portrait of a handsome young man, focusing on moody lighting, dramatic shadows from window blinds, and a professional fashion editorial style.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556639699_rrebo5_HDVIdjSaMAMxrHD.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12137,
+    "content": "Create an exaggerated stylized 3D caricature character portrait with strong intentional deformation and a clean, controlled surface finish. Use the person from reference photo.Preserve the subject’s identity, facial likeness, skin tone, and defining features, but reinterpret them into a bold caricatured 3D form with an elongated neck, oversized head-to-neck ratio, droopy eyelids, heavy lips, and slightly asymmetrical facial structure.Render as a human-like 3D character with smooth, studio-clean skin and intentionally designed detail, avoiding random texture or noise. Style with bold accessories such as round or oval glasses, hoop earrings, gold chains, headscarves or bandanas, and street-luxury clothing.\n\nUse neutral studio lighting with soft shadows and even illumination, no dramatic contrast, against a plain neutral grey or off-white background. The overall aesthetic should feel weird, fashion-forward, collectible, and character-driven rather than cute or realistic.\n\nUltra high definition, premium cinematic 3D render quality, hyper-realistic hyper realism, clean materials, no freckles, no dirt, no grain, no noise, no speckling, no text, no logos, no watermarks.\n\nAspect ratio 4:5.",
+    "title": "Exaggerated 3D Caricature Character Portrait",
+    "description": "A detailed prompt for Gemini Nano Banana 2 to create an exaggerated, stylized 3D caricature portrait based on a reference photo, focusing on intentional deformation, clean studio finish, and specific luxury street-wear accessories.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773556639206_85yz7b_HDVHw2taMAA-Nvi.jpg",
+      "https://cms-assets.youmind.com/media/1773556639225_bbnvga_HDVHw2FbwAAKlUC.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12077,
     "content": "{\n  \"generation_request\": {\n    \"meta_data\": {\n      \"task_type\": \"black_and_white_photobooth_expression_grid_4x4\",\n      \"language\": \"en\",\n      \"priority\": \"highest\",\n      \"version\": \"v1.0_BW_PHOTOBOOTH_EXPRESSIONS_4x4\"\n    },\n    \"input\": {\n      \"mode\": \"image_to_image\",\n      \"reference_image_usage\": \"very_high\",\n      \"preserve_identity\": true,\n      \"preserve_facial_features\": true,\n      \"preserve_hairstyle\": true,\n      \"notes\": \"Use the reference as the primary anchor. Create a black-and-white photobooth-style expression grid. Keep the same young man identity and hair. Each panel should show a different facial expression. Minimal background, direct photobooth flash look, natural skin texture.\"\n    },\n    \"output\": {\n      \"aspect_ratio\": \"1:1\",\n      \"resolution\": \"ultra_high\",\n      \"num_images\": 1,\n      \"layout\": {\n        \"type\": \"grid\",\n        \"rows\": 4,\n        \"cols\": 4,\n        \"gutter\": \"thin\",\n        \"panel_consistency\": \"high\"\n      },\n      \"sharpness\": \"crisp_photobooth\",\n      \"grain\": \"subtle_analog_bw\"\n    },\n    \"scene\": {\n      \"concept\": \"classic photobooth contact sheet with expressive faces\",\n      \"environment\": \"plain neutral backdrop, no props\",\n      \"lighting\": {\n        \"style\": \"direct photobooth flash\",\n        \"key_light\": \"front flash, slightly hard but flattering\",\n        \"shadows\": \"soft short shadows behind subject\",\n        \"avoid\": \"cinematic side light, dramatic backgrounds\"\n      },\n      \"camera\": {\n        \"lens\": \"50mm\",\n        \"distance\": \"tight head-and-shoulders framing\",\n        \"focus\": \"eyes sharp in every panel\"\n      }\n    },\n    \"subject\": {\n      \"type\": \"young man\",\n      \"wardrobe\": \"simple casual photobooth look, plain t shirt or hoodie with no logos\",\n      \"hair\": \"keep same hairstyle across all panels\",\n      \"facial_hair\": \"natural if present, keep consistent\",\n      \"anatomy_rules\": \"correct facial proportions, no warped eyes or mouth\"\n    },\n    \"expression_set\": {\n      \"panel_01\": \"scrunched smile, eyes squeezed slightly\",\n      \"panel_02\": \"intense stare with fingers framing eyes\",\n      \"panel_03\": \"big laugh, mouth open, joyful\",\n      \"panel_04\": \"bored unimpressed face, chin resting in hands\",\n      \"panel_05\": \"sad pout, emotional expression\",\n      \"panel_06\": \"goofy face with both hands making small horns above head\",\n      \"panel_07\": \"playful tongue out with cheeky grin\",\n      \"panel_08\": \"angry glare with eyebrows down\",\n      \"panel_09\": \"confident playful look, hand touching cheek\",\n      \"panel_10\": \"surprised wide eyes, mouth slightly open\",\n      \"panel_11\": \"fake scream excited shout, hands near face\",\n      \"panel_12\": \"mischievous grin with claw-like hand pose\",\n      \"panel_13\": \"confused frown with lips pressed\",\n      \"panel_14\": \"dramatic frustrated expression, hands on head\",\n      \"panel_15\": \"tongue out with eyes closed, playful mood\",\n      \"panel_16\": \"duck face with small devil horns gesture\"\n    },\n    \"styl\"",
     "title": "Black and White Photobooth Expression Grid (4x4)",
