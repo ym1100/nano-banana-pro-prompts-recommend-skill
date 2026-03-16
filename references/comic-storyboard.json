@@ -1,5 +1,15 @@
 [
   {
+    "id": 12225,
+    "content": "2x2 grid, do this for 4 titles in a famous comic universe: <spatial_map>\n    [ VERTICAL SCENIC BACKDROP (BOOK COVER) ]\n    |      (Floating Label: [{argument name=\"issue title\" default=\"ISSUE_TITLE\"} | {argument name=\"year\" default=\"YEAR\"}])\n    |                                            |\n    |      [3D TOY: {argument name=\"hero\" default=\"HERO\"}] vs [3D TOY: {argument name=\"villain\" default=\"VILLAIN\"}]   |\n    |          \\__ [3D PLASTIC FX] __/           |\n    |                                            |\n ---+--------------------------------------------+---\n   /    [OPEN BOOK PAGES WITH COMIC PANELS]     /\n  /                                            /\n /      [ FLOATING 3D TEXT: [SFX_WORD]! ]     /\n/____________________________________________/\n</spatial_map>\nInstruction: Render a photorealistic 3D diorama matching this exact structural geometry.",
+    "title": "3D Diorama of Comic Book Covers and Toys",
+    "description": "A complex, structured prompt instructing Nano Banana to visualize the DC Universe using a specific structural geometry: a 3D diorama featuring a vertical scenic backdrop (book cover), 3D toys of heroes and villains, and open book pages with comic panels, all rendered photorealistically.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773644002665_1tsrk3_HDVRONvaMAEQF_a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12155,
     "content": "Cinematic dramatic portrait of [{argument name=\"subject description\" default=\"your description\"}], low camera angle looking up heroically, intense volumetric god rays piercing through shattered stained-glass windows and collapsed roof in an abandoned gothic cathedral at twilight, cool blue-purple volumetric light beams cutting through thick dust, incense-like haze, and floating particles, strong rim lighting and subtle warm backlight halo around the face and hair, sharp chiaroscuro shadows sculpting facial features, towering ruined stone arches, broken pews and debris softly blurred in background, dynamic contemplative pose - head tilted slightly upward toward the divine light, eyes gazing intensely into the beams, subtle wind moving hair and clothing, moody ethereal atmosphere blending dystopian ruin with sacred majesty, film still from dark fantasy epic, volumetric fog everywhere, god rays dominating composition, ultra-realistic skin texture with pores and subtle highlights, anamorphic lens flares, cinematic color grade with deep teal shadows and faint golden rim, shot on 35mm Arri Alexa, directed by Ridley Scott or Guillermo del Toro, atmospheric depth, masterpiece.",
     "title": "Cinematic Portrait in Ruined Gothic Cathedral",

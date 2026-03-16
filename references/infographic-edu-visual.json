@@ -56,6 +56,29 @@
     "needReferenceImages": false
   },
   {
+    "id": 12190,
+    "content": "{\n  \"Objective\": \"Create a modern lifestyle split composition poster combining a luxurious smartphone gym selfie with a healthy diet bowl and calorie infographic.\",\n  \"Composition\": {\n    \"layout\": \"vertical split\",\n    \"aspect_ratio\": \"3:4\",\n    \"top_section\": {\n      \"type\": \"smartphone selfie\",\n      \"scene\": \"luxurious modern gym interior\",\n      \"subject\": {\n        \"type\": \"fit athletic woman\",\n        \"pose\": \"mirror selfie holding a smartphone\",\n        \"outfit\": [\n          \"stylish sports bra\",\n          \"high-waisted athletic shorts or leggings\"\n        ],\n        \"appearance\": \"healthy toned physique, post-workout glow\"\n      },\n      \"environment_elements\": [\n        \"modern gym mirrors\",\n        \"minimalist gym equipment\",\n        \"soft natural window light\",\n        \"premium fitness studio interior\"\n      ],\n      \"photography_style\": {\n        \"camera\": \"smartphone\",\n        \"aesthetic\": \"casual candid social media selfie\",\n        \"lighting\": \"natural daylight mixed with indoor gym lighting\",\n        \"imperfections\": [\n          \"slight smartphone noise\",\n          \"natural reflections in mirror\",\n          \"subtle motion softness\"\n        ]\n      }\n    },\n    \"bottom_section\": {\n      \"type\": \"food photography with infographic\",\n      \"scene\": \"healthy breakfast bowl on wooden table\",\n      \"food_bowl\": {\n        \"ingredients\": [\n          \"strawberries\",\n          \"blueberries\",\n          \"banana slices\",\n          \"granola\",\n          \"yogurt base\"\n        ],\n        \"presentation\": \"clean top-down food photography\"\n      },\n      \"infographic\": {\n        \"position\": \"next to the bowl\",\n        \"style\": \"minimal clean nutrition infographic\",\n        \"elements\": [\n          {\n            \"label\": \"Banana\",\n            \"calories\": \"90 kcal\"\n          },\n          {\n            \"label\": \"Strawberries\",\n            \"calories\": \"50 kcal\"\n          },\n          {\n            \"label\": \"Blueberries\",\n            \"calories\": \"60 kcal\"\n          },\n          {\n            \"label\": \"Granola\",\n            \"calories\": \"180 kcal\"\n          },\n          {\n            \"label\": \"Yogurt\",\n            \"calories\": \"120 kcal\"\n          },\n          {\n            \"label\": \"Total\",\n            \"calories\": \"500 kcal\"\n          }\n        ]\n      },\n      \"photography_style\": {\n        \"camera_angle\": \"top-down flat lay\",\n        \"lighting\": \"soft natural kitchen light\",\n        \"style\": \"clean healthy food photography\"\n      }\n    }\n  },\n  \"Aesthetic\": {\n    \"theme\": \"modern fitness lifestyle\",\n    \"color_palette\": [\n      \"soft neutrals\",\n      \"natural wood tones\",\n      \"fresh fruit colors\",\n      \"clean white accents\"\n    ]\n  },\n  \"Rendering\": {\n    \"style_keywords\": [\n      \"fitness lifestyle collage\",\n      \"luxury gym selfie\",\n      \"healthy food photography\",\n      \"nutrition infographic\",\n      \"social media aesthetic\"\n    ],\n    \"realism\": \"photorealistic\",\n    \"detail_level\": \"high detail textures\",\n}",
+    "title": "Modern Lifestyle Split Poster Prompt for Nano Banana Pro",
+    "description": "A highly detailed structured JSON prompt for Nano Banana Pro designed to create a split composition poster. The top section features a luxurious smartphone gym selfie of a fit woman, and the bottom section displays a healthy diet bowl with a clean calorie infographic, emphasizing a modern fitness lifestyle aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773643982875_l50puq_HDeQc8lXoAAMA1N.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12181,
+    "content": "5-stage horizontal manufacturing timeline, frozen mid-assembly. deep matte black background. dramatic industrial spotlights, deep shadow falloff.  \nS1: Components scattered, floating, zero assembly. \nS2: Converging with speed lines, skeleton emerging. \nS3: Half-built, peak tension, fasteners mid-tighten. \nS4: Chassis open, full internals exposed. \nS5: Finished product + ghost wireframe overlay.  \nSame 3/4 camera angle across all stages. Dotted trajectory arcs connect each component across stages. Each component color-coded consistently.  Title: \"PRODUCT NAME - ASSEMBLY SEQUENCE\" Footer: \"N parts parts · X hrs · KEY SPEC\"  Helvetica Neue Light labels. 4K, tack sharp. Dieter Rams precision.",
+    "title": "Product Assembly Sequence Timeline",
+    "description": "A complex, multi-stage prompt designed for Nano Banana 2 (used within Adobe Firefly) to generate a 5-panel horizontal timeline illustrating the assembly sequence of a product, focusing on dramatic lighting, technical precision, and consistent camera angles.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773643976636_wiorx9_HDdwJpKXoAAU_He.jpg",
+      "https://cms-assets.youmind.com/media/1773643976742_02299d_HDdv2qpWcAAjiia.jpg",
+      "https://cms-assets.youmind.com/media/1773643976909_okb2bb_HDdwtrdWsAEaWaC.jpg",
+      "https://cms-assets.youmind.com/media/1773643977504_81eh7o_HDdxC-xXUAA1QLl.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12134,
     "content": "Create an image layout of a modern villa with sketchy analysis renders",
     "title": "Prompt for a modern villa layout",

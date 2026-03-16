@@ -1,11 +1,32 @@
 [
   {
+    "id": 12168,
+    "content": "3–4 identical units of the product floating in mid-air, surrounded by fresh {argument name=\"ingredient type\" default=\"fruit/vegetable\"} and sliced pieces that the product is made from, ingredients suspended around the product, dynamic balanced composition, ultra-clean pure white background, no gradients, no color cast, soft studio lighting, realistic soft shadows beneath floating objects, glossy packaging reflections, juicy ingredient textures, premium skincare editorial style, hyper-realistic product photography, macro detail, sharp focus, commercial advertising quality, minimal composition, 8k, 1:1",
+    "title": "Hyper-realistic Product Ad Photography",
+    "description": "A prompt designed for generating hyper-realistic product photography for a skincare editorial style ad. It features floating product units and ingredients (like fruit or vegetables) against a clean white background with soft studio lighting and macro details.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773643968764_iexfs2_HDc8ag1XIAASK3y.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12208,
+    "content": "A macro photograph of an expensive, luxury wristwatch, the '{argument name=\"watch model\" default=\"WASI – W Eclipse Edition\"}'. The watch has a prominent two-tone case made of brushed titanium and polished rose gold with angular, complex lines. The crown, also in rose gold, has a micro-engraved 'W' emblem. The watch is placed in a three-quarter view, angled towards the right, on a highly reflective black marble surface with prominent white veining, which shows a partial reflection of the watch and its band.\n​The dial is deep obsidian black, radiating a subtle sunburst pattern from the center. Its defining feature is a large, sculptural, open-worked 'W' structure made of polished metallic components that arches across the center, revealing the intricate mechanical gears of the movement beneath it. The floating 'W' serves as a dominant central element. The hours are marked by applied rose gold hour markers, with Roman numerals '12', '3', and '6'. Minute markers are visible along the outer edge. The brand name 'WASI' is minimalistically engraved at the 12 o'clock position in brushed platinum lettering.\n​The hands are skeletonized and geometric, made of polished rose gold with integrated ice-blue luminous material that glows softly. There are two main hands and a central seconds hand. The strap is black matte crocodile leather with a polished rose gold deployant clasp that also has a micro-engraved 'W' insignia.\n​In the background, slightly out of focus, are luxury elements including a black velvet-lined box and a wooden panel with the text 'WASI' clearly engraved, suggesting a display. The lighting is dramatic and cinematic, with soft highlights and deep shadows that emphasize the varied textures, making it look like a high-end Swiss watch advertisement.",
+    "title": "Macro Photograph of Luxury Watch",
+    "description": "A detailed prompt for a macro photograph of a luxury wristwatch (WASI – W Eclipse Edition) on a reflective black marble surface, emphasizing intricate details like the two-tone case, open-worked 'W' structure revealing gears, and dramatic cinematic lighting for a high-end advertisement look.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773643993111_kcl5as_HDasTxhaMAAfdF2.jpg",
+      "https://cms-assets.youmind.com/media/1773643992891_aj0ez3_HDasTv9aMAApTxZ.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12165,
     "content": "{\n  \"image_generation_controls\": {\n    \"product_focus\": \"{argument name=\"product focus\" default=\"[INSERT PRODUCT HERE]\"}\",\n    \"composition\": {\n      \"placement\": \"strictly centered\",\n      \"orientation\": \"eye-level, front-facing\",\n      \"spatial_style\": \"levitating, floating in a void\",\n      \"frame_padding\": \"ensure no edges of the product are cut off\"\n    },\n    \"visual_style\": {\n      \"background_color\": \"#000000\",\n      \"lighting_effects\": [\n        \"prismatic light refraction\",\n        \"caustic light leaks\",\n        \"soft amber and cyan gradients\",\n        \"anisotropic highlights\"\n      ],\n      \"textures\": [\n        \"brushed matte metallic\",\n        \"frosted translucent glass layers\",\n        \"fine-grain satin finish\"\n      ],\n      \"color_palette\": {\n        \"primary_background\": \"#000000\",\n        \"highlight_amber\": \"#FFB347\",\n        \"highlight_cyan\": \"#4DB6AC\",\n        \"accent_warm_white\": \"#F5F5DC\"\n      }\n    },\n    \"negative_constraints\": {\n      \"environmental_elements\": [\n        \"no platforms\",\n        \"no pedestals\",\n        \"no stands\",\n        \"no light boxes\",\n        \"no photography umbrellas\",\n        \"no studio props\",\n        \"no shadows on floor\",\n        \"no horizon line\"\n      ],\n      \"composition_errors\": [\n        \"product cut off by frame\",\n        \"product off-center\",\n        \"cropped edges\",\n        \"multiple instances of product\"\n      ],\n      \"clutter\": [\n        \"no text\",\n        \"no watermarks\",\n        \"no UI elements\",\n        \"no buttons\",\n        \"no wires\"\n      ]\n    },\n    \"rendering_engine_directives\": {\n      \"detail_level\": \"ultra-high fidelity\",\n      \"surface_interaction\": \"photorealistic light dispersion on product surfaces\",\n      \"edge_quality\": \"sharp, clean silhouettes with soft glow\"\n    }\n  }\n}",
-    "title": "Detailed JSON prompt for Nano Banana Pro product photography",
-    "description": "A highly structured JSON prompt designed for Nano Banana Pro, specifying detailed image generation controls for product photography. It dictates composition (centered, eye-level, levitating), visual style (prismatic light, specific color palette, textures), and extensive negative constraints to ensure a clean, high-fidelity, studio-quality image of a product.",
+    "title": "Nano Banana Pro Product Photography Prompt",
+    "description": "A highly detailed, structured JSON prompt designed for Nano Banana Pro to generate photorealistic product images. It specifies composition, visual style, lighting effects (prismatic, caustic leaks, amber/cyan gradients), textures (matte metallic, frosted glass), and strict negative constraints to ensure a clean, void-like background without environmental elements or cropping errors.",
     "sourceMedia": [
-      "https://cms-assets.youmind.com/media/1773556654118_6xf9ne_HDakAx8bkAABKLC.jpg"
+      "https://cms-assets.youmind.com/media/1773644008402_ft9mis_HDakAx8bkAABKLC.jpg"
     ],
     "needReferenceImages": false
   },

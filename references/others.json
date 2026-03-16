@@ -13,6 +13,27 @@
     "needReferenceImages": true
   },
   {
+    "id": 12175,
+    "content": "\"use this image and replace all of the images to use this IP instead attached on the right\"",
+    "title": "Image Replacement Prompt",
+    "description": "A simple instruction prompt for Nano Banana to replace all images within a provided image with a different intellectual property (IP) provided in a separate reference image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773643972646_ucw1gr_HDdrQadasAAfoU-.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12177,
+    "content": "Restore this old photo and enhance it with modern, high-quality color tones similar to today's professional cameras.\nAdd natural, vibrant, balanced colors with realistic skin tones and clean highlights.\nImprove lighting, contrast, and depth to match modern\nDSLR/mirrorless camera output.\nRemove all scratches, noise, blur, and fading.\nPreserve the person's identity, facial features, expression, and historical clothing while giving the photo a fresh, newly-captured look.\nIncrease resolution to 4K..",
+    "title": "Old Photo Restoration and Enhancement",
+    "description": "A prompt for Nano Banana 2 focused on restoring and enhancing an old photo. It instructs the model to remove damage, improve lighting and contrast, add modern high-quality color tones, and increase resolution while preserving the subject's identity and historical clothing.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773643974285_62s8a5_HDdhROFbwAEuGzo.jpg",
+      "https://cms-assets.youmind.com/media/1773643974287_4al5ek_HDdhRPybAAAgSVd.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12163,
     "content": "blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair blue hair",
     "title": "Blue Hair Repetition",

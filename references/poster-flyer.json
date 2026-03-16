@@ -20,6 +20,36 @@
     "needReferenceImages": false
   },
   {
+    "id": 12190,
+    "content": "{\n  \"Objective\": \"Create a modern lifestyle split composition poster combining a luxurious smartphone gym selfie with a healthy diet bowl and calorie infographic.\",\n  \"Composition\": {\n    \"layout\": \"vertical split\",\n    \"aspect_ratio\": \"3:4\",\n    \"top_section\": {\n      \"type\": \"smartphone selfie\",\n      \"scene\": \"luxurious modern gym interior\",\n      \"subject\": {\n        \"type\": \"fit athletic woman\",\n        \"pose\": \"mirror selfie holding a smartphone\",\n        \"outfit\": [\n          \"stylish sports bra\",\n          \"high-waisted athletic shorts or leggings\"\n        ],\n        \"appearance\": \"healthy toned physique, post-workout glow\"\n      },\n      \"environment_elements\": [\n        \"modern gym mirrors\",\n        \"minimalist gym equipment\",\n        \"soft natural window light\",\n        \"premium fitness studio interior\"\n      ],\n      \"photography_style\": {\n        \"camera\": \"smartphone\",\n        \"aesthetic\": \"casual candid social media selfie\",\n        \"lighting\": \"natural daylight mixed with indoor gym lighting\",\n        \"imperfections\": [\n          \"slight smartphone noise\",\n          \"natural reflections in mirror\",\n          \"subtle motion softness\"\n        ]\n      }\n    },\n    \"bottom_section\": {\n      \"type\": \"food photography with infographic\",\n      \"scene\": \"healthy breakfast bowl on wooden table\",\n      \"food_bowl\": {\n        \"ingredients\": [\n          \"strawberries\",\n          \"blueberries\",\n          \"banana slices\",\n          \"granola\",\n          \"yogurt base\"\n        ],\n        \"presentation\": \"clean top-down food photography\"\n      },\n      \"infographic\": {\n        \"position\": \"next to the bowl\",\n        \"style\": \"minimal clean nutrition infographic\",\n        \"elements\": [\n          {\n            \"label\": \"Banana\",\n            \"calories\": \"90 kcal\"\n          },\n          {\n            \"label\": \"Strawberries\",\n            \"calories\": \"50 kcal\"\n          },\n          {\n            \"label\": \"Blueberries\",\n            \"calories\": \"60 kcal\"\n          },\n          {\n            \"label\": \"Granola\",\n            \"calories\": \"180 kcal\"\n          },\n          {\n            \"label\": \"Yogurt\",\n            \"calories\": \"120 kcal\"\n          },\n          {\n            \"label\": \"Total\",\n            \"calories\": \"500 kcal\"\n          }\n        ]\n      },\n      \"photography_style\": {\n        \"camera_angle\": \"top-down flat lay\",\n        \"lighting\": \"soft natural kitchen light\",\n        \"style\": \"clean healthy food photography\"\n      }\n    }\n  },\n  \"Aesthetic\": {\n    \"theme\": \"modern fitness lifestyle\",\n    \"color_palette\": [\n      \"soft neutrals\",\n      \"natural wood tones\",\n      \"fresh fruit colors\",\n      \"clean white accents\"\n    ]\n  },\n  \"Rendering\": {\n    \"style_keywords\": [\n      \"fitness lifestyle collage\",\n      \"luxury gym selfie\",\n      \"healthy food photography\",\n      \"nutrition infographic\",\n      \"social media aesthetic\"\n    ],\n    \"realism\": \"photorealistic\",\n    \"detail_level\": \"high detail textures\",\n}",
+    "title": "Modern Lifestyle Split Poster Prompt for Nano Banana Pro",
+    "description": "A highly detailed structured JSON prompt for Nano Banana Pro designed to create a split composition poster. The top section features a luxurious smartphone gym selfie of a fit woman, and the bottom section displays a healthy diet bowl with a clean calorie infographic, emphasizing a modern fitness lifestyle aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773643982875_l50puq_HDeQc8lXoAAMA1N.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12222,
+    "content": "A modern cinematic poster featuring five stylish models standing in a row, each separated by semi-transparent vertical panels that distort their silhouettes slightly. The background is a gradient of deep and light blue tones. Models are dressed in elegant contemporary outfits: {argument name=\"outfits\" default=\"red dress, maroon leather coat, red jumpsuit, gray suit with turtleneck, and black blazer with white pants\"}. Dramatic soft studio lighting highlights their faces and outfits. Minimal shadows on the floor, high-fashion composition, cinematic perspective, sleek and polished aesthetic.",
+    "title": "Cinematic Poster of Five Models with Vertical Panel Distortion",
+    "description": "A prompt for Nano Banana Pro to generate a modern cinematic poster featuring five stylish models separated by semi-transparent vertical panels, set against a blue gradient background with dramatic soft studio lighting and high-fashion composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773644000977_6bc5c5_HDdXxmaaEAAw5AL.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12206,
+    "content": "double exposure portrait of the character(reference image) in side profile looking left, blending into bare tree branches, surreal artistic composition, inside the silhouette a peaceful lake landscape with mountains and mist, a small character(of the same reference image) in a standing on mossy rocks holding a curved tree trunk, dreamy atmosphere, soft natural light, minimal white background, ethereal and poetic mood, fine art photography, ultra detailed, cinematic lighting, high resolution, poster design.",
+    "title": "Double Exposure Portrait with Tree Branches and Landscape",
+    "description": "A prompt for a surreal, fine art photography style double exposure portrait, blending a character's side profile with bare tree branches and a peaceful lake landscape inside the silhouette, emphasizing dreamy atmosphere and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773643992094_wqh9pr_HDak7ytaMAQTAy3.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12167,
     "content": "Create a breathtaking ultra-premium cinematic 3D brand advertisement masterpiece in Nano Banana Pro style, hyper-detailed and perfectly polished.\n\nOne charismatic stylized heroic main character as the absolute star of the image, confidently standing or dramatically posed on top of one gigantic oversized hero product object inspired by {argument name=\"brand name\" default=\"TYPE BRAND NAME\"}. The hero product must be massively scaled, extremely dominant in the frame, instantly readable as the powerful central visual statement, with intricate surface details and premium material realism.\n\nExtreme minimalism with massive negative space, perfect visual hierarchy, and clean centered composition. Dramatic low-angle hero perspective that makes everything feel epic and aspirational.\n\nSophisticated clean background using the exact official {argument name=\"brand color palette\" default=\"BRAND\"} color palette, identity, and aesthetic.\n\nShow the official {argument name=\"brand logo\" default=\"BRAND\"} logo only once, perfectly integrated in an elegant position (never repeated). If no logo file is provided, generate the latest accurate official logo version. Place one powerful elegant 3-word slogan right next to the logo, rendered with flawless brand-authentic typography, perfect kerning, spacing, proportion, and premium visual treatment.\n\nUltra-premium 3D animation render style mixed with Unreal Engine 5 and Octane quality, dramatic cinematic commercial lighting with beautiful rim lights, soft volumetric god rays, subtle lens flare, and high-contrast mood. Razor-sharp 8K details, perfect focus, luxurious aspirational atmosphere, strong negative space, no clutter whatsoever, no extra text, no watermark.\n\nMasterpiece, best quality, commercial campaign level, award-winning visual.",
     "title": "Ultra-Premium Cinematic 3D Brand Advertisement Prompt for Nano Banana Pro",
@@ -29,6 +59,16 @@
       "https://cms-assets.youmind.com/media/1773556654449_ygbfps_HDabI5pbQAAljoT.jpg",
       "https://cms-assets.youmind.com/media/1773556654579_vlqjow_HDabI5yaMAMTSzU.jpg",
       "https://cms-assets.youmind.com/media/1773556655075_rqt4cv_HDabI5yboAAxXSb.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12188,
+    "content": "Make a hyper-realistic cinematic movie poster of a powerful young female sorcerer bursting through a cracked Queen of Spades playing card. The card explodes outward with stone fragments, dust, and debris frozen mid-air. SHe wears an ornate royal maroon and gold embroidered mediaeval fantasy jacket, rich fabric textures, intricate detailing, regal and Comme mystical.The sorcerer extends one hand forward toward the viewer, fingers glowing with intense magical energy, subtle golden sparks and dark arcane aura surrounding the hand. Intense piercing gaze, confident and dominant expression, cinematic hero framing. Dramatic chiaroscuro lighting, dark moody background, volumetric light rays, ultra-detailed textures, shallow cinematic depth of field. Photorealistic face, epic fantasy realism, movie poster composition, high contrast, dynamic motion, . dust particles, masterpiece quality, ultra-sharp focus, 8K resolution, cinematic color grading.",
+    "title": "Female Sorcerer Movie Poster",
+    "description": "A prompt for Nano Banana Pro to generate a hyper-realistic cinematic movie poster featuring a powerful female sorcerer bursting dynamically through a cracked Queen of Spades playing card, emphasizing dramatic lighting, intricate medieval fantasy attire, and magical energy effects.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773643981276_xt5huj_HDaQx9PaMAIRCOJ.jpg"
     ],
     "needReferenceImages": false
   },

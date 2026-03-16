@@ -1,5 +1,26 @@
 [
   {
+    "id": 12207,
+    "content": "Cute stylized 3D collectible figurine inspired by a football star, with stylized hair and a sporty outfit, sitting casually on a tiny gaming chair holding a game controller. A small gaming setup with RGB keyboard, monitor, and headphones sits beside him. The scene is arranged on a wooden desk with warm ambient lighting, shallow depth of field, cozy gamer room background with blurred neon lights, Pixar-style 3D render, glossy collectible toy finish, cinematic lighting, ultra-detailed designer toy photography.",
+    "title": "Stylized 3D Collectible Figurine",
+    "description": "A prompt for generating a cute, stylized 3D collectible figurine of a football star, sitting in a gaming chair with a small gaming setup, rendered in a Pixar-style with glossy finish and cinematic lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773643992798_06trdb_HDdoNMTbwAAZbqP.jpg",
+      "https://cms-assets.youmind.com/media/1773643992871_g2kr21_HDdoB0qa4AAGxo8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12225,
+    "content": "2x2 grid, do this for 4 titles in a famous comic universe: <spatial_map>\n    [ VERTICAL SCENIC BACKDROP (BOOK COVER) ]\n    |      (Floating Label: [{argument name=\"issue title\" default=\"ISSUE_TITLE\"} | {argument name=\"year\" default=\"YEAR\"}])\n    |                                            |\n    |      [3D TOY: {argument name=\"hero\" default=\"HERO\"}] vs [3D TOY: {argument name=\"villain\" default=\"VILLAIN\"}]   |\n    |          \\__ [3D PLASTIC FX] __/           |\n    |                                            |\n ---+--------------------------------------------+---\n   /    [OPEN BOOK PAGES WITH COMIC PANELS]     /\n  /                                            /\n /      [ FLOATING 3D TEXT: [SFX_WORD]! ]     /\n/____________________________________________/\n</spatial_map>\nInstruction: Render a photorealistic 3D diorama matching this exact structural geometry.",
+    "title": "3D Diorama of Comic Book Covers and Toys",
+    "description": "A complex, structured prompt instructing Nano Banana to visualize the DC Universe using a specific structural geometry: a 3D diorama featuring a vertical scenic backdrop (book cover), 3D toys of heroes and villains, and open book pages with comic panels, all rendered photorealistically.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773644002665_1tsrk3_HDVRONvaMAEQF_a.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12157,
     "content": "A cinematic macro toy-photography scene.\nA bean-sized version of the uploaded reference character is sprinting dramatically across the surface of a giant open comic book featuring panels of the same character.\n\nLikeness Preservation (CRITICAL)\nThe identity of the character must remain exactly the same as the reference in both:\n• the miniature physical character\n\n• the comic panels printed on the page\nMaintain the exact:\n• head shape\n\n• eye shape and spacing\n\n• stylization\n\n• silhouette\n\n• materials and clothing design\nIf the character wears a balaclava, mask, helmet, or covered face, the comic panels must not invent facial anatomy.\nNo added nose.\n\nNo added mouth.\n\nNo visible skin where the reference does not show it.\nThe comic panels must depict the same exact design language of the character, only rendered as printed comic artwork.\nDo not humanize the character.\n\nDo not reinterpret anatomy.\nSubject & Action\nThe miniature character runs across the page as if traversing its own story.\nOversized comic panels surround the character, each showing dynamic action poses of the same character, rendered in bold comic-book style.\n\nCamera & Perspective\nLow-angle macro close-up shot, camera positioned almost at page level.\nShot with a 90–100mm macro lens, giving the tiny character a heroic sense of scale.\nThe character sits slightly off-center, leaning forward in motion.\n\nDepth of Field\nExtremely shallow depth of field.\nThe running miniature character and the immediate section of the comic page are razor sharp.\nThe surrounding panels and distant page edges fall into soft blur.\n\nLighting\nSharp cinematic directional light from the top left, casting dramatic shadows across the comic page and creating small glints on the glossy print surface.\n\nEnvironment & Surface Detail\nMacro-level detail of the printed comic page:\nink texture\n\npaper fibers\n\nsubtle gloss reflections\nColor Grade\nRich saturated comic-book colors with warm cinematic highlights and soft ambient glow.\nMoody macro photography atmosphere.\n\nRendering Style\nPhotorealistic macro toy photography aesthetic, emphasizing scale illusion between the tiny character and the giant comic book world.\nar 5:4",
     "title": "Macro Toy Photography: Beast Escaping Comic Panel",
