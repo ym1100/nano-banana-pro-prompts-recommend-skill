@@ -1,5 +1,15 @@
 [
   {
+    "id": 12363,
+    "content": "While the cherry blossoms are blooming, {argument name=\"character name\" default=\"Haruka\"} is walking around town eating a chocolate crepe.\n\nShe is pointing at the reader, as if saying, \"New serialization starts this week!!\"",
+    "title": "Manga Magazine Cover Prompt for Nano Banana Pro",
+    "description": "A prompt used with Nano Banana Pro to generate a cover for a manga weekly magazine featuring a character named Haruka, walking and eating a chocolate crepe under cherry blossoms, pointing at the reader, and announcing a new series start.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729535319_624f81_HDfJEjcbMAAmogj.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12225,
     "content": "2x2 grid, do this for 4 titles in a famous comic universe: <spatial_map>\n    [ VERTICAL SCENIC BACKDROP (BOOK COVER) ]\n    |      (Floating Label: [{argument name=\"issue title\" default=\"ISSUE_TITLE\"} | {argument name=\"year\" default=\"YEAR\"}])\n    |                                            |\n    |      [3D TOY: {argument name=\"hero\" default=\"HERO\"}] vs [3D TOY: {argument name=\"villain\" default=\"VILLAIN\"}]   |\n    |          \\__ [3D PLASTIC FX] __/           |\n    |                                            |\n ---+--------------------------------------------+---\n   /    [OPEN BOOK PAGES WITH COMIC PANELS]     /\n  /                                            /\n /      [ FLOATING 3D TEXT: [SFX_WORD]! ]     /\n/____________________________________________/\n</spatial_map>\nInstruction: Render a photorealistic 3D diorama matching this exact structural geometry.",
     "title": "3D Diorama of Comic Book Covers and Toys",

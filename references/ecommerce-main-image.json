@@ -1,5 +1,53 @@
 [
   {
+    "id": 12335,
+    "content": "Prompt1 : 3D floating cosmetic bottle, gradient from juicy strawberry red to fresh kiwi green, modern white typography, background with strawberries and kiwi slices, bright airy lighting --ar 2:3 --stylize 400\n\nPrompt 2: 3D floating cosmetic bottle, gradient from cherry blossom pink to lychee white, modern white typography, background with cherry blossoms and lychee fruits, soft airy lighting --ar 2:3 --stylize 400\n\nPrompt 3: 3D floating cosmetic bottle, gradient from creamy coconut white to pineapple yellow, modern white typography, background with coconut halves and pineapple rings, tropical airy lighting --ar 2:3 --stylize 400\n\nPrompt 4: 3D floating cosmetic bottle, gradient from deep cherry red to grape purple, modern white typography, background with cherries and grapes, glossy airy lighting --ar 2:3 --stylize 400\n\nPrompt 5: 3D floating cosmetic bottle, gradient from cherry blossom pink to lychee white, modern white typography, background with cherry blossoms and lychee fruits, soft airy lighting --ar 2:3 --stylize 400",
+    "title": "3D Floating Cosmetic Bottle Product Shots",
+    "description": "A set of five similar prompts for Nano Banana Pro, designed to generate 3D floating cosmetic bottles with fruit-themed gradients and backgrounds, using specific aspect ratios and stylization values for professional product visualization.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729521877_t4033k_HDi3iF-a8AAXBJh.jpg",
+      "https://cms-assets.youmind.com/media/1773729521960_aeny71_HDi3iFuasAAHNue.jpg",
+      "https://cms-assets.youmind.com/media/1773729521944_c0p2rc_HDi3iEqawAAchfj.jpg",
+      "https://cms-assets.youmind.com/media/1773729522626_037koc_HDi3iGhbUAAleat.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12333,
+    "content": "A centrally placed pink cosmetic jar labeled “LANEIGE Lip Sleeping Mask [Berry] 3 g” sits on top of a large spiral swirl of white whipped cream. The jar features a matte translucent pink container with minimalist white typography and a square shape with rounded corners. From above, a thick, glossy red berry syrup pours straight down onto the top of the jar, slowly flowing along the sides with visible droplets and shiny liquid trails.\n\nAround the whipped cream are various fresh berries, including raspberries, halved strawberries with green leaves, and dark cherries with stems. Some fruits appear slightly floating or gently resting against the whipped cream.\n\nThe composition is centered, with the jar positioned exactly in the middle of the white cream spiral, while the fruits are asymmetrically arranged around it.\n\nThe background is a soft, solid light pink studio backdrop with a minimalist aesthetic and subtle blurred red shapes in the foreground. Soft, even studio lighting creates gentle shadows and strong glossy reflections on the syrup and jar.\n\nExtremely detailed textures of whipped cream, fruit, and liquid, commercial cosmetic product photography, sharp focus, high resolution, realistic textures, professional advertising photo.",
+    "title": "Commercial Cosmetic Product Photography Prompt",
+    "description": "A detailed prompt for generating commercial cosmetic product photography featuring a pink cosmetic jar on a swirl of whipped cream, with red berry syrup pouring over it and various fresh berries arranged around the composition, emphasizing high resolution, realistic textures, and professional studio lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729521460_mk3gsw_HDhRyeEaIAAW8dL.jpg",
+      "https://cms-assets.youmind.com/media/1773729521465_r8581a_HDhRyevakAAmnID.jpg",
+      "https://cms-assets.youmind.com/media/1773729521449_mk8zvb_HDhRyelawAAs5vz.jpg",
+      "https://cms-assets.youmind.com/media/1773729522143_sulq8a_HDhRyfbbkAA3DCP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12321,
+    "content": "A premium advertising campaign photograph featuring a beautiful western woman slightly behind the KitKat sponge logo, both hands elegantly presenting the product toward camera, premium brand campaign composition.",
+    "title": "Premium Advertising Campaign Photograph",
+    "description": "A prompt for Google Gemini Nano Banana 2 to generate a premium advertising photograph featuring a beautiful Western woman elegantly presenting a KitKat sponge logo, emphasizing a high-quality brand campaign composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729515909_dimgge_HDgzPf-bAAAgZLd.jpg",
+      "https://cms-assets.youmind.com/media/1773729516115_l5x7qv_HDgzPinacAAzHcU.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12340,
+    "content": "{\n  \"type\": \"photorealistic skincare product photography\",\n  \"product\": {\n    \"name\": \"VOIS – tsunami hydration\",\n    \"container\": \"blue cosmetic cream jar\",\n    \"position\": \"diagonally placed and partially embedded in fresh white snow\",\n    \"details\": \"light hoarfrost and frozen condensation crystals on the jar surface\"\n  },\n  \"scene\": {\n    \"environment\": \"soft powdery snow with sparkling ice crystals\",\n    \"elements\": \"small blue primrose flowers with green leaves scattered around, some partially buried\",\n    \"background\": \"clean minimal snowy bokeh with cold airy atmosphere\"\n  },\n  \"lighting\": \"bright winter side sunlight creating crisp highlights and soft natural shadows\",\n  \"camera\": {\n    \"lens\": \"85mm macro\",\n    \"aperture\": \"f/2.8\",\n    \"iso\": 100,\n    \"depth_of_field\": \"shallow\"\n  },\n  \"style\": \"premium commercial skincare advertisement, cinematic macro composition\",\n  \"quality\": \"ultra-detailed, photorealistic, 8K\",\n  \"constraints\": [\"no people\", \"no text overlays\", \"minimal background\"]\n}",
+    "title": "Photorealistic Skincare Product Photography in Snow",
+    "description": "A structured JSON prompt for generating photorealistic macro product photography of a blue cosmetic cream jar partially embedded in fresh white snow, emphasizing winter lighting, shallow depth of field, and a premium commercial aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729525262_9veogi_HDfoYnIbcAAPQk4.jpg",
+      "https://cms-assets.youmind.com/media/1773729525252_xdluer_HDfoYnEbcAATA_H.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12168,
     "content": "3–4 identical units of the product floating in mid-air, surrounded by fresh {argument name=\"ingredient type\" default=\"fruit/vegetable\"} and sliced pieces that the product is made from, ingredients suspended around the product, dynamic balanced composition, ultra-clean pure white background, no gradients, no color cast, soft studio lighting, realistic soft shadows beneath floating objects, glossy packaging reflections, juicy ingredient textures, premium skincare editorial style, hyper-realistic product photography, macro detail, sharp focus, commercial advertising quality, minimal composition, 8k, 1:1",
     "title": "Hyper-realistic Product Ad Photography",

@@ -10,6 +10,96 @@
     "needReferenceImages": false
   },
   {
+    "id": 12309,
+    "content": "Create A Cinematic Fashion-editorial Portrait Of A Person Using Their Photo As Identity Reference, Rendered In A Clean Flat Vector Illustration Style With Smooth Geometric Shapes, Crisp Outlines, And Simplified Facial Geometry, Framing Centered Head-and-shoulders Composition With Symmetrical Alignment, Subject Facing Forward With Relaxed Posture And A Subtle Friendly Smile Styling Minimal Modern Casual With A Simple Dark Crew-neck Shirt And Thin Round Eyeglasses, Paired With Small Wireless Earbuds As Understated Accessories, Background A Flat Warm Beige Studio Tone (#ebdbc6) With No Gradients Or Textures To Maintain A Graphic Design Aesthetic, Lighting Implied Through Stylized Flat Color Blocking Rather Than Realistic Shading, With A Gentle Warm Highlight Tone (-4800k) On One Side Of The Face And A Slightly Darker Tonal Block On The Opposite Side To Create Minimal Dimensional Contrast, Reflections Extremely Subtle On The Glasses Lenses, Lens Simulation Conceptually Equivalent To A Neutral Portrait Crop (50-70mm) Translated Into A Flat Graphic Design Perspective With No Depth Blur; Texture Perfectly Smooth Matte Vector Surfaces With Solid Color Fills And Clean Edges, Color Palette Warm Skin Tones, Muted Peach And Coral Accents, Charcoal Black Hair And Clothing, And Soft Beige Background, Overall Mood Friendly, Approachable, Modern Tech-avatar Aesthetic Suitable For Product Design Or Ui Identity Illustration Editorial, Modern, High-detail, Cinematic Composition, Ultra-realistic Textures, Professional Fashion Photography Style",
+    "title": "Cinematic Vector Fashion Portrait",
+    "description": "A highly detailed, structured prompt for Nano Banana Pro to generate a cinematic fashion-editorial portrait in a clean, flat vector illustration style, using a reference photo for identity and specific color blocking for lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729510053_0fgman_HDi6CJ9bcAA4LSI.jpg",
+      "https://cms-assets.youmind.com/media/1773729510062_lp9qpo_HDi6CMaaoAAAXoo.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12349,
+    "content": "High-quality stylized 3D CGI big-head cartoon render of Harry Potter, square profile picture composition, oversized head and small shoulders in a playful Pixar-style caricature. Head and facial features exaggerated while keeping him instantly recognizable: messy dark hair, round glasses, lightning-shaped scar on the forehead, curious and brave expression. Portrait framing focused on the large head with a small portion of the shoulders visible, wearing Hogwarts robe collar and tie. Smooth polished materials, glossy animated film shading with refined Pixar-style character rendering. Soft cinematic lighting creating gentle highlights on the glasses. Minimalist bright magical red background inspired by Hogwarts colors, clean composition optimized for social media profile pictures, ultra-detailed, no text, no watermark.",
+    "title": "3D CGI Big-Head Cartoon of Harry Potter",
+    "description": "A prompt for generating a high-quality stylized 3D CGI big-head cartoon render of Harry Potter in a playful Pixar-style caricature, emphasizing exaggerated features, smooth polished materials, cinematic lighting, and a minimalist bright magical red background.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729528329_c7pbs2_HDivwYBW8AEX1sC.jpg",
+      "https://cms-assets.youmind.com/media/1773729528341_max3wn_HDivw1SXgAAoF_p.jpg",
+      "https://cms-assets.youmind.com/media/1773729528644_vxcuav_HDivzmIW8AAQ96-.jpg",
+      "https://cms-assets.youmind.com/media/1773729529109_yhna7f_HDiv0C6bMAAFIv6.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12319,
+    "content": "A highly realistic smartphone selfie photo of a Caucasian woman in her mid-20s, captured in a vertical 4:5 aspect ratio. The camera is held at a slightly high angle with an arm-extended perspective, using a wide-angle smartphone lens (around 24–28mm). The framing shows her from head to mid-torso, with sharp focus on her face and a slightly softer background.\n\nShe has fair-light skin with warm-neutral undertones, smooth natural texture, and a subtle glow from soft daylight. Her cheeks have a gentle pink flush. Her face is oval-shaped with a soft jawline, medium forehead, slightly full cheeks, and a rounded chin.\n\nHer eyes are light green with hints of hazel, almond-shaped, with long defined lashes and mascara. Her eyebrows are light brown, medium thickness, softly arched, and well-groomed. She has a straight nose with a slightly rounded tip, proportional in size. Her lips are full (especially the lower lip), natural pink in color, with a slightly glossy hydrated look. She is smiling naturally with visible straight white teeth, giving a friendly, confident, relaxed expression, with slightly squinting eyes due to the smile.\n\nHer hair is shoulder-length, dark blonde with lighter blonde highlights (balayage), styled in soft waves with a center part, naturally framing her face.\n\nShe has a slim to average build, visible from head to mid-torso, with a relaxed posture slightly angled toward the camera.\n\nShe is wearing a fitted white short-sleeve t-shirt made of soft cotton, slightly stretchy, tightly fitted. The shirt has bold red block serif text in all caps on the chest reading: “YES THEY ARE REAL”. She also wears a thin gold chain necklace with a small subtle pendant.\n\nThe lighting is natural daylight coming from the front-left, soft and diffused, creating even illumination on her face with gentle shadows and natural highlights.\n\nThe background is an indoor home setting, likely a kitchen/living area. Visible elements include a light-colored kitchen counter, white modern bar stools, a dark refrigerator (black or stainless steel) with small items or magnets attached, muted green/gray walls, light brown wooden door trim, and medium warm brown wooden flooring. The background has moderate depth and is slightly blurred.\n\nThe overall color palette includes white, red, natural skin tones, green-gray walls, wood browns, and dark appliance tones. The image style is highly realistic with minimal editing, high clarity, low noise, and natural contrast.",
+    "title": "Highly Realistic Smartphone Selfie of a Woman",
+    "description": "A detailed, multi-section prompt for Nano Banana 2 to generate a highly realistic smartphone selfie of a Caucasian woman, specifying composition, lighting, physical features, clothing, and background details for a natural, high-clarity image.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729515731_a51lqo_HDicbNsbIAA9Ndr.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12313,
+    "content": "{\n  \"meta\": {\n    \"camera\": \"iPhone 17 Pro Max\",\n    \"lens\": \"24mm wide\",\n    \"aspect_ratio\": \"4:3\",\n    \"style\": \"raw iphone mirror snap, zero polish, dark influencer realism\",\n    \"quality\": \"ultra photorealistic\",\n    \"color_science\": \"authentic iphone HDR, deep contrast, natural skin texture\"\n  },\n\n  \"character_lock\": {\n    \"face\": \"pale complexion, alternative beauty, confident playful expression\",\n    \"body\": \"extreme hourglass silhouette, very narrow waist, significant bust volume, pronounced hips and glute shape\",\n    \"hair\": \"dark hair slicked back, slightly wet look\",\n    \"tattoos\": \"large neo-traditional chest piece across collarbones, symmetrical mandala abdomen tattoo with rabbit motif, full sleeve blackwork tattoos\"\n  },\n\n  \"scene\": {\n    \"location\": \"dim apartment bathroom\",\n    \"time\": \"1:14 AM\",\n    \"lighting_temperature\": \"warm overhead bulb 3000K + subtle phone screen glow\",\n    \"atmosphere\": \"quiet, after-going-out energy\"\n  },\n\n  \"composition\": {\n    \"angle\": \"mirror selfie, slightly low and tilted\",\n    \"framing\": \"mid-thigh to head, imperfect crop\",\n    \"imperfections\": [\n      \"mirror water spots\",\n      \"counter clutter slightly visible\",\n      \"minor motion blur from hand movement\",\n      \"uneven lighting falloff\"\n    ]\n  },\n\n  \"subject\": {\n    \"pose\": \"standing relaxed with hip popped, one shoulder forward\",\n    \"expression\": \"playful confident smirk, slight squint, tongue barely peeking\",\n    \"outfit\": {\n      \"top\": \"tight black cropped tank, thin cotton, no bra, natural fabric tension\",\n      \"bottom\": \"low-rise black lounge shorts, hugging hips\"\n    },\n    \"details\": \"tattoos fully visible and undistorted, visible oblique definition, natural skin texture with subtle sheen\"\n  },\n\n  \"photography\": {\n    \"depth_of_field\": \"natural smartphone depth, background slightly soft\",\n    \"grain\": \"light low-light grain retained\",\n    \"handheld_realism\": true,\n    \"not_overprocessed\": true\n  }\n}",
+    "title": "Raw iPhone Mirror Selfie Realism",
+    "description": "A detailed JSON prompt structure for Nano Banana 2 focusing on generating an ultra-photorealistic, dark influencer-style mirror selfie with specific camera settings, character details (tattoos, body shape), and scene imperfections to achieve a raw, handheld realism aesthetic.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729512444_kfr17i_HCfEbrKWYAA59vi.jpg",
+      "https://cms-assets.youmind.com/media/1773729512490_qx7ows_HCfEbaqa0AAMaka.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12345,
+    "content": "Transform the person from the reference photo into a modern anime vector illustration while preserving the exact facial identity.\nChange the pose to a dramatic side profile with the head tilted upward, eyes closed, relaxed emotional expression as if listening to music.\nAdd black over-ear headphones.\nStylized messy anime hair, smooth skin shading, sharp jawline, clean cel shading.\nMinimalist bold red background, dramatic cinematic lighting, high contrast shadows.Transform the person from the reference photo into a modern anime vector illustration while preserving the exact facial identity.\nChange the pose to a dramatic side profile with the head tilted upward, eyes closed, relaxed emotional expression as if listening to music.\nAdd black over-ear headphones.\nStylized messy anime hair, smooth skin shading, sharp jawline, clean cel shading.\nMinimalist bold red background, dramatic cinematic lighting, high contrast shadows.",
+    "title": "Transform Photo into Modern Anime Vector Illustration",
+    "description": "A prompt requiring a reference photo to transform a person's facial identity into a modern anime vector illustration, changing the pose to a dramatic side profile with closed eyes and adding black over-ear headphones, set against a minimalist bold red background with high contrast shadows.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729527002_v2lwvd_HDh1bxRa8AAx61Q.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12358,
+    "content": "A woman who likes Japanese rock music. The type who quietly listens at the back of the venue with a beer in hand. Hobbies include music, smoking, and motorcycles. She wants to be called 'cool' rather than 'cute.' She is surprisingly sweet in front of the person she likes.",
+    "title": "Character Description for Rock Music Fan",
+    "description": "A detailed character description of a female Japanese rock fan who prefers listening from the back with a beer, enjoys music, smoking, and motorcycles, and wants to be called 'cool' rather than 'cute.' This description was used as a prompt for both Nano Banana Pro and Nano Banana 2.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729532619_aucqlg_HDhUYYFbYAAO6q2.jpg",
+      "https://cms-assets.youmind.com/media/1773729532656_ry5vmw_HDhUYYEaYAA5OAv.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12352,
+    "content": "Smart professional ID photo, overall style referencing American ID photos, with the subject size being moderate. Use a subtle gray-to-white gradient photographic background, soft and natural lighting, highlighting realistic skin tone and layering. The image should be clear and high-quality, with the face in focus, transparent and good skin texture, and a comfortable, normal head-to-shoulder ratio. The overall temperament is modern and elegant, with a relaxed, naturally confident expression and bright, expressive eyes. Medium shot portrait, moderate subject size, centered subject, low contrast, presenting the refined quality of professional portrait photography. Suitable for business and professional headshots. Aspect ratio 3:4",
+    "title": "Professional ID Photo Generation Prompt for Nano Banana 2",
+    "description": "A prompt designed to generate professional, high-quality ID photos suitable for platforms like LinkedIn, using the Nano Banana 2 model. It specifies a smart, professional style, soft natural lighting, a subtle gray-to-white gradient background, and focuses on clear facial features, good skin texture, and a relaxed, confident expression. The output is intended to be a refined professional portrait.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729530209_m9knv5_HDgFfCAaoAAN_X2.jpg",
+      "https://cms-assets.youmind.com/media/1773729530199_5mj807_HDgEaI7boAAMt9R.jpg",
+      "https://cms-assets.youmind.com/media/1773729530231_t14jzr_HDgEPN2bUAA2uUt.jpg",
+      "https://cms-assets.youmind.com/media/1773729530999_qtlbwb_HDgFhUZaEAA5ubw.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12318,
+    "content": "Restore this old photo into professional portrait of DLSR - quality colour and detail, using an advanced upscaling algorithm comparable to the results from canon EOS R6 II. Ensure the restored the image looks natural, retains exact facial features, has great clarity......",
+    "title": "Professional Photo Restoration and Upscaling",
+    "description": "A prompt for nano-banana-pro to restore an old photo into a professional, high-quality portrait using advanced upscaling algorithms, ensuring natural results and retention of exact facial features.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729514440_zw75mb_HDfqanlaMAEF_AL.jpg",
+      "https://cms-assets.youmind.com/media/1773729514648_233qcx_HDfqausaIAARpKK.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12221,
     "content": "{\n  \"meta\": {\n    \"camera\": \"iPhone 17 Pro\",\n    \"lens\": \"48mm\",\n    \"aspect_ratio\": \"3:4\",\n    \"style\": \"raw iphone candid, slight flash bounce\",\n    \"quality\": \"ultra photorealistic\"\n  },\n\n  \"character_lock\": {\n    \"face\": \"pale alternative beauty, confident playful expression\",\n    \"body\": \"extreme hourglass silhouette, narrow waist, significant bust volume, pronounced hips\",\n    \"hair\": \"dark slicked-back wet look\",\n    \"tattoos\": \"full chest piece, mandala abdomen tattoo, full sleeve blackwork\"\n  },\n\n  \"scene\": {\n    \"location\": \"industrial loft studio\",\n    \"time\": \"9:43 PM\",\n    \"lighting_temperature\": \"mixed warm industrial lights 3400K\"\n  },\n\n  \"composition\": {\n    \"angle\": \"friend shooting from low seated position\",\n    \"framing\": \"three-quarter body, slight crop at shin\",\n    \"imperfections\": [\"hard flash hotspot on thigh\", \"background clutter faintly visible\"]\n  },\n\n  \"subject\": {\n    \"pose\": \"sitting on studio floor with one knee up\",\n    \"expression\": \"confident smirk, direct eye contact\",\n    \"outfit\": {\n      \"top\": \"deep red mesh long sleeve layered over black bralette\",\n      \"bottom\": \"high-waisted black leather pants, tight fit\"\n    },\n    \"details\": \"tattoos clearly visible through mesh, defined obliques, natural skin sheen\"\n  },\n\n  \"photography\": {\n    \"flash\": \"subtle iphone flash bounce\",\n    \"depth_of_field\": \"compressed portrait feel from 48mm\",\n    \"handheld_realism\": true\n  }\n}",
     "title": "Ultra Photorealistic iPhone Candid of Alternative Beauty in Mesh Top",

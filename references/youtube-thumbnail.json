@@ -1,5 +1,28 @@
 [
   {
+    "id": 12351,
+    "content": "Based on the word “{argument name=\"word\" default=\"[WORD]\"},” design an original decorative cinematic title font that visually evokes the meaning of the word. Use your imagination to create a unique and original design without being limited by existing typefaces. Choose the background color according to the design.",
+    "title": "Decorative Cinematic Title Font Generation",
+    "description": "A prompt template designed to generate an original decorative cinematic title font based on a specific word, visually evoking the meaning of that word, with the background color chosen according to the design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729529792_e6vk8h_HDg46Ggb0AAA08C.jpg",
+      "https://cms-assets.youmind.com/media/1773729529814_iandvr_HDg46GfbEAAoiCs.jpg",
+      "https://cms-assets.youmind.com/media/1773729529843_5uon89_HDg4934agAAL2YH.jpg",
+      "https://cms-assets.youmind.com/media/1773729530376_fzmwic_HDg493lasAAgaPe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12359,
+    "content": "A cute anime-style girl. Brown bob hair with a round silhouette, large, gentle brown eyes. Wearing a stylish blue blazer uniform with a brown bow tie, white socks, and loafers. She is smiling gently, looking at the camera with a bashful, pleasant expression. Front view composition, showing her from the waist up over a desk. The background is a calm atmosphere, like a corner of a cafe with warm light streaming in. Expressing cuteness and healing with sparkling, shojo manga-style depiction and soft colors. As a streaming screen, a semi-transparent chat window and viewer count UI are subtly placed. Aspect ratio 16:9.",
+    "title": "Anime Style Girl in Blazer Uniform Prompt for Nano Banana 2",
+    "description": "A detailed prompt for Nano Banana 2 to generate an image of a cute anime-style girl in a blazer uniform, suitable for use as a streaming screen background, with specific details on appearance, setting, and composition.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729534161_9rww1i_HDd4e_pXUAAICue.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
     "id": 12184,
     "content": "Make a cinematic close-up portrait of a young woman’s face in side profile, wet hair strands on her skin, intense reflective eyes, mathematical formulas and scientific equations projected across her face and neck, glowing white handwritten symbols, physics diagrams and abstract calculations overlay, futuristic holographic projection, dark moody background, dramatic lighting, high contrast, detailed skin texture, cyberpunk science aesthetic, shallow depth of field, volumetric lighting, photorealistic, 8k, film still, sci-fi atmosphere.",
     "title": "Cyberpunk Science Portrait",

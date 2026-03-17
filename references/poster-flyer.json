@@ -20,6 +20,91 @@
     "needReferenceImages": false
   },
   {
+    "id": 12366,
+    "content": "Please design an \"Enka CD jacket\" released by the person shown in the reference image, using them as the same individual.\n\nImportant:\n・Faithfully reproduce the face and features of the person from the reference image\n・Do not be bound by the composition, camera angle, pose, or background of the original image\n・Boldly reconfigure the composition for the new CD jacket\n・Create a highly finished design, like a real Enka CD jacket\n\nDesign Elements:\n・Dramatic and emotional atmosphere typical of Enka\n・Design resembling Showa to modern Enka CD jackets\n・The person should be centrally or impressively placed\n・Strong emotional expression (melancholy, determination, sadness, etc.)\n・The background can be freely changed. It should be an emotional and dramatic background that expresses the world view of Enka.\n\nTitle:\n・Infer from the atmosphere and character of the person in the reference image and create a new \"plausible Enka title\"\n・The title should be displayed prominently on the jacket\n・Japanese title in Enka style\n・Brush-style font\n\nAdditional Elements:\n・Layout like a real CD jacket\n・High quality, print-level quality\n\nStyle:\nJapanese Enka CD jacket\nDramatic lighting\nComposition like a movie poster\nHigh resolution\nProfessional graphic design\n\nDo not display any of the following elements:\n・Barcode\n・Price display\n・JAN code\n・Record company logo\n・CD label logo\n・Copyright notation\n・Release date\n・Model number\n・Product number\n・Campaign sticker\n・Sticker\n・Promotional badge\n・Obi (spine card)\n・Sales label\n・Streaming service logos\n・Icons such as Spotify / Apple Music\n・QR code\n\nText information should only include the \"Enka Title\" and \"Singer Name.\" A \"Subtitle\" may also be displayed.\nNo other characters, symbols, or numbers should be displayed.\nAll sales information typically seen on commercial CD packages is prohibited.",
+    "title": "Enka CD Jacket Design with Nano Banana 2",
+    "description": "A detailed prompt for Nano Banana 2 to create an Enka (Japanese traditional ballad) style CD jacket using a reference image of a person. The prompt specifies design elements, dramatic atmosphere, title requirements (Enka style, brush font), and elements to exclude (barcodes, logos, etc.).",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729536008_9dpnzm_HDkB0VvbEAALDpd.jpg",
+      "https://cms-assets.youmind.com/media/1773729536000_7f776h_HDkBxkUaoAASriN.jpg",
+      "https://cms-assets.youmind.com/media/1773729536040_i80rig_HDkBzDqbgAAXacn.jpg",
+      "https://cms-assets.youmind.com/media/1773729536860_2js86a_HDkB10QaoAA8G_D.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12326,
+    "content": "A coffee's journey board from {argument name=\"origin\" default=\"[ORIGIN]\"} to cup {argument name=\"variety process roaster\" default=\"[VARIETY / PROCESS / ROASTER]\"}.\nThree-panel documentary photography layout, shot on medium format. No illustrations. No flat graphics. No hand-drawn elements.\nLeft panel, The Origin: Aerial and macro photography of a specific hillside farm at {argument name=\"altitude\" default=\"[ALTITUDE]\"}m, morning mist still on the canopy. Extreme close-up of a picker's weathered hands selecting red cherries. Wet mill or raised drying beds photographed mid-process, real equipment, real workers, natural light. Varietal name and altitude typeset in clean serif over the image.\nCenter panel, The Transformation: Burlap sacks stacked in a warehouse, origin ink stamps in focus. Interior of a roastery drum roaster glowing amber through a porthole, heat haze visible. A minimal line graph of the roast curve overlaid in white type, first crack and second crack marked as timestamps. Macro shot of roasted beans mid-pour, steam catching side light.\nRight panel, The Cup: A ceramic pour-over in progress, water threading in a slow spiral, the bloom exhaling upward in real steam. Final cup resting on a worn café table in warm morning window light. Tasting notes [NOTES] set in light italic type floating near the rim, not illustrated, typographic only.\nColor arc: Tropical green → roastery amber → café morning gold. Cinematic color grading, not illustrated.\nTitle block: \"[COFFEE NAME] [FARM], [REGION], [ALTITUDE]M, [PROCESS], [ROAST PROFILE]\" — typeset in bold condensed sans-serif across the top.",
+    "title": "Coffee's Journey Board prompt for Nano Banana 2",
+    "description": "A detailed, multi-panel documentary photography prompt for Nano Banana 2, designed to create a 'Coffee's Journey Board' layout. It specifies three panels (Origin, Transformation, Cup) with detailed photographic instructions, lighting, and typographic requirements, emphasizing realism and avoiding illustration.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729518035_d9jc9v_HDizTpvbAAAJRcZ.jpg",
+      "https://cms-assets.youmind.com/media/1773729518031_hh7l9r_HDizyAjXEAA6HYY.jpg",
+      "https://cms-assets.youmind.com/media/1773729518028_n83miv_HDiziXKWAAAm3k8.jpg",
+      "https://cms-assets.youmind.com/media/1773729518682_jy6iog_HDiz-OJX0AAXKQs.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12303,
+    "content": "close-up headshot of the attached person in a neo-baroque engraved pop portrait style. Use ultra-detailed pen-engraving and etched linework across the skin, hair, clothing, and accessories, mixed with hyper-realistic facial structure. Add oversized round tinted sunglasses in vivid hot pink, luxurious gold detailing, rich ornamental clothing textures, and a dark nearly black background with subtle patterned depth. Use a bold palette of pink, magenta, gold, teal, navy, cream, and white for strong contrast. The image should feel editorial, regal, eccentric, and slightly humorous. Place the person’s name '{argument name=\"name\" default=\"ADD NAME HERE\"}' behind the head in large modern Impact-style bold typography, with colors that complement the portrait and remain clearly readable. Highly detailed, sharp, premium, cinematic, poster-like composition",
+    "title": "Neo-Baroque Engraved Pop Portrait",
+    "description": "A highly detailed prompt for Google Nano Banana Pro to create a close-up, neo-baroque engraved pop portrait of a person based on an attached image, featuring etched linework, vivid colors, and bold typography.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729506836_tnk8ux_HDiLxOubQAAGHjH.jpg",
+      "https://cms-assets.youmind.com/media/1773729506840_guf9ke_HDiLw3SboAAZcYw.jpg",
+      "https://cms-assets.youmind.com/media/1773729506829_yabzp8_HDiLyBPbIAAQeW3.jpg",
+      "https://cms-assets.youmind.com/media/1773729507478_crtkqx_HDiLyRKbYAAqn9q.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
+    "id": 12310,
+    "content": "\"A cinematic, high-resolution studio portrait of a young woman with long, wavy ginger hair, posing confidently against a backdrop of deep emerald green velvet curtains. She wears an intricate, shimmering bodysuit crafted from vibrant green sequins with a plunging V-neckline, paired with a matching sequined tiara-style headband and decorative green leaf-patterned straps wrapped around her upper thighs. The lighting is polished and dramatic, highlighting the texture of the sequins and the soft glow of her skin, while her direct gaze and hands-on-hips stance create a bold, heroic aesthetic reminiscent of a comic book character or theatrical performer.\"",
+    "title": "Green Queen Cinematic Studio Portrait",
+    "description": "A prompt for generating a cinematic, high-resolution studio portrait of a young woman with ginger hair, wearing a vibrant green sequined bodysuit against an emerald green velvet backdrop, designed for Gemini Nano Banana Pro.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729510955_rpg685_HDh05b_bQAA8wW8.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12351,
+    "content": "Based on the word “{argument name=\"word\" default=\"[WORD]\"},” design an original decorative cinematic title font that visually evokes the meaning of the word. Use your imagination to create a unique and original design without being limited by existing typefaces. Choose the background color according to the design.",
+    "title": "Decorative Cinematic Title Font Generation",
+    "description": "A prompt template designed to generate an original decorative cinematic title font based on a specific word, visually evoking the meaning of that word, with the background color chosen according to the design.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729529792_e6vk8h_HDg46Ggb0AAA08C.jpg",
+      "https://cms-assets.youmind.com/media/1773729529814_iandvr_HDg46GfbEAAoiCs.jpg",
+      "https://cms-assets.youmind.com/media/1773729529843_5uon89_HDg4934agAAL2YH.jpg",
+      "https://cms-assets.youmind.com/media/1773729530376_fzmwic_HDg493lasAAgaPe.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12362,
+    "content": "Create decorative text based on the word \"{argument name=\"word\" default=\"\"}\". Write the specified word largely and create decorative text designs associated with the image of the word. Create original designs with flexible ideas, without being constrained by existing fonts. The background should be a single color, white or black, matching the design.",
+    "title": "Infinite Decorative Text Generator Prompt for Nano Banana 2",
+    "description": "A reusable prompt for Nano Banana 2 that generates unique decorative text based on the atmosphere and imagery associated with a specified word. The user just needs to insert the desired word into the brackets.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729534158_ea45p6_HDgDOZYa0AAqMAW.jpg",
+      "https://cms-assets.youmind.com/media/1773729534150_rx332o_HDgDOZdaEAAgfzb.jpg",
+      "https://cms-assets.youmind.com/media/1773729534489_441o7i_HDgDOZjb0AAsL20.jpg",
+      "https://cms-assets.youmind.com/media/1773729534760_wet9m1_HDgCo-oa4AAwXXP.jpg"
+    ],
+    "needReferenceImages": false
+  },
+  {
+    "id": 12329,
+    "content": "Create a high-end stylized digital painting / illustrated poster portrait of the same man. The face must remain 100% identical to the reference photo, preserve exact facial structure, proportions, skin tone, features, age, hairstyle, and identity. Do not modify or beautify the face.\nHalf-body or close-up framing, the man looking slightly upward with a calm, confident expression. Ultra-detailed face with realistic skin texture translated into a refined digital painting style (not cartoonish or exaggerated).\nAdd dynamic blue and orange paint splashes and expressive ink strokes around the portrait.\nBackground: vintage newspaper collage with subtle typography fragments and distressed paper textures, integrated cleanly.\nLighting: cinematic high-contrast with dramatic highlights and controlled shadows.\nColor grading: vibrant blue–orange contrast.\nOutput: ultra-detailed 4K modern illustrated poster, sharp, clean, premium finish.",
+    "title": "High-end stylized digital painting portrait prompt",
+    "description": "A prompt for Nano Banana Pro to create a high-end stylized digital painting/illustrated poster portrait of a man, requiring the face to remain 100% identical to an uploaded reference photo. The style includes dynamic blue and orange paint splashes, a vintage newspaper collage background, and cinematic high-contrast lighting.",
+    "sourceMedia": [
+      "https://cms-assets.youmind.com/media/1773729520030_l3z1kk_HDfqWD9bUAAq-jJ.jpg"
+    ],
+    "needReferenceImages": true
+  },
+  {
     "id": 12190,
     "content": "{\n  \"Objective\": \"Create a modern lifestyle split composition poster combining a luxurious smartphone gym selfie with a healthy diet bowl and calorie infographic.\",\n  \"Composition\": {\n    \"layout\": \"vertical split\",\n    \"aspect_ratio\": \"3:4\",\n    \"top_section\": {\n      \"type\": \"smartphone selfie\",\n      \"scene\": \"luxurious modern gym interior\",\n      \"subject\": {\n        \"type\": \"fit athletic woman\",\n        \"pose\": \"mirror selfie holding a smartphone\",\n        \"outfit\": [\n          \"stylish sports bra\",\n          \"high-waisted athletic shorts or leggings\"\n        ],\n        \"appearance\": \"healthy toned physique, post-workout glow\"\n      },\n      \"environment_elements\": [\n        \"modern gym mirrors\",\n        \"minimalist gym equipment\",\n        \"soft natural window light\",\n        \"premium fitness studio interior\"\n      ],\n      \"photography_style\": {\n        \"camera\": \"smartphone\",\n        \"aesthetic\": \"casual candid social media selfie\",\n        \"lighting\": \"natural daylight mixed with indoor gym lighting\",\n        \"imperfections\": [\n          \"slight smartphone noise\",\n          \"natural reflections in mirror\",\n          \"subtle motion softness\"\n        ]\n      }\n    },\n    \"bottom_section\": {\n      \"type\": \"food photography with infographic\",\n      \"scene\": \"healthy breakfast bowl on wooden table\",\n      \"food_bowl\": {\n        \"ingredients\": [\n          \"strawberries\",\n          \"blueberries\",\n          \"banana slices\",\n          \"granola\",\n          \"yogurt base\"\n        ],\n        \"presentation\": \"clean top-down food photography\"\n      },\n      \"infographic\": {\n        \"position\": \"next to the bowl\",\n        \"style\": \"minimal clean nutrition infographic\",\n        \"elements\": [\n          {\n            \"label\": \"Banana\",\n            \"calories\": \"90 kcal\"\n          },\n          {\n            \"label\": \"Strawberries\",\n            \"calories\": \"50 kcal\"\n          },\n          {\n            \"label\": \"Blueberries\",\n            \"calories\": \"60 kcal\"\n          },\n          {\n            \"label\": \"Granola\",\n            \"calories\": \"180 kcal\"\n          },\n          {\n            \"label\": \"Yogurt\",\n            \"calories\": \"120 kcal\"\n          },\n          {\n            \"label\": \"Total\",\n            \"calories\": \"500 kcal\"\n          }\n        ]\n      },\n      \"photography_style\": {\n        \"camera_angle\": \"top-down flat lay\",\n        \"lighting\": \"soft natural kitchen light\",\n        \"style\": \"clean healthy food photography\"\n      }\n    }\n  },\n  \"Aesthetic\": {\n    \"theme\": \"modern fitness lifestyle\",\n    \"color_palette\": [\n      \"soft neutrals\",\n      \"natural wood tones\",\n      \"fresh fruit colors\",\n      \"clean white accents\"\n    ]\n  },\n  \"Rendering\": {\n    \"style_keywords\": [\n      \"fitness lifestyle collage\",\n      \"luxury gym selfie\",\n      \"healthy food photography\",\n      \"nutrition infographic\",\n      \"social media aesthetic\"\n    ],\n    \"realism\": \"photorealistic\",\n    \"detail_level\": \"high detail textures\",\n}",
     "title": "Modern Lifestyle Split Poster Prompt for Nano Banana Pro",
